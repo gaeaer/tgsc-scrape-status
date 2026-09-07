@@ -1,14 +1,14 @@
 {
   "total_items": 42233,
-  "completed": 6931,
-  "pending": 35300,
+  "completed": 7081,
+  "pending": 35150,
   "failed": 2,
-  "percent": 16.41,
-  "eta": null,
-  "pages_per_hour": null,
-  "last_url": null,
-  "last_completed_at": "2026-09-07T15:37:49.109571+00:00",
-  "updated_at": "2026-09-07T15:37:49.109571+00:00",
-  "built_at": "2026-09-07T16:03:53Z",
-  "source": "db-snapshot"
+  "percent": 16.77,
+  "eta": "62h 4m (≈ Thu Sep 10 06:10)",
+  "pages_per_hour": 566.2,
+  "last_url": "https://www.thegoodscentscompany.com/data/rw1879741.html",
+  "last_completed_at": "2026-09-07T16:05:50.294708+00:00",
+  "updated_at": "2026-09-07T16:05:50.302132+00:00",
+  "built_at": "2026-09-07T16:05:50Z",
+  "source": "live-scrape"
 }
