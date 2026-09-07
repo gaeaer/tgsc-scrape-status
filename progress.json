@@ -1,14 +1,14 @@
 {
   "total_items": 42233,
-  "completed": 7394,
-  "pending": 34837,
+  "completed": 7444,
+  "pending": 34787,
   "failed": 2,
-  "percent": 17.51,
-  "eta": "48h 46m (≈ Wed Sep 09 17:22)",
-  "pages_per_hour": 714.2,
-  "last_url": "https://www.thegoodscentscompany.com/data/ex1717221.html",
-  "last_completed_at": "2026-09-07T16:35:35.861435+00:00",
-  "updated_at": "2026-09-07T16:35:35.868852+00:00",
-  "built_at": "2026-09-07T16:35:35Z",
+  "percent": 17.63,
+  "eta": "48h 45m (≈ Wed Sep 09 17:25)",
+  "pages_per_hour": 713.4,
+  "last_url": "https://www.thegoodscentscompany.com/data/rw1717441.html",
+  "last_completed_at": "2026-09-07T16:39:48.964731+00:00",
+  "updated_at": "2026-09-07T16:39:48.972337+00:00",
+  "built_at": "2026-09-07T16:39:49Z",
   "source": "live-scrape"
 }
