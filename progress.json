@@ -8,12 +8,12 @@
   "pages_per_hour": null,
   "last_url": null,
   "last_completed_at": "2026-09-07T22:26:37.201541+00:00",
-  "updated_at": "2026-09-07T22:26:37.202832+00:00",
-  "built_at": "2026-09-07T22:26:47Z",
+  "updated_at": "2026-09-07T22:27:24.548759+00:00",
+  "built_at": "2026-09-07T22:27:24Z",
   "source": "live-scrape",
-  "run_status": "finished",
-  "run_started_at": "2026-09-07T21:26:20.223971+00:00",
-  "run_finished_at": "2026-09-07T22:26:37.202832+00:00",
+  "run_status": "running",
+  "run_started_at": "2026-09-07T22:27:24.548759+00:00",
+  "run_finished_at": null,
   "run_max_minutes": 60.0,
-  "run_id": 17
+  "run_id": 18
 }
