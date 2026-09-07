@@ -1,14 +1,14 @@
 {
   "total_items": 42233,
-  "completed": 7894,
-  "pending": 34337,
+  "completed": 7927,
+  "pending": 34304,
   "failed": 2,
-  "percent": 18.69,
-  "eta": "50h 7m (≈ Wed Sep 09 19:27)",
-  "pages_per_hour": 685.1,
-  "last_url": "https://www.thegoodscentscompany.com/data/rs1607501.html",
-  "last_completed_at": "2026-09-07T17:19:55.525441+00:00",
-  "updated_at": "2026-09-07T17:19:55.533115+00:00",
-  "built_at": "2026-09-07T17:19:55Z",
+  "percent": 18.77,
+  "eta": null,
+  "pages_per_hour": null,
+  "last_url": null,
+  "last_completed_at": "2026-09-07T17:23:00.702957+00:00",
+  "updated_at": "2026-09-07T17:23:00.710470+00:00",
+  "built_at": "2026-09-07T17:23:00Z",
   "source": "live-scrape"
 }
