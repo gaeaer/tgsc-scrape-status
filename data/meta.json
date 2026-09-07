@@ -1,0 +1,27 @@
+{
+  "built_at": "2026-09-07T14:13:06Z",
+  "progress_updated_at": "2026-09-07T14:13:03Z",
+  "sample_count": 120,
+  "view_count": 7,
+  "sqlite": {
+    "tables": {
+      "schema_version": 2,
+      "scrape_run": 9,
+      "tgsc_item": 42233,
+      "listing": 42233,
+      "chemical_record": 4046,
+      "identifier_assertion": 69660,
+      "name_assertion": 86169,
+      "property_observation": 27524,
+      "sensory_observation": 11588,
+      "occurrence": 11743,
+      "use_level": 20162,
+      "page_section": 19,
+      "validation_issue": 0
+    },
+    "sqlite_bytes": 27209728,
+    "sqlite_gz_bytes": 6785835,
+    "sqlite_mb": 25.95,
+    "sqlite_gz_mb": 6.47
+  }
+}

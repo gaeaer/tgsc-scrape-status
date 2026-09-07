@@ -1,0 +1,3005 @@
+{
+  "updated_at": "2026-09-07T14:13:03Z",
+  "samples": [
+    {
+      "item_id": 4130,
+      "name": "bergamot oil bergaptene reduced italy",
+      "cas": "68648-33-9",
+      "odor_type": "citrus",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Citrus, earl grey tea, fresh, aldehydic This form of bergamot has been rectified to remove the fourocoumarins that cause photosensitivity so that it can be used more freely.",
+          "source": "Pell Wall Perfumes · Bergamot FCF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Citrus, floral, sweet, spicy, green and orange peely, with lemon, lime and ginger nuances Mosciano, Gerard P&F 23, No. 2, 43, (1998)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 25.00 ppm. Citrus,floral, rosy, green, lemon and fatty with a ginger and lime nuance Mosciano, Gerard P&F 23, No. 2, 43, (1998)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1001871.html"
+    },
+    {
+      "item_id": 5109,
+      "name": "butyl acetate",
+      "cas": "123-86-4",
+      "odor_type": "ethereal",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 30.00 ppm. Sweet, ripe banana, tutti frutti, tropical and candy-like with green nuances Mosciano, Gerard P&F 24, No. 2, 49, (1999)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. ethereal solvent fruity banana Luebke, William tgsc, (1989)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sharp, etherial, diffusive, fruity banana Mosciano, Gerard P&F 24, No. 2, 49, (1999)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1019351.html"
+    },
+    {
+      "item_id": 4190,
+      "name": "berry hexanoate",
+      "cas": "104986-28-9",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fruity, Floral, Fresh, Balsamic Berryflor is a floral, fruity, raspberry-like product with jasmine, anise and balsamic aspects. It blends well with floral, woody and musky notes, and with the Isoraldeines and other ionones. It enriches and softens accords in all fields of perfumery.",
+          "source": "Givaudan · Berryflor ®"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fruity floral anisic fresh raspberry jasmin Luebke, William tgsc, (2006)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fruity, Floral-Anisic, Fresh, Balsamin with Jasmine notes",
+          "source": "Tadimety Aromatics · Jasminoberry"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1061362.html"
+    },
+    {
+      "item_id": 1951,
+      "name": "amyl furoate",
+      "cas": "1334-82-3",
+      "odor_type": "anisic",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A fruity, herbaceous odor with a hint of anise For ripe jammy notes in both flavors and fragrances.",
+          "source": "Bedoukian Research · AMYL 2-FUROATE ≥98.0%, Kosher"
+        },
+        {
+          "kind": "taste_description",
+          "text": "fruity Used in licorice, raisin, prune, apricot, chocolate, black currant and ripe berries.",
+          "source": "Bedoukian Research · AMYL 2-FUROATE ≥98.0%, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fennel mild oily fruity herbal",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1003551.html"
+    },
+    {
+      "item_id": 3768,
+      "name": "bean hexene",
+      "cas": "97358-54-8",
+      "odor_type": "green",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "powerful, fresh, green, fruity, herbaceous with a natural leafy note, in dilution reminiscent of green pea pods Stable in: body lotion (good), shampoo (good), soap (very good), ap roll-on (very good), powder (good), cleaner citric (very good), cleaner apc (good), bleach (poor).",
+          "source": "Symrise · Leguminal"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fresh green dusty weedy cortex green bean tomato leaf Luebke, William tgsc, (2009)",
+          "source": null
+        },
+        {
+          "kind": "odor_tag",
+          "text": "bean green bean",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1112931.html"
+    },
+    {
+      "item_id": 5169,
+      "name": "butyl butyrate",
+      "cas": "109-21-7",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fruity banana pineapple green cherry tropical fruit ripe fruit juicy fruit Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "sweet fruity ethereal tropical rummy cherry ripe fruit elderberry fatty Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 40.00 ppm. Sweet, fresh, fruity, slightly fatty Mosciano, Gerard P&F 17, No. 4, 33, (1992)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1014091.html"
+    },
+    {
+      "item_id": 4088,
+      "name": "benzyl isovalerate",
+      "cas": "103-38-8",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 20.00 ppm. Sweet, fruity and balsamic with a tropical and dried fruit nuance Mosciano, Gerard P&F 20, No. 1, 31, (1995)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity and slightly powdery with a musty background Mosciano, Gerard P&F 20, No. 1, 31, (1995)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet fruity apple pineapple herbal Luebke, William tgsc, (1987)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001361.html"
+    },
+    {
+      "item_id": 1291,
+      "name": "allyl isothiocyanate",
+      "cas": "57-06-7",
+      "odor_type": "sulfurous",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "pungent, sharp, horseradish Useful in: savory vegetable, savory spices, savory allium, savory others.",
+          "source": "Symrise · Allinat/Allyl isothiocyanate unstab."
+        },
+        {
+          "kind": "taste_description",
+          "text": "pungent, sharp, horseradish Useful in: savory vegetable, savory spices, savory allium, savory others.",
+          "source": "Symrise · Allinat/Allyl isothiocyanate Toco"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.01 % in propylene glycol. strong pungent mustard",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1002981.html"
+    },
+    {
+      "item_id": 1235,
+      "name": "allyl 2-ethyl butyrate",
+      "cas": "7493-69-8",
+      "odor_type": "fruity",
+      "odor_strength": "medium , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. nut fruit peach-pit cherry-pit ethereal Luebke, William tgsc, (1987)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "ethereal fruity green nutty hazelnut seedy macadamia nut flesh Luebke, William tgsc, (1987)",
+          "source": null
+        },
+        {
+          "kind": "flavor_tag",
+          "text": "macadamia",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1027771.html"
+    },
+    {
+      "item_id": 1195,
+      "name": "allspice berry absolute",
+      "cas": "8006-77-7",
+      "odor_type": "spicy",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Sweet, spicy, aromatic, warm with eugenol and cinnamon notes Mosciano, Gerard P&F 19, No. 2, 55, (1994)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, warm, spicy, woody with clove eugenol nuances Mosciano, Gerard P&F 19, No. 2, 55, (1994)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet warm spice woody clove eugenol",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/ab1054931.html"
+    },
+    {
+      "item_id": 5149,
+      "name": "isobutyl benzoate",
+      "cas": "120-50-3",
+      "odor_type": "balsamic",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fruity, chemical, sweet, cherry fruity, with a balsamic nuance Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 20.00 ppm. Fruity, balsamic, cherry and fruity taste Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet fruity musty powdery balsam Luebke, William tgsc, (1989)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013272.html"
+    },
+    {
+      "item_id": 418,
+      "name": "2-acetyl-3-methyl pyrazine",
+      "cas": "23787-80-6",
+      "odor_type": "nutty",
+      "odor_strength": "high , recommend smelling in a 0.10 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in dipropylene glycol. nutty nut flesh roasted hazelnut toasted grain corn chip vegetable nut skin caramellic Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "nutty Used in soups and sauces at 20ppm, confectionery at 5ppm, meat products at 2ppm, snack foods at 0.25ppm, and desserts at 0.1ppm.",
+          "source": "R C Treatt & Co Ltd · 2-Acetyl-3-methylpyrazine Halal, Kosher"
+        },
+        {
+          "kind": "taste_description",
+          "text": "nutty nut flesh roasted hazelnut toasted grain potato chip baked potato nut skin vegetable Luebke, William tgsc, (2017)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001571.html"
+    },
+    {
+      "item_id": 5476,
+      "name": "isobutyl propionate",
+      "cas": "540-42-1",
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 %. Fruity, sweet, rummy, pungent, bubblegum estry with a tropical nuance Mosciano, Gerard P&F 24, No. 2, 49, (1999)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Sweet, fruity, banana, tutti frutti, with rummy nuances Mosciano, Gerard P&F 24, No. 2, 49, (1999)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fruity green ether sweet tutti frutti banana",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1020241.html"
+    },
+    {
+      "item_id": 1991,
+      "name": "amyl propionate",
+      "cas": "624-54-4",
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet fruity apricot pineapple tropical banana Luebke, William tgsc, (1983)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "fruity jammy banana licorice tropical apricot estery rummy Luebke, William tgsc, (1983)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "mild fruity, somewhat ethereal; apple- and banana-like",
+          "source": "Moellhausen · AMYL PROPIONATE"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1039001.html"
+    },
+    {
+      "item_id": 1202,
+      "name": "allspice leaf oil",
+      "cas": "8006-77-7",
+      "odor_type": "spicy",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Enhanced dry metallic effect of the spicy facet; although not quite as full as the regular oil",
+          "source": "IFF · Pimento Leaf Oil Low Methyl Eugenol"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Pimento Leaf Oil Low Methyl Eugenol",
+          "source": "IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. sweet spicy clove woody phenolic dirty fatty cinnamon aldehydic Luebke, William tgsc, (1998)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1017611.html"
+    },
+    {
+      "item_id": 5534,
+      "name": "2-sec-butyl thiazole",
+      "cas": "18277-27-5",
+      "odor_type": "green",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "green Used 0.005-0.5ppm, in fruit flavours to add a green-unripe note, as well as vegetable flavours, savoury flavours and condiments. Similar to 2-Isobutylthiazole, it is effective in enhancing tomato based products.",
+          "source": "R C Treatt & Co Ltd · 2-sec-Butyl thiazole NI, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in dipropylene glycol. raw green herbal",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Green, herbaceous, spicy, tomato leaf-like",
+          "source": "R C Treatt & Co Ltd · 2-sec-Butyl thiazole NI, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013841.html"
+    },
+    {
+      "item_id": 2288,
+      "name": "para-anisyl formate",
+      "cas": "122-91-8",
+      "odor_type": "spicy",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 50.00 ppm. Sweet, vanilla, spice, with fruity heliotropine-like nuances Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, spicy, vanilla-like with powdery fruity nuances Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fruity floral anisic vanilla seaweed Luebke, William tgsc, (1985)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1020891.html"
+    },
+    {
+      "item_id": 2295,
+      "name": "para-anisyl methyl ketone",
+      "cas": "122-84-9",
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. sweet fruity creamy spicy green anisic balsamic licorice fennel Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Sweet spicy, with green anisic, minty nuances Mosciano, Gerard P&F 15, No. 1, 19, (1990)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity spicy, with anisic balsamic nuances Mosciano, Gerard P&F 15, No. 1, 19, (1990)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005711.html"
+    },
+    {
+      "item_id": 1643,
+      "name": "ambroxan",
+      "cas": "6790-58-5",
+      "odor_type": "amber",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Strong woody amber, sweet earthy, musky odor with a delicate animalic tonality",
+          "source": "IFF · Ambermor"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Strong woody amber, sweet earthy, musky odor with a delicate animalic tonality",
+          "source": "IFF · Ambermor-Ex"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Ambermor-Ex",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1016071.html"
+    },
+    {
+      "item_id": 1577,
+      "name": "amber butanol",
+      "cas": "139504-68-0",
+      "odor_type": "amber",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Amber, woody, soft, sweet Description from Kao: “A very soft delicate woody amber note with a natural richness”, this is a very reasonably priced amber material that can be used alone or in support of the more expensive materials such as Ambrofix and Ambermax. Kao have this to say about its uses: “AMBER CORE excellentl",
+          "source": "Pell Wall Perfumes · Amber Core"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. woody amber ambrette",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "soft delicate woody amber note",
+          "source": "Moellhausen · AMBER CORE"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1100881.html"
+    },
+    {
+      "item_id": 3954,
+      "name": "benzoin resinoid replacer",
+      "cas": null,
+      "odor_type": "balsamic",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Warm, vanilla-like, balsamic and slightly spicy, this Benzoin reconstitution behaves like a natural Benzoin extract This ingredient is a composition of natural extracts and synthetic molecules (some of which are captive). It does not contain natural Benzoin.",
+          "source": "Firmenich · BENZOIN SIAM RES SUBST DIPG for fragrance"
+        },
+        {
+          "kind": "odor_description",
+          "text": "this base has been created around a main olfactive axis: Benzoin Some of the most famous Firmenich ingredients are associated to give rhythm, warmth and emotion to any composition while supporting smooth and cosy notes.",
+          "source": "Firmenich · Armenian Wood Base 260107 D for fragrance"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet vanilla balsamic woody powdery resinous",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rs1059481.html"
+    },
+    {
+      "item_id": 5171,
+      "name": "butyl isobutyrate",
+      "cas": "97-87-0",
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Sweet, fruity, apple, strawberry, banana, tutti frutti with a winey, blue cheesey nuance Mosciano, Gerard P&F 23, No. 5, 49, (1998)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 2.00 %. Sweet, tuti frutti, green, melon, banana, citrus with a alight cheesey nuance Mosciano, Gerard P&F 23, No. 5, 49, (1998)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet fruity green tropical apple banana Luebke, William tgsc, (1987)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1028651.html"
+    },
+    {
+      "item_id": 2234,
+      "name": "ortho-anisaldehyde",
+      "cas": "135-02-4",
+      "odor_type": "anisic",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in propylene glycol. sweet powdery hawthorn guaiacol vanilla acetophenone almond Luebke, William tgsc, (1985)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 50.00 ppm in water. sweet powdery guaiacol musty vanilla floral almond Luebke, William tgsc, (2006)",
+          "source": null
+        },
+        {
+          "kind": "odor_tag",
+          "text": "hawthorn",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006111.html"
+    },
+    {
+      "item_id": 5059,
+      "name": "butter acids",
+      "cas": "85536-25-0",
+      "odor_type": "oily",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 50.00 ppm. Fatty, creamy and waxy with a deep, dairy and milky mouthfeel Mosciano, Gerard P&F 19, No. 6, 53, (1994)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fatty, dairy and creamy with a sweet, cultured, waxy and milky undernote Mosciano, Gerard P&F 19, No. 6, 53, (1994)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. butter oily fatty",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/fl1028611.html"
+    },
+    {
+      "item_id": 5456,
+      "name": "butyl phenyl acetate",
+      "cas": "122-43-0",
+      "odor_type": "honey",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 5.00 ppm. Honey, sweet, chocolate, floral and rose-like Mosciano, Gerard P&F 17, No. 4, 33, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Honey, sweet, floral, cocoa and hay-like Mosciano, Gerard P&F 17, No. 4, 33, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. rose honey chocolate Luebke, William tgsc, (1988)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1021511.html"
+    },
+    {
+      "item_id": 4889,
+      "name": "buchu mercaptan",
+      "cas": "38462-22-5",
+      "odor_type": "sulfurous",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Green, tropical, blackcurrant bud, onion, sulphurous. Extremely powerful Tiny traces can be used to add realism to fruity accords especially blackcurrant, peach and tropical fruits, and is considered essential for the fuzzy peach-skin quality.",
+          "source": "Pell Wall Perfumes · Thiomenthone"
+        },
+        {
+          "kind": "taste_description",
+          "text": "minty Used in blackcurrant, grape, and berry flavours; in desserts at up to 6ppm, bakery and soft confections at 1-2ppm, and in beverages at 0.2ppm to 0.4ppm.",
+          "source": "R C Treatt & Co Ltd · P-Mentha-8-thiol-3-one 97% Kosher"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 50.00 ppm. Sulfurous, alliaceous, green and tropical with rich body, blackcurrant nuances Mosciano, Gerard P&F 22, No. 3, 47, (1997)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005051.html"
+    },
+    {
+      "item_id": 4650,
+      "name": "boronia absolute",
+      "cas": "8053-33-6",
+      "odor_type": "floral",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Fruity, citrus, tutti-frutti, pulpy and honey Mosciano, Gerard P&F 22, No. 4, 75, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. cassie violet warm sweet woody fresh fruity green Luebke, William tgsc, (1982)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Floral, fruity, honey, green and herbal Mosciano, Gerard P&F 22, No. 4, 75, (1997)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/ab1007061.html"
+    },
+    {
+      "item_id": 1254,
+      "name": "3-allyl-1-methyl-2-oxabicyclo(2.2.2)octane",
+      "cas": null,
+      "odor_type": "herbal",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. herbaceous, piney, spicey, strawberry-like, raspberry-like, and blue- berry-like aroma",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "herbaceous, piney, spicey, strawberry-like, raspberry-like and blueberry-like flavor",
+          "source": null
+        },
+        {
+          "kind": "odor_tag",
+          "text": "strawberry",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1078861.html"
+    },
+    {
+      "item_id": 4094,
+      "name": "alpha-benzylidene methional",
+      "cas": "65887-08-3",
+      "odor_type": "green",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 1.00 ppm. Vegetative sauerkraut, kimchi, cabbage, soy beans, green onion nuances Mosciano, Gerard, (2009)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 %. vegetative sauerkraut, kimchi, cabbage, soy beans, green onion nuances Mosciano, Gerard, (2009)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in dipropylene glycol. green weedy broccoli green bean",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1037621.html"
+    },
+    {
+      "item_id": 1959,
+      "name": "isoamyl hexanoate",
+      "cas": "2198-61-0",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fruity, sweet, pineapple with a slightly pungent sour cheesey note Mosciano, Gerard P&F 16, No. 2, 49, (1991)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 25.00 ppm. Fruity, green, pineapple with a waxy nuance Mosciano, Gerard P&F 16, No. 2, 49, (1991)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fruity banana apple pineapple green Luebke, William tgsc, (1987)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1019751.html"
+    },
+    {
+      "item_id": 5644,
+      "name": "butyric acid",
+      "cas": "107-92-6",
+      "odor_type": "cheesy",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 250.00 ppm. Acidic sour, cheesy, dairy, creamy with a fruity nuance Mosciano, Gerard P&F 19, No. 2, 55, (1994)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "A sharp, cheesy, rancid butter odor Can be used for sharpness in buttery or dairy-type applications.",
+          "source": "Bedoukian Research · BUTYRIC ACID (NATURAL) ≥98.0%, FCC, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sharp, dairy-like, cheesy, buttery with a fruity nuance Mosciano, Gerard P&F 19, No. 2, 55, (1994)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1003411.html"
+    },
+    {
+      "item_id": 1949,
+      "name": "isoamyl formate",
+      "cas": "110-45-2",
+      "odor_type": "green",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. plum black currant ethereal vinous dry earthy fruit green Luebke, William tgsc, (1988)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Sharp, green, apple and fruity with winey, fatty notes Mosciano, Gerard P&F 23, No. 1, 33, (1998)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sharp, green estry, apple and waxy Mosciano, Gerard P&F 23, No. 1, 33, (1998)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1019851.html"
+    },
+    {
+      "item_id": 1293,
+      "name": "allyl thiopropionate",
+      "cas": "41820-22-8",
+      "odor_type": "alliaceous",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 5.00 ppm. Fresh onion with a green sweet vegetable nuance Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fresh onion garlic-like with green gassy nuances Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in propylene glycol. fresh onion garlic green gassy",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1003001.html"
+    },
+    {
+      "item_id": 963,
+      "name": "agrumen nitrile",
+      "cas": "97384-48-0",
+      "odor_type": "aldehydic",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "fresh agrumic fragrance with spicy-herbal and sweet undertones Stable in: body lotion (very good), shampoo (excellent), soap (good), ap roll-on (very good), powder (very good), cleaner citric (very good), cleaner apc (very good), bleach (good).",
+          "source": "Symrise · Citrowanil ® B"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. aldehydic spicy herbal green peppery sweet Luebke, William tgsc, (1993)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "agrumic scent with background notes of green-herbal",
+          "source": "Moellhausen · CITROWANIL B"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1039541.html"
+    },
+    {
+      "item_id": 1964,
+      "name": "isoamyl laurate",
+      "cas": "6309-51-9",
+      "odor_type": "waxy",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Fatty, creamy, good mouthfeel and body, over-ripe fruit Mosciano, Gerard P&F 24, No. 2, 49, (1999)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 5.00 %. Winey, alcoholic, fatty, creamy, yeasty and fusel Mosciano, Gerard P&F 24, No. 2, 49, (1999)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. wine waxy oily fatty peach",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1003691.html"
+    },
+    {
+      "item_id": 894,
+      "name": "agarwood oil replacer",
+      "cas": null,
+      "odor_type": "woody",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "agarwood This combination of natural and synthetics ingredients, utilizes process technology to make a beautiful true to nature Agarwood Oil at an affordable price. It’s rich, dry, complex aroma is authentic to OUD itself.",
+          "source": "Firmenich · OUD SigNature™"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Oud, woody, balsamic, animal. Tenacious. Fixative From Firmenich: “Odor: Woody, Balsamic Use: A reconstitution of agarwood oil. Intensely woody, reminiscent of vetyver, with sweet balsamic undertones.”",
+          "source": "Pell Wall Perfumes · Oud Synthetic (Firmenich)"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Woody, Balsamic A reconstitution of agarwood oil. Intensely woody, reminiscent of vetyver, with sweet balsamic undertones.",
+          "source": "Firmenich · Oud Synth 10760 E"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1658561.html"
+    },
+    {
+      "item_id": 3686,
+      "name": "barosma betulina leaf oil",
+      "cas": "68650-46-4",
+      "odor_type": "herbal",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. sulfurous green minty camphoreous black currant bud tropical fruity mango peach skin Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 5.00 ppm. Green minty, buchu-like with sulfureous mango, tropical and berry notes Mosciano, Gerard P&F 19, No. 6, 53, (1994)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Its scent is strong, mint and camphor-like, reminiscent of Blackcurrant sulfur notes Very powerful with a good tenacity.",
+          "source": "Firmenich · BUCHU HE VIELLI for fragrance"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1000711.html"
+    },
+    {
+      "item_id": 4021,
+      "name": "benzyl isobutyrate",
+      "cas": "103-28-6",
+      "odor_type": "floral",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity, powdery with tropical woody and juicy nuances Mosciano, Gerard P&F 18, No. 6, 33, (1993)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Fruity and sweet with ripe berry nuances Mosciano, Gerard P&F 18, No. 6, 33, (1993)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. jasmin oily fruity sweet rose tropical Luebke, William tgsc, (1989)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001711.html"
+    },
+    {
+      "item_id": 2175,
+      "name": "angelica seed oil",
+      "cas": "8015-64-3",
+      "odor_type": "terpenic",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "herbaceous and spicy with an earthy facet The angelica or archangel is an aromatic herb reaching over two meters in height. It is a short-lived plant, blooming only once before dying. It has large, hollow, fluted, reddish stems that bear large, serrated leaves separated into leaflets. The inflorescences  composed of a",
+          "source": "Albert Vieille SAS · Angelica seeds Essential oil Belgium"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. strong fresh terpenic peppery earthy spicy anisic ambrette woody musk soapy powdery Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "A pervading aromatic odor associated with a pleasant scent offering fresh, peppery, woody herbaceous and musky notes",
+          "source": "Firmenich · ANGELICA SEEDS EO Flavor and Fragrance"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1015931.html"
+    },
+    {
+      "item_id": 2552,
+      "name": "apple specialty",
+      "cas": null,
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Bright fresh, crisp flavor of ripe green apple",
+          "source": "Perfumery Laboratory · EPLITIN / apple green IFF (APPLETEEN / Radiant Green Apple IFF)"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Bright fresh, crisp flavor of a ripe red apple",
+          "source": "Perfumery Laboratory · EPLITIN R / APPLE RED IFF (APPLETEEN R / Radiant Red Apple IFF)"
+        },
+        {
+          "kind": "odor_description",
+          "text": "This Apple Juice Givco 223 reflects the distinctive fresh fruity and tasty red apple. It evokes the taste sensation of a red apple juice. It provides sophisticated fruity natural freshness to floral accords with lift and radiance. It rounds out aldehydic and green notes and adds attractive fruity effects especially to ",
+          "source": "Givaudan · Apple Juice Givco 223"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/pb1006921.html"
+    },
+    {
+      "item_id": 1270,
+      "name": "allyl phenoxyacetate",
+      "cas": "7493-74-5",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fresh, honey, pineapple, chamomile, cocoa Often used for its sweet honey and pineapple note but it is also very useful in chocolate accords for added complexity and as a boost for citrus, strawberry and other fruity notes  usually used in traces except in chocolate or honey accords.",
+          "source": "Pell Wall Perfumes · Acetate PA"
+        },
+        {
+          "kind": "odor_description",
+          "text": "green, sweet, herbal-fruity, reminiscent of camomile with nuances of honey, galbanum and pineapple, very strong",
+          "source": "Symrise · Allyl phenoxyacetate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet fresh honey pineapple chamomile cocoa Luebke, William tgsc, (1991)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1028371.html"
+    },
+    {
+      "item_id": 1584,
+      "name": "amber dioxane",
+      "cas": "117933-89-8",
+      "odor_type": "woody",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Woody, Ambery Karanal is a powerful and radiant dry, woody amber note. It is used in applications from fine fragrances through to soaps and detergents. Its outstanding fibre substantivity leads to its use in shampoos and fabric rinse conditioners.",
+          "source": "Givaudan · Karanal"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. dry dusty woody mahogany amber resinous earthy floral Luebke, William tgsc, (2016)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Powerful, bright, dry, woody, amber-resinous aroma with a floral note of lily",
+          "source": "Perfumery Laboratory · AMBER DIOXANE Givaudan"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1038591.html"
+    },
+    {
+      "item_id": 2622,
+      "name": "arachis hypogaea oil CO2 extract",
+      "cas": "8002-03-7",
+      "odor_type": "nutty",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. nutty peanut roasted peanut peanut butter caramellic praline nut skin woody Luebke, William tgsc, (2021)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "nutty peanut peanut butter roasted peanut nut skin nut flesh oily caramellic Luebke, William tgsc, (2021)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "Roasted, peanut butter, caramelic, oily Very indulgent, peanut as a dessert",
+          "source": "Firmenich · PEANUT SFE Kosher for flavor"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/vg1668161.html"
+    },
+    {
+      "item_id": 1242,
+      "name": "allyl heptanoate",
+      "cas": "142-19-8",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fruity-pineapple and banana,, sweet, waxy, cognac According to Arctander, besides fruity fragrance types it is also “used in floral fragrance compositions: Appleblossom, Peachblossom, Magnolia, Sweet Pea, etc.”",
+          "source": "Pell Wall Perfumes · Allyl heptanoate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "A fruity, sweet, banana with a heavy vinous quality This material gives a sour fruit impression and can be useful in tropical fruit complexes.",
+          "source": "Bedoukian Research · ALLYL HEPTANOATE ≥97.0%, FCC, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, pineapple-like, fruity with a slight waxy ripe fermented note Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1021051.html"
+    },
+    {
+      "item_id": 5566,
+      "name": "butyl isovalerate",
+      "cas": "109-19-3",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Fruity, sweet, ripe pineapple, green with peach nuances Mosciano, Gerard P&F 24, No. 2, 49, (1999)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fruity, sweet, pineapple, pungent, green, apple and peach nuances Mosciano, Gerard P&F 24, No. 2, 49, (1999)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. apple pear fruit sweet pineapple green peach Luebke, William tgsc, (1988)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1029431.html"
+    },
+    {
+      "item_id": 2299,
+      "name": "para-anisyl propanal",
+      "cas": "5462-06-6",
+      "odor_type": "anisic",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Licorice, basil, fennel, anise notes with a slight fruity, watery modification",
+          "source": "IFF · Canthoxal"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Canthoxal",
+          "source": "IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet aniseed basil fennel raspberry green Luebke, William tgsc, (1986)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1023691.html"
+    },
+    {
+      "item_id": 2235,
+      "name": "para-anisaldehyde",
+      "cas": "123-11-5",
+      "odor_type": "anisic",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, floral-hawthorn, powdery, vanilla, anise, woody, coumarin Arctander gives some good indications of its useage: “Very widely used in perfumery, only restricted because of its poor stability in alkali and in the presence of Amines. Certain fragrance types may contain well over 10% of this aldehyde, while a few per",
+          "source": "Pell Wall Perfumes · Anisaldehyde"
+        },
+        {
+          "kind": "odor_description",
+          "text": "sweet powdery mimosa floral hawthorn balsam sweet aromatic herbaceous-spicy anis-like hawthorn BLENDS WITH - +Naphthyl Methyl Ether +Naphthyl Ethyl Ether +Acetanisole +Hydroxycitronellal +Acetophenone Anisaldehyde Gums Methyl Chavicol",
+          "source": "PerfumersWorld · Anis Aldehyde"
+        },
+        {
+          "kind": "taste_description",
+          "text": "sweet, herbaceous-spicy Useful in: brown caramel, brown nuts, brown cocoa, mint, dairy, vanilla, savory spices, fruity red, fruity yellow, fruity tropical, fruity others, sweet others, alcoholics.",
+          "source": "Symrise · Anisic aldehyde pure"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001272.html"
+    },
+    {
+      "item_id": 4085,
+      "name": "(E)-benzyl tiglate",
+      "cas": "37526-88-8",
+      "odor_type": "balsamic",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. balsamic earthy mushroom vegetable plastic cortex almond nutty Luebke, William tgsc, (2021)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Balsamic, spice-like with a nutty almond note Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "balsamic earthy mushroom vegetable cortex plastic spicy wasabi nutty Luebke, William tgsc, (2021)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1011841.html"
+    },
+    {
+      "item_id": 4003,
+      "name": "benzyl acetone",
+      "cas": "2550-26-7",
+      "odor_type": "floral",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral, balsamic, sweet, aromatic Arctander has some other suggestions: “floral-green odor, fresher than that of Benzylacetate, more lasting. Stable in soap. Suggested for use in perfumes as a modifier for Benzylacetate, particularly in soap fragrances. Its somewhat sharper character can at times bean advantage for the",
+          "source": "Pell Wall Perfumes · Benzyl Acetone"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Floral, jasmine-Benzyl acetate, herbal, chemical aromatic",
+          "source": "Vigon International · Benzyl Acetone"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. floral balsam",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1024231.html"
+    },
+    {
+      "item_id": 236,
+      "name": "acetic acid",
+      "cas": "64-19-7",
+      "odor_type": "acidic",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "pungent, sour, overripe fruit Useful in: dairy, savory vegetable, savory meat, savory others, fruity red, fruity yellow, fruity tropical, fruity others, sweet others, alcoholics.",
+          "source": "Symrise · Acetic acid natural"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in propylene glycol. sharp pungent sour vinegar",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "green, herbal, woody (basil aspects)",
+          "source": "Moellhausen · ACETIC ACID"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1097191.html"
+    },
+    {
+      "item_id": 362,
+      "name": "3-acetyl-2,5-dimethyl furan",
+      "cas": "10599-70-9",
+      "odor_type": "musty",
+      "odor_strength": "medium , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "nutty musty cocoa beany bready Used in concord grape, walnut, cherry, chocolate, coffee, nuts, rum, roasted nut, bread, tobacco and smoke flavors.",
+          "source": "Bedoukian Research · 3-ACETYL-2,5-DIMETHYL FURAN ≥99.0%, FCC, Kosher"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 5.00 ppm. Nutty, musty, cocoa-like, with beany and bready nuances Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. sweet musty nutty earthy cocoa corn leather Luebke, William tgsc, (1991)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1027711.html"
+    },
+    {
+      "item_id": 373,
+      "name": "2-acetyl-3-ethyl pyrazine",
+      "cas": "32974-92-8",
+      "odor_type": "nutty",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Earthy, nutty, musty, potato-chip, corn Naturally present in cocoa, chocolate as well as cooked meats, this is a more versatile material than you might expect, and an ideal component of the dank, earthy accords that have become popular recently in the more adventurous fine fragrances.",
+          "source": "Pell Wall Perfumes · Chip Pyrazine"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 2.00 ppm. Musty, nutty, cocoa and peanut, with a vegetative, potato and bean nuance Mosciano, Gerard P&F 23, No. 3, 55, (1998)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 2.00 %. Earthy, nutty, musty, potato and corn-like Mosciano, Gerard P&F 23, No. 3, 55, (1998)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001401.html"
+    },
+    {
+      "item_id": 4012,
+      "name": "benzyl benzoate",
+      "cas": "120-51-4",
+      "odor_type": "balsamic",
+      "odor_strength": "low",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "mild, solvent, balsamic Arctander suggests some wider uses: “A classic fixative-blender and solvent in perfumes. Also a modifier in heavier florals, Oriental type fragrances, etc., Tuberose, Yiang- Ylang, Lily, Gardenia, etc. Largely substituted by Benzyl salicylate when a faint odor is desirable. As a solvent for Nitr",
+          "source": "Pell Wall Perfumes · Benzyl Benzoate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "slightly phenolic Useful in: brown nuts, brown others, vanilla, fruity red, fruity yellow, fruity tropical, fruity others, sweet others",
+          "source": "Symrise · Benzyl Benzoate M"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 30.00 ppm. Balsamic, fruity, with powdery and berry nuances Mosciano, Gerard P&F 15, No. 4, 59, (1990)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001672.html"
+    },
+    {
+      "item_id": 567,
+      "name": "aconitic acid",
+      "cas": "499-12-7",
+      "odor_type": null,
+      "odor_strength": "none",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 25.00 ppm. Nutty, vegetative, musty and slightly caramellic Mosciano, Gerard P&F 21, No. 3, 51, (1996)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Vegetative, musty and nutty with a dry, toasted nuance Mosciano, Gerard P&F 21, No. 3, 51, (1996)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. very mild nutty musty",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1108671.html"
+    },
+    {
+      "item_id": 4984,
+      "name": "1,3-butane dithiol",
+      "cas": "24330-52-7",
+      "odor_type": "alliaceous",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 - 30.00 ppm. Garlic, mushroom, bloody metallic, roasted burnt rubber nuances, HVP and meaty, garlic Mosciano, Gerard P&F 24, No. 6, 10, (1999)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.01 % in ethyl alcohol. Garlic, meaty sulfurous, roasted garlic and onion, spicy, with nutty nuances Mosciano, Gerard P&F 24, No. 6, 10, (1999)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in propylene glycol. garlic meaty sulfury onion spicy",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1036721.html"
+    },
+    {
+      "item_id": 904,
+      "name": "agathosma crenulata leaf oil",
+      "cas": "92346-82-2",
+      "odor_type": "minty",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. minty green phenolic sulfurous camphoreous black currant bud catty tropical mango peach skin Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "green minty camphoreous sulfurous phenolic black currant bud mango tropical peach Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "odor_tag",
+          "text": "currant bud black currant bud",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1589401.html"
+    },
+    {
+      "item_id": 4037,
+      "name": "benzyl formate",
+      "cas": "104-57-4",
+      "odor_type": "floral",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "sweet, fruity, raspberry, blueberry Useful in: brown nuts, fruity citrus, fruity red, fruity yellow, fruity tropical, fruity others, alcoholics.",
+          "source": "Symrise · Benzyl formate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Fresh cherry, with a berry strawberry fruity nuance Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. floral fruity spicy almond cranberry black tea Luebke, William tgsc, (1988)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1012591.html"
+    },
+    {
+      "item_id": 3961,
+      "name": "benzophenone",
+      "cas": "119-61-9",
+      "odor_type": "balsamic",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral-rose, powdery, geranium, metalic Arctander describes it like this: “Used extensively in perfumes for sweet-woody-geranium-like notes in low-cost fragrances, soap perfumes, etc. Useful as a fixative. It has an extremely low vapor pressure at room temperature, and its effect upon the fragrance is only perceptible ",
+          "source": "Pell Wall Perfumes · Benzophenone"
+        },
+        {
+          "kind": "odor_description",
+          "text": "sweet aromatic slightly-rose fruity-vinyl Very faint powdery-rosy geranium-like odor with a slightly metallic note",
+          "source": "PerfumersWorld · Benzophenone"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. balsam rose metallic powdery geranium Luebke, William tgsc, (1981)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1016331.html"
+    },
+    {
+      "item_id": 2274,
+      "name": "para-anisyl acetate",
+      "cas": "104-21-2",
+      "odor_type": "powdery",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral, Anisic, Fruity, Slightly Balsamic Anisyl Acetate is a good modifier in floral, fruity, oriental and chypre fragrances where it imparts sweetness and a natural effect.",
+          "source": "Givaudan · Anisyl Acetate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "sweet mild narcotic fruity vanilla powdery balsam plum sweet-aromatic fruity-plum floral-hawthorn Blends-well-with - Balsams Narcotic florals +Cyclamen-aldehyde",
+          "source": "PerfumersWorld · Anisyl Acetate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "sweet, coumarin, fruity, balsamic, floral Useful in: vanilla, fruity red, fruity yellow, fruity tropical, fruity others.",
+          "source": "Symrise · Anisyl Acetate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001292.html"
+    },
+    {
+      "item_id": 1630,
+      "name": "ambrettolide",
+      "cas": "7779-50-2",
+      "odor_type": "soapy",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 1.00 ppm. Soapy, perfume-like with a fruity berry nuance Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, soapy, perfume-like with a heavy fruity undertone Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. sweet soapy musk amber fruity berry",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1451741.html"
+    },
+    {
+      "item_id": 3890,
+      "name": "benzaldehyde glycrol acetal",
+      "cas": "1319-88-6",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 30.00 - 75.00 ppm. Faint mustiness, mild red fruit with a cherry almond nuance Mosciano, Gerard P&F 25, No. 4, 71, (2000)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. Faint musty red fruity with a slight cherry pit nuance Mosciano, Gerard P&F 25, No. 4, 71, (2000)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. cherry bitter almond sweet Luebke, William tgsc, (1987)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1004731.html"
+    },
+    {
+      "item_id": 1918,
+      "name": "alpha-amyl cinnamaldehyde diethyl acetal",
+      "cas": "60763-41-9",
+      "odor_type": "floral",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "ethereal, floral jasmine note with red fruit aspects. the background is slightly cinnamic and honeyed",
+          "source": "Synarome · a-AMYL CINNAMALDEHYDE DIETHYL ACETAL"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. ethereal jasmin floral aldehyde green fruity Luebke, William tgsc, (1985)",
+          "source": null
+        },
+        {
+          "kind": "supplier_product",
+          "text": "a-AMYL CINNAMALDEHYDE DIETHYL ACETAL",
+          "source": "Synarome"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1015711.html"
+    },
+    {
+      "item_id": 1085,
+      "name": "aldehydic nitrile",
+      "cas": "40188-41-8",
+      "odor_type": "citrus",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Citrus, aldehydic, fatty waxy with some metallic facets Citrus,Fatty, Metallic, Lemon. Hot, Zesty, Citrus (Dried Lemon/Orange Peel, Palmarosa note. To give a rich natural body to all fragrances employing the natural cologne moiety.",
+          "source": "IFF · Hypo-LEM"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Hypo-LEM",
+          "source": "IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. citrus aldehydic lemon fatty metallic Luebke, William tgsc, (2004)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1059281.html"
+    },
+    {
+      "item_id": 457,
+      "name": "acetyl tetralin",
+      "cas": "774-55-0",
+      "odor_type": "floral",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "floral-orange-blossom, neroli, musk, grape, dry A highly unusual and useful material that can be used to replace methyl anthranilate in cases where that product would react with other materials or result in discolouration: even in fine fragrance this is often an issue.",
+          "source": "Pell Wall Perfumes · Florantone T"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Orange flower with some musk character Novel methyl anthranilate note, yet extremely stable and resitant to discoloration.",
+          "source": "Takasago · Florantone T ≥98% as Acetyl tetralin"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. floral orangeflower musk grape",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1545871.html"
+    },
+    {
+      "item_id": 1941,
+      "name": "isoamyl decanoate",
+      "cas": "2306-91-4",
+      "odor_type": "waxy",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 25.00 ppm. Creamy and fruity with a fatty waxy nuance Mosciano, Gerard P&F 16, No. 2, 49, (1991)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Waxy, banana fruity, sweet with a dirty green nuance Mosciano, Gerard P&F 16, No. 2, 49, (1991)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. waxy banana fruity sweet cognac green Luebke, William tgsc, (1988)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001591.html"
+    },
+    {
+      "item_id": 1589,
+      "name": "amber formate",
+      "cas": "65405-72-3",
+      "odor_type": "woody",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Woody, Ambery Oxyoctaline Formate has an original, ambery and long lasting character, blending very well with most other woody notes. Its richness and elegance allow perfect harmony with natural woody products. It also gives olibanum effects.",
+          "source": "Givaudan · Oxyoctaline Formate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. dry woody amber dusty powdery Luebke, William tgsc, (1985)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "soft woody, slightly fruity; balsamic note",
+          "source": "Moellhausen · OXYOCTALINE FORMATE"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1015231.html"
+    },
+    {
+      "item_id": 1244,
+      "name": "allyl hexanoate",
+      "cas": "123-68-2",
+      "odor_type": "fruity",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, Fruity-pineapple, juicy, fresh, Arak According to Arctander it has a “Slightly pungent, fatty-fruity odor reminiscent of Pineapple, Rum, Arak, remotely of Peach. Less ethereal, but more natural Pineapple-like than Methyl caproate.”",
+          "source": "Pell Wall Perfumes · Allyl hexanoate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "fruity Characteristically used in pineapple flavor, but also can be seen in fruit punch, tropical, apple, orange juice, peach and rum flavors.",
+          "source": "Bedoukian Research · ALLYL CAPROATE (HEXANOATE) ≥98.0%, FCC, Kosher"
+        },
+        {
+          "kind": "taste_description",
+          "text": "pineapple-like, fruity, juicy, sweet, slightly peely Useful in: fruity citrus, fruity red, fruity yellow, fruity tropical, fruity others.",
+          "source": "Symrise · Allyl caproate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1000731.html"
+    },
+    {
+      "item_id": 1633,
+      "name": "isoambrettolide",
+      "cas": "28645-51-4",
+      "odor_type": "musk",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Musk, ambrette, fruity-berry Arctander says it is “is one of the finest fixatives among the distinguished group of those showing a synergistic and amplifying effect upon perfumes and flavors. At the same time it increases the diffusiveness of fragrances in which it is incorporated. Its fixative effect is easily recogni",
+          "source": "Pell Wall Perfumes · Ambrettolide IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Intensely powerful substantive musk odor with depth and richness. Floralcy and red fruit sweetness also imparted",
+          "source": "IFF · Ambrettolide"
+        },
+        {
+          "kind": "taste_description",
+          "text": "coconut creamy waxy fatty milky",
+          "source": "IFF · Ambrettolide"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1026271.html"
+    },
+    {
+      "item_id": 235,
+      "name": "para-acetanisole",
+      "cas": "100-06-1",
+      "odor_type": "anisic",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, floral-hawthorn, cyclamen, anisic, powdery, balsamic, acacia Arctander describes it as “Sweet, but somewhat harsh, haylike odor with floral-animal notes. Suggestive of Hawthorne, Mimosa, Heliotrope, etc. Relatively stable in soap and under similar, mild-alkaline conditions. Used in woody-floral fragrances such a",
+          "source": "Pell Wall Perfumes · Acetanisole"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, anisic, vanilla-like, with powdery balsamic and benzaldehyde nuances Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Sweet, anisic, fruity cherry, with powdery vanilla nuances Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1000111.html"
+    },
+    {
+      "item_id": 815,
+      "name": "adoxal (Givaudan)",
+      "cas": "141-13-9",
+      "odor_type": "aldehydic",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fresh, Aldehydic, Marine, Powerful, Floral Adoxal blends extremely well with floral notes such as muguet and cyclamen, as well as with fruity and woody compositions. It can also be seen as having a typical \"fresh linen\" odour which makes it very useful for detergent perfumes. Adoxal has a natural, ozonic aspect. Powerf",
+          "source": "Givaudan · Adoxal"
+        },
+        {
+          "kind": "odor_description",
+          "text": "aldehydic-floral, reminiscent of lily of the valley leaves, with ambergris, incense and sea breeze nuances Stable in: body lotion (good), shampoo (good), soap (good), ap roll-on (good), powder (good), cleaner citric (poor), cleaner apc (good), bleach (poor).",
+          "source": "Symrise · Farenal ®"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. fresh aldehydic floral waxy watery Luebke, William tgsc, (1986)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1024451.html"
+    },
+    {
+      "item_id": 2248,
+      "name": "star anise oil CO2 extract",
+      "cas": "8007-70-3",
+      "odor_type": "anise",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "aromatic and spicy Very gourmand, this particularly clean and noble quality (SFE) helps to impart an elegant, warm note.",
+          "source": "Firmenich · BADIANE SFE for fragrance"
+        },
+        {
+          "kind": "taste_description",
+          "text": "Aniseed, fresh, herbal, strong impact, sweet At a low dosage, it enhances the perception of sweetness and mouthfeel",
+          "source": "Firmenich · BADIANE SFE for fragrance"
+        },
+        {
+          "kind": "taste_description",
+          "text": "Herbal sweet At a low dosage, it enhances the perception of sweetness and mouthfeel",
+          "source": "Firmenich · STAR ANISE SFE Kosher for flavor"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1052621.html"
+    },
+    {
+      "item_id": 5334,
+      "name": "butyl laurate",
+      "cas": "106-18-3",
+      "odor_type": "waxy",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Weak, waxy and soapy with a slightly fermented dairy nuance Mosciano, Gerard P&F 22, No. 4, 75, (1997)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 40.00 ppm. Waxy and soapy with a creamy, dairy nuance Mosciano, Gerard P&F 22, No. 4, 75, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. waxy soapy fruity peanut",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013551.html"
+    },
+    {
+      "item_id": 340,
+      "name": "acetyl isobutyryl",
+      "cas": "7493-58-5",
+      "odor_type": "buttery",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 80.00 ppm. Sweet, creamy, fruity, buttery, with a cooked estry nuance Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity, buttery, creamy, with a brown fatty nuance Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. sweet fruity buttery creamy fatty",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1032821.html"
+    },
+    {
+      "item_id": 1926,
+      "name": "alpha-amyl cinnamyl acetate",
+      "cas": "7493-78-9",
+      "odor_type": "floral",
+      "odor_strength": "low",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, spicy, fruity and cinnamic with fatty, tropical nuances Mosciano, Gerard P&F 22, No. 3, 47, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. floral jasmin chocolate leather fruity balsam spicy cinnamyl Luebke, William tgsc, (1992)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Earthy, fruity, spicy, powdery and balsamic Mosciano, Gerard P&F 22, No. 3, 47, (1997)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1012531.html"
+    },
+    {
+      "item_id": 1593,
+      "name": "amber naphthofuran",
+      "cas": "3738-00-9",
+      "odor_type": "amber",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "One of the finest ambergris notes, powerful amber, woody odor, which gives rich, elegant effects to all kinds of perfumery",
+          "source": "IFF · Cetalor"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Strong amber with dry and woody notes",
+          "source": "IFF · Ambermor DL"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Ambermor DL",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005291.html"
+    },
+    {
+      "item_id": 5457,
+      "name": "isobutyl phenyl acetate",
+      "cas": "102-13-6",
+      "odor_type": "chocolate",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet balsamic, incense note Sweet, balsamic, floral, honey note with a slightly fruity character.",
+          "source": "IFF · isoButyl Phenyl Acetate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "sweet honey chocolate floral",
+          "source": "IFF · isoButyl Phenyl Acetate"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "isoButyl Phenyl Acetate",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006811.html"
+    },
+    {
+      "item_id": 4043,
+      "name": "3-benzyl-4-heptanone",
+      "cas": "7492-37-7",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fruity berry dried fruit herbal aldehydic minty plum raisin fig woody Luebke, William tgsc, (2021)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fruity, berry, woody with a herbal and minty nuance Mosciano, Gerard P&F 17, No. 4, 33, (1992)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "fruity waxy foliage floral dried fruit minty berry raisin cocoa Luebke, William tgsc, (2021)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1011781.html"
+    },
+    {
+      "item_id": 4409,
+      "name": "alpha-bisabolol",
+      "cas": "515-69-5",
+      "odor_type": "floral",
+      "odor_strength": "low",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral, sweet, balsamic. Mild. Fixative Arctander describes it as \"Sweet and very mild, delicately floral odor.” and goes on to point out that at that time “Although not regularly available or generally offered as a synthetic material yet, this sesquiterpene alcohol should soon become known and possibly find use as a b",
+          "source": "Pell Wall Perfumes · Bisabolol"
+        },
+        {
+          "kind": "odor_description",
+          "text": "characteristc Dragosantol ® 100 is a monocyclic unsaturated sesquiterpene alcohol, alpha-bisabolol. Dragosantol ® 100 contains at least 95 % of alpha-bisabolol. The content of farnesol is less than 0.1 % / 1000 ppm. Alpha-bisabolol is quite close to a known ingredient of chamomile. Like chamomile it is known for its so",
+          "source": "Symrise · Dragosantol ® 100 Life Essentials - Actives"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. mild floral peppery balsamic clean",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1042821.html"
+    },
+    {
+      "item_id": 5336,
+      "name": "butyl levulinate",
+      "cas": "2052-15-5",
+      "odor_type": "herbal",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "herbal Used in herb, butter, bacon, chocolate, smoke flavors. Fruit applications include banana, melon, honeydew and cherry flavors.",
+          "source": "Bedoukian Research · BUTYL LEVULINATE ≥97.0%, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "An herbaceous, waxy, fatty odor with savory applications For a smoky savory note in heavier fragrances.",
+          "source": "Bedoukian Research · BUTYL LEVULINATE ≥97.0%, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fruity herbal waxy caramel savory",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013561.html"
+    },
+    {
+      "item_id": 5518,
+      "name": "isobutyl salicylate",
+      "cas": "87-19-4",
+      "odor_type": "floral",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 3.00 ppm. Sweet, cooling, spicy with fruity nuances Mosciano, Gerard P&F 17, No. 4, 33, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, spice, cooling, with a wintergreen nuance Mosciano, Gerard P&F 17, No. 4, 33, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. clover herbal orchid floral Luebke, William tgsc, (1989)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006892.html"
+    },
+    {
+      "item_id": 1579,
+      "name": "amber carbinol",
+      "cas": "87118-95-4",
+      "odor_type": "woody",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Exquisite floral, woody odor with dry, ambery, vetivert and raisin nuances",
+          "source": "IFF · Kohinool ®"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Exquisite floral, woody, dry, amber, vetiver with a touch of raisin",
+          "source": "Perfumery Laboratory · KOHINOOL ® IFF"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Kohinool ®",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007661.html"
+    },
+    {
+      "item_id": 2239,
+      "name": "para-anisaldehyde / methyl anthranilate schiff's base",
+      "cas": "14735-72-9",
+      "odor_type": "floral",
+      "odor_strength": "medium , recommend smelling in a 50.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A subtle but very pleasant mayflower odor Used in a variety of fragrances for a spicy, anisic, floral note.",
+          "source": "Bedoukian Research · SCHIFF'S BASE ANISALDEHYDE-METHYL ANTHRANILATE, 50% IN TRIACETIN ≥95.0%, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "A powdery mimosa character similar to the sweet smell of common orange flower",
+          "source": "IFF · Anisimea"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Anisimea",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1025731.html"
+    },
+    {
+      "item_id": 2407,
+      "name": "anthemis nobilis flower oil roman",
+      "cas": "8015-92-7",
+      "odor_type": "herbal",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Powerful top note with a fruity bubble gum character on a dry herbaceous chamomile heart and a dry down of plum liquor",
+          "source": "IFF · Chamomile Oil Roman"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Chamomile Oil Roman",
+          "source": "IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "bright, crispy, sweet, fruity and herbaceous fresh scent with bitter top note and tea-like facet The Essential oil brings tea leaves nuances together with a subtle scent of the well known beverage called \"chamomile\" in English or \"infusion\" in French.",
+          "source": "Firmenich · CAMOMILLE ROMAINE HE for fragrance"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1028551.html"
+    },
+    {
+      "item_id": 3953,
+      "name": "sumatra benzoin resinoid",
+      "cas": "9000-05-9",
+      "odor_type": "balsamic",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Strong styrax-like odor, quite distinct from the vanilla-like odor of the Siam origin",
+          "source": "IFF · Benzoin Resinoid Sumatra"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Benzoin Resinoid Sumatra",
+          "source": "IFF"
+        },
+        {
+          "kind": "taste_description",
+          "text": "benzoin",
+          "source": "IFF · Benzoin Resinoid Sumatra"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rs1029211.html"
+    },
+    {
+      "item_id": 1622,
+      "name": "ambrette seed absolute",
+      "cas": "84455-19-6",
+      "odor_type": "amber",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Cognac top note on a warm powdery orris bottom note",
+          "source": "IFF · Ambrette Absolute"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Ambrette Absolute",
+          "source": "IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "rich, with musky, sweet, powdery and floral facets AMBRETTE ABS is widely used as a light musk bottom note for delicate florals, as well as an accessory note in oriental perfumes.",
+          "source": "Firmenich · AMBRETTE ABS for fragrance"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/ab1029391.html"
+    },
+    {
+      "item_id": 5199,
+      "name": "2-tert-butyl cyclohexanone",
+      "cas": "1728-46-7",
+      "odor_type": "woody",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Powerful woody camphoraceous odor with great intensity and consistency",
+          "source": "IFF · Verdone"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Powerful, woody, camphor aroma with a bright note of fresh mint leaves",
+          "source": "Perfumery Laboratory · VERDON IFF (VERDONE IFF)"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Verdone",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013281.html"
+    },
+    {
+      "item_id": 446,
+      "name": "2-acetyl pyrrole",
+      "cas": "1072-83-9",
+      "odor_type": "musty",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. musty nut skin maraschino cherry coumarinic licorice walnut bready Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "nutty Used in flavours for beverages at 3ppm, and desserts at 2ppm, and in processed foods at 20-50ppm.",
+          "source": "R C Treatt & Co Ltd · 2-Acetylpyrrole Halal, Kosher"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Sweet, musty, nutty and tea-like Mosciano, Gerard P&F 16, No. 2, 49, (1991)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1028421.html"
+    },
+    {
+      "item_id": 212,
+      "name": "acetaldehyde ethyl phenethyl acetal",
+      "cas": "2556-10-7",
+      "odor_type": "green",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Green floral lilac, hyacinth and sweet pea note",
+          "source": "IFF · Hyacinth Body"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Hyacinth Body",
+          "source": "IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Green-leafy, floral-hyacinth, fresh, rose, nasturtium Verdilyn is an excellent green-floral note of great versatility and flexibility. It will give the green aspect of rose effectively but can take centre-stage in lilac and hyacinth compositions but also works well with other green materials to produce a more natural l",
+          "source": "Pell Wall Perfumes · Verdilyn / Hyacinth Body"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1019191.html"
+    },
+    {
+      "item_id": 4052,
+      "name": "benzyl mercaptan",
+      "cas": "100-53-8",
+      "odor_type": "alliaceous",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Leek, horseradish, cabbage, green, tomato and coffee Mosciano, Gerard P&F 14, No. 6, 47, (1989)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sharp, sulfuraceous, onion, garlic, horseradish, mint and coffee Mosciano, Gerard P&F 14, No. 6, 47, (1989)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in propylene glycol. sharp alliaceous onion sulfurous garlic horseradish mint coffee",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1017561.html"
+    },
+    {
+      "item_id": 5564,
+      "name": "butyl valerate",
+      "cas": "591-68-4",
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Sweet, pineapple, fruity, banana, ripe and tutti-frutti Mosciano, Gerard P&F 20, No. 3, 63, (1995)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity, pineapple, green, tropical and tutti-frutti Mosciano, Gerard P&F 20, No. 3, 63, (1995)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. sweet fruity pineapple green raspberry tropical",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1014011.html"
+    },
+    {
+      "item_id": 5170,
+      "name": "isobutyl butyrate",
+      "cas": "539-90-2",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity, candy, berry, cherry, tutti frutti, over ripe and bubble gum-like Mosciano, Gerard P&F 19, No. 4, 45, (1994)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet fruity pineapple tutti frutti rum cherry apple overripe fruit bubble gum Luebke, William tgsc, (2017)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "sweet fruity pineapple apple rummy bubble gum tutti frutti overripe fruit tropical fruit Luebke, William tgsc, (2017)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1012391.html"
+    },
+    {
+      "item_id": 5183,
+      "name": "isobutyl cinnamate",
+      "cas": "122-67-8",
+      "odor_type": "balsamic",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 30.00 ppm. Balsamic, fruity and chemical-like Mosciano, Gerard P&F 15, No. 2, 69, (1990)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity, balsamic and spice-like Mosciano, Gerard P&F 15, No. 2, 69, (1990)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet balsam fruity like labdanum Luebke, William tgsc, (1988)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1016352.html"
+    },
+    {
+      "item_id": 2122,
+      "name": "anethum graveolens herb oil",
+      "cas": "8006-75-5",
+      "odor_type": "herbal",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 2.00 ppm. Dill, minty, woody, vegetative, camphoreous, herbal Mosciano, Gerard P&F 23, No. 6, 57, (1998)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 %. Minty, sweet, green dill, herbal, cooling, leafy Mosciano, Gerard P&F 23, No. 6, 57, (1998)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. herbal green spicy caraway Luebke, William tgsc, (1989)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1022851.html"
+    },
+    {
+      "item_id": 1603,
+      "name": "amber spirolene",
+      "cas": "154171-77-4",
+      "odor_type": "amber",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "woody-ambery, powerful Stable in: body lotion (good), shampoo (very good), soap (good), ap roll-on (poor), powder (good), cleaner citric (poor), cleaner apc (very good), bleach (poor).",
+          "source": "Symrise · Ysamber ® K"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. dry woody vetiver amber powdery musk fruity Luebke, William tgsc, (2009)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "dry woody vetiver amber",
+          "source": "Moellhausen · YSAMBER K"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1547811.html"
+    },
+    {
+      "item_id": 2176,
+      "name": "angelica seed oil CO2 extract",
+      "cas": null,
+      "odor_type": "amber",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Gin, herbal, ambrette, musky and peppery with a fresh, woody nuance Mosciano, Gerard P&F 21, No. 2, 47, (1996)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Gin, peppery, refreshing and spicy with an intense ambrette, musk-like nuance Mosciano, Gerard P&F 21, No. 2, 47, (1996)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. gin pepper spicy ambrette musk herbal woody",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1005321.html"
+    },
+    {
+      "item_id": 5614,
+      "name": "3-butylidene phthalide",
+      "cas": "551-08-6",
+      "odor_type": "herbal",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Celery, green, vegetable-like with a herbal nuance Mosciano, Gerard P&F 17, No. 4, 33, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Celery, green, vegetable, lovage-like with a herbal note Mosciano, Gerard P&F 17, No. 4, 33, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. herbal lovage celery Luebke, William tgsc, (1991)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1027291.html"
+    },
+    {
+      "item_id": 1924,
+      "name": "isoamyl cinnamate",
+      "cas": "7779-65-9",
+      "odor_type": "balsamic",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral, sweet, berry and fruity, with a powdery carnation-like nuance Mosciano, Gerard P&F 18, No. 5, 39, (1993)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 35.00 ppm. Sweet, floral, powdery, berry and spice nuances Mosciano, Gerard P&F 18, No. 5, 39, (1993)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. floral amber cocoa orchid musty Luebke, William tgsc, (1986)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1021111.html"
+    },
+    {
+      "item_id": 5508,
+      "name": "6(or 8)-isobutyl quinoline",
+      "cas": "68198-80-1",
+      "odor_type": "earthy",
+      "odor_strength": "medium , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Leather, Green, Woody, Earthy, Powerful Butyl Quinoline Secondary has a smooth, fine, woody-vetiver-leather character. It is used in chypre, leather, woody compositions and in masculine colognes where it imparts great diffusion and fixation.",
+          "source": "Givaudan · Butyl Quinoline Secondary"
+        },
+        {
+          "kind": "odor_description",
+          "text": "intense, earthy, rooty, nut-like, character resembles certain facets of oakmoos and vetiver and blends very well with them",
+          "source": "Symrise · Isobutyl Quinoline"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. earthy rooty nutty oakmoss vetiver leathery green",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1116431.html"
+    },
+    {
+      "item_id": 1910,
+      "name": "amyl butyrate",
+      "cas": "540-18-1",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity, banana, pineapple and cherry, with a tropical nuance Mosciano, Gerard P&F 16, No. 1, 31, (1991)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 30.00 ppm. Sweet, fruity, banana, pineapple and tropical Mosciano, Gerard P&F 16, No. 1, 31, (1991)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "estery, fruity, sweet, fermenty; apricot-, banana-, pineapple-like",
+          "source": "Moellhausen · AMYL BUTYRATE"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1004151.html"
+    },
+    {
+      "item_id": 1212,
+      "name": "allyl anthranilate",
+      "cas": "7493-63-2",
+      "odor_type": "floral",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A heliotropine creaminess with a grape dry down The tenacity of this material makes it a good choice for a fruity (grape) end note to a jasmine or tuberose blend.",
+          "source": "Bedoukian Research · ALLYL ANTHRANILATE ≥98.0%, Kosher, Special Order"
+        },
+        {
+          "kind": "taste_description",
+          "text": "grape Can be used in concord grape, cherry, apricot, peach, stone fruits, root beer, mint, spearmint and pineapple flavors for depth and body.",
+          "source": "Bedoukian Research · ALLYL ANTHRANILATE ≥98.0%, Kosher, Special Order"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "ALLYL ANTHRANILATE ≥98.0%, Kosher, Special Order",
+          "source": "Bedoukian Research"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1002291.html"
+    },
+    {
+      "item_id": 2912,
+      "name": "artemisia dracunculus herb oil",
+      "cas": "8016-88-4",
+      "odor_type": "spicy",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "herbaceous, with a delicious aniseed character Cultivated for its aniseed-flavored leaves, tarragon is an aromatic plant that is very popular in French and Chinese cuisine. A perennial, deciduous plant, tarragon forms a small bush with straight, branched stems. The bright-green leaves are narrow and pointed. Light-gree",
+          "source": "Albert Vieille SAS · Tarragon Essential oil Hungary"
+        },
+        {
+          "kind": "odor_description",
+          "text": "eet anise spice woody herbaceous like anethole and sweet basil but less sweet BLENDS WITH - +Cinnamon +Oakmoss +Ionones +Vanilla +Lavender",
+          "source": "PerfumersWorld · Estragon Oil"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Aromatic, fresh, aniseed, green, spicy This quality has a methyl eugenol content less than 10 ppm (versus 1% in the essential oil).",
+          "source": "Robertet · Tarragon low methyl eugenol oil 100% Pure & Natural, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1022891.html"
+    },
+    {
+      "item_id": 5510,
+      "name": "isobutyl quinoline",
+      "cas": "65442-31-1",
+      "odor_type": "animal",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "earthy, shap-leather, rooty nutty oakmoss vetiver Givaudan product based on isobutyl quinolene. Very long-lasting and effective fixative. A classic leathery ingredient, also useful in animalic bases and recreation of oud and to boost the effect of oakmoss and it’s substitutes.",
+          "source": "Pell Wall Perfumes · Butyl Quinoline Secondary"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Leather, Green, Woody, Powerful Pyralone is finer, more aromatic and tobacco-like, and has less of a dry, earthy character than Butyl Quinoline Secondary. It is used in chypre, fougère and tobacco accords.",
+          "source": "Givaudan · Pyralone"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. castoreum leather earthy oakmoss vetiver Luebke, William tgsc, (1986)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006851.html"
+    },
+    {
+      "item_id": 1216,
+      "name": "allyl butyrate",
+      "cas": "2051-78-7",
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Fruity green tropical with sweet fermented waxy nuances Mosciano, Gerard P&F 14, No. 6, 47, (1989)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet pungent fruity green pineapple, with waxy tropical nuances Mosciano, Gerard P&F 14, No. 6, 47, (1989)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. sweet pungent fruity green pineapple waxy tropical",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1017881.html"
+    },
+    {
+      "item_id": 4986,
+      "name": "2,3-butane dithiol",
+      "cas": "4532-64-3",
+      "odor_type": "sulfurous",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Sulfureous, fatty and roast beef-Iike with egg, salami and pork nuances Mosciano, Gerard P&F 22, No. 3, 47, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sulfureous, meaty and alliaceous with a coffee nuance Mosciano, Gerard P&F 22, No. 3, 47, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in propylene glycol. meaty beefy",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1036421.html"
+    },
+    {
+      "item_id": 5475,
+      "name": "butyl propionate",
+      "cas": "590-01-2",
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, estry, banana, ripe, tufti-frutti, bright, lifting, cherry and rum-like Mosciano, Gerard P&F 22, No. 4, 75, (1997)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 30.00 ppm. Fruity, sweet, banana, tropical and tutti-frutti Mosciano, Gerard P&F 22, No. 4, 75, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. earthy sweet weak rose",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007651.html"
+    },
+    {
+      "item_id": 1973,
+      "name": "isoamyl 2-methyl butyrate",
+      "cas": "27625-35-0",
+      "odor_type": "fruity",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 5.00 - 15.00 ppm. Sweet, creamy, fruity with apple, winey, cherry, raisin and berry nuances Mosciano, Gerard P&F 26, No. 1, 52, (2001)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 %. Sweet, fruity, cherry, winey with blueberry and apple nuances Mosciano, Gerard P&F 26, No. 1, 52, (2001)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. sweet fruity citrus cherry blueberry apple",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1036561.html"
+    },
+    {
+      "item_id": 1278,
+      "name": "allyl propionate",
+      "cas": "2408-20-0",
+      "odor_type": "ethereal",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. ethereal acrylate fruity wasabi ripe tropical ripe banana nut skin Luebke, William tgsc, (2021)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Etherial, sharp, acrylate-like with an alliaceous nuance, overripe and tropical Mosciano, Gerard P&F 20, No. 3, 63, (1995)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Pungent, sharp, alliaceous, acrylate-like with a tropical depth Mosciano, Gerard P&F 20, No. 3, 63, (1995)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1002921.html"
+    },
+    {
+      "item_id": 1898,
+      "name": "isoamyl alcohol",
+      "cas": "123-51-3",
+      "odor_type": "fermented",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fusel, alcoholic, pungent, etherial, cognac, fruity, banana and molasses Mosciano, Gerard P&F 22, No. 4, 75, (1997)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 50.00 ppm. Fusel, fermented, fruity, banana, etherial and cognac Mosciano, Gerard P&F 22, No. 4, 75, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. fusel oil alcoholic whiskey fruity banana",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1014671.html"
+    },
+    {
+      "item_id": 4633,
+      "name": "isobornyl isovalerate",
+      "cas": "7779-73-9",
+      "odor_type": "woody",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Woody, mild, cooling and borneol-like with oily and green nuances Mosciano, Gerard P&F 22, No. 3, 47, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. woody dry valerian root pine camphoreous oily balsamic forest Luebke, William tgsc, (2021)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "Woody, camphoreous and borneol-like with green nuances Mosciano, Gerard P&F 22, No. 3, 47, (1997)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1012821.html"
+    },
+    {
+      "item_id": 1225,
+      "name": "allyl cyclohexyl propionate",
+      "cas": "2705-87-5",
+      "odor_type": "fruity",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, pineapple, tropical fruit, sweets, waxy Arctander tells us it has a “powerful and sweet-fruity odor of Pineapple. Smoother and sweeter than Allyl caproate. Fruitiness similar to that of Linalyl acetate.”",
+          "source": "Pell Wall Perfumes · Allyl cyclohexyl propionate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 30.00 ppm. Fruity, pineapple, waxy, with green sweet apple nuances Mosciano, Gerard P&F 15, No. 3, 51, (1990)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity, pineapple, waxy, apple and green Mosciano, Gerard P&F 15, No. 3, 51, (1990)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1000322.html"
+    },
+    {
+      "item_id": 1993,
+      "name": "6-amyl-alpha-pyrone",
+      "cas": "27593-23-3",
+      "odor_type": "tonka",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 30.00 ppm. Sweet creamy, coconut, mushroom and nutty Mosciano, Gerard P&F 16, No. 6, 43, (1991)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Coconut creamy, sweet, brown with a fatty waxy nuance Mosciano, Gerard P&F 16, No. 6, 43, (1991)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. tonka lactonic coconut creamy fatty waxy",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005401.html"
+    },
+    {
+      "item_id": 594,
+      "name": "acorn acetate",
+      "cas": "5240-32-4",
+      "odor_type": "herbal",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Powerful, natural fresh woody tone with hay and honey, immortelle aspects",
+          "source": "IFF · Herbacet"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Herbacet",
+          "source": "IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. natural acorn dry oak leaves hay woody immortelle herbal Luebke, William tgsc, (1995)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1012811.html"
+    },
+    {
+      "item_id": 5175,
+      "name": "butyl butyryl lactate",
+      "cas": "7492-70-8",
+      "odor_type": "buttery",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 50.00 ppm. Creamy, dairy, fatty and waxy with milky and cheesy nuances Mosciano, Gerard P&F 20, No. 6, 49, (1995)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Creamy, fatty and dairy-like, with waxy, sweaty and green nuances Mosciano, Gerard P&F 20, No. 6, 49, (1995)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "buttery Used in cheese, dairy, green apple, tropical, pineapple, butterscotch, maple and chocolate flavors.",
+          "source": "Bedoukian Research · BUTYL BUTYRYL LACTATE ≥98.0%, FCC, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007441.html"
+    },
+    {
+      "item_id": 1998,
+      "name": "amyl salicylate",
+      "cas": "2050-08-0",
+      "odor_type": "floral",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "herbal, floral-clover, azalea, green, sweet, chocolate, salicylate Here is Arctander on the odour and usage: “Sweet herbaceous-green, slightly floral odor. Very tenacious, somewhat woody-earthy, sweet dryout notes. Refined qualities of this ester may show a marked difference in odor, particularly richer in sweetness an",
+          "source": "Pell Wall Perfumes · Amyl Salicylate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Floral, Sweet, Herbaceous, Balsamic Amyl Salicylate has a floral and sweet, herbaceous and balsamic character, with a greenish tone. It is extensively employed in florals and can be an important ingredient for fougeres.",
+          "source": "Givaudan · Amyl Salicylate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. herbal floral clover azalea green sweet chocolate Luebke, William tgsc, (1986)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1012551.html"
+    },
+    {
+      "item_id": 1264,
+      "name": "allyl octanoate",
+      "cas": "4230-97-1",
+      "odor_type": "waxy",
+      "odor_strength": "medium",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fatty and waxy, sweet, fruity pineapple-like with a green tropical nuance Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. waxy fruity green tropical pineapple watercress metallic fatty soapy Luebke, William tgsc, (2021)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Fatty, fruity, pineapple tropical-like Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1002871.html"
+    },
+    {
+      "item_id": 4268,
+      "name": "betula lenta bark oil america",
+      "cas": "68917-50-0",
+      "odor_type": "minty",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 2.00 %. sweet, methyl salicylate, aromatic, spicy and herbal with a phenolic nuance Mosciano, Gerard P&F 22, No. 6, 41, (1997)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Methyl salicylate, clean and refreshing with a cooling phenolic nuance Mosciano, Gerard P&F 22, No. 6, 41, (1997)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 10.00 % in dipropylene glycol. sweet wintergreen spice herbal Luebke, William tgsc, (1996)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1001931.html"
+    },
+    {
+      "item_id": 273,
+      "name": "acetophenone",
+      "cas": "98-86-2",
+      "odor_type": "floral",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 %. sweet, cherry pit, marzipan and coumarinic. It has a slight almond nutty and heliotropin-like vanilla nuance Mosciano, Gerard P&F 26, No. 2, 40, (2001)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 3.50 - 10.00 ppm. Powdery, bitter almond cherry pit-like with coumarinic and fruity nuances Mosciano, Gerard P&F 26, No. 2, 40, (2001)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. sweet pungent hawthorn mimosa almond acacia chemical Luebke, William tgsc, (1983)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1000131.html"
+    },
+    {
+      "item_id": 440,
+      "name": "2-acetyl pyrazine",
+      "cas": "22047-25-2",
+      "odor_type": "popcorn",
+      "odor_strength": "very high , recommend smelling in a 0.10 % solution or less",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "nutty Used not only for popcorn type flavours, but also in roast nut flavours (hazelnut, peanut, almond), chocolate, bread and yeast type flavors. 2-Acetylpyrazine and 2-acetylthiazole both have aromas similar to the non-GRAS material 2-acetylpyrroline which is an important character impact compound in aromatic rice, b",
+          "source": "R C Treatt & Co Ltd · 2-Acetylpyrazine Halal, Kosher"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Roasted, nutty, bready and yeasty, with popcorn and corn chip nuances Mosciano, Gerard P&F 17, No. 1, 41, (1992)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in propylene glycol. popcorn nutty corn chip bread crust chocolate hazelnut coffee Luebke, William tgsc, (1996)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1012201.html"
+    },
+    {
+      "item_id": 891,
+      "name": "agarwood oil",
+      "cas": "94350-09-1",
+      "odor_type": "woody",
+      "odor_strength": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Oud, fresh-woody, balsamic, animal-barnyard This is the real thing, beautifully complex and incredibly lasting. It was almost certainly adulterated somewhat at source because almost all natural oud is, but it hasn’t been cut by us or by any middle-men.",
+          "source": "Pell Wall Perfumes · Oudh – Cambodian"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. sweet agarwood woody balsam sandalwood leathery fruity smoky animal tobacco",
+          "source": null
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Oudh – Cambodian",
+          "source": "Pell Wall Perfumes"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1067531.html"
+    },
+    {
+      "item_id": 339,
+      "name": "acetyl butyryl",
+      "cas": "3848-24-6",
+      "odor_type": "buttery",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in dipropylene glycol. dry sweet caramel butter oily fatty creamy phenolic fruity Luebke, William tgsc, (1988)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, creamy, caramellic, buttery with a fruity jammy nuance Mosciano, Gerard P&F 16, No. 6, 43, (1991)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 50.00 ppm. Creamy, fruity, toasted brown caramellic notes Mosciano, Gerard P&F 16, No. 6, 43, (1991)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1014711.html"
+    }
+  ]
+}
