@@ -1,0 +1,19 @@
+{
+  "total_items": 42233,
+  "completed": 25839,
+  "pending": 16391,
+  "failed": 3,
+  "percent": 61.18,
+  "eta": null,
+  "pages_per_hour": null,
+  "last_url": null,
+  "last_completed_at": "2026-09-08T21:48:37.490853+00:00",
+  "updated_at": "2026-09-08T21:48:37.534158+00:00",
+  "built_at": "2026-09-08T21:50:27Z",
+  "source": "live-scrape",
+  "run_status": "finished",
+  "run_started_at": "2026-09-08T20:48:22.752591+00:00",
+  "run_finished_at": "2026-09-08T21:48:37.534158+00:00",
+  "run_max_minutes": 60.0,
+  "run_id": 40
+}

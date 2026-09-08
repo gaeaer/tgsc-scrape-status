@@ -1,0 +1,3125 @@
+{
+  "updated_at": "2026-09-08T21:48:37.534158+00:00",
+  "samples": [
+    {
+      "item_id": 25361,
+      "name": "alpha-methyl ionone",
+      "cas": "7779-30-8",
+      "formula": "C14H22O",
+      "molecular_weight": "206.32854000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "1-(2,6,6-trimethyl-1-cyclohex-2-enyl)pent-1-en-3-one",
+      "odor_type": "powdery",
+      "flavor_type": "fruity",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "> 48 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Smooth beeswax, orris woody complex with violet nuances. Very diffusive and long lasting",
+          "source": "IFF · Meth Ionone Alpha Extra"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Meth Ionone Alpha Extra",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1052211.html"
+    },
+    {
+      "item_id": 11361,
+      "name": "(E)-2-decenal",
+      "cas": "3913-81-3",
+      "formula": "C10H18O",
+      "molecular_weight": "154.25266000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "(E)-dec-2-enal",
+      "odor_type": "fatty",
+      "flavor_type": "waxy",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "> 57 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 %. Waxy, fatty, earthy, coriander, green, mushroom, aldehydic with a chicken and pork fat nuance Mosciano, Gerard P&F 23, No. 5, 49, (1998)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "A fatty, diffusive, orange odor with floral, rosey topnotes Sweet aldehydic, green odor that blends well with citrus and floral compositions.",
+          "source": "Bedoukian Research · trans-2-DECEN-1-AL ≥95.0% (trans), FCC, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007761.html"
+    },
+    {
+      "item_id": 16704,
+      "name": "furfuryl mercaptan",
+      "cas": "98-02-2",
+      "formula": "C5H6OS",
+      "molecular_weight": "114.16702000",
+      "appearance": "colorless to pale yellow clear oily liquid (est)",
+      "systematic_name": "furan-2-ylmethanethiol",
+      "odor_type": "coffee",
+      "flavor_type": "coffee",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "burnt Flavor threshold in water: 0.04 ppb. Found as a natural constituent in Roasted offee in 1926, it has long been used as the character impact compound in Artificial Coffee flavors. At 0.1-1 ppb this material is coffee-like, but at 5-10 ppb it has a stale coffee & sulphury cha",
+          "source": "R C Treatt & Co Ltd · Furfuryl Mercaptan Halal, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 0.10 % in propylene glycol. Roasted coffee, sulfurous, with a burnt match note. It is savory meaty with chicken and fried onion nuances. Mosciano, Gerard P&F 26, No. 5, 68, (2001)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1008451.html"
+    },
+    {
+      "item_id": 17311,
+      "name": "geranyl propionate",
+      "cas": "105-90-8",
+      "formula": "C13H22O2",
+      "molecular_weight": "210.31674000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "[(2E)-3,7-dimethylocta-2,6-dienyl] propanoate",
+      "odor_type": "floral",
+      "flavor_type": "waxy",
+      "odor_strength": "medium",
+      "substantivity": "76 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet fruity rosy with balsamic and grape undertone",
+          "source": "IFF · Geranyl Propionate"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Geranyl Propionate",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005591.html"
+    },
+    {
+      "item_id": 22539,
+      "name": "linalool oxide",
+      "cas": "1365-19-1",
+      "formula": "C10H18O2",
+      "molecular_weight": "170.25186000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "2-(5-methyl-5-vinyltetrahydro-2-furanyl)-2-propanol",
+      "odor_type": "floral",
+      "flavor_type": "green",
+      "odor_strength": "medium",
+      "substantivity": "12 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fresh, Sweet, Pine, Floral A fresh, sweet material which is very useful for its ability to give additional lift to floral accords. It also has a fresh earthy quality which makes it invaluable in reconstituted oils. It blends harmoniously with patchouli in compounds of the chypre ",
+          "source": "Givaudan · Linalool Oxide"
+        },
+        {
+          "kind": "odor_description",
+          "text": "sweet earthy floral spice lavender dusty herbal slightly fresh floral natural-linalool Blends-well-with - Artificial Ess. Oils",
+          "source": "PerfumersWorld · Linalool Oxide"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1014332.html"
+    },
+    {
+      "item_id": 22043,
+      "name": "leerall",
+      "cas": "31906-04-4",
+      "formula": "C13H22O2",
+      "molecular_weight": "210.31674000",
+      "appearance": "colorless to pale yellow clear viscous liquid (est)",
+      "systematic_name": "4-(4-hydroxy-4-methylpentyl)cyclohex-3-ene-1-carbaldehyde",
+      "odor_type": "floral",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Soft delicate floral, lily, cyclamen, lilac note reminiscent of hydrocycitronellal Extraordinary tenacity and diffusivity. A powerful blending agent giving richness throughout all dryout phases of a perfume composition.",
+          "source": "IFF · Lyral ®"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Soft delicate floral, lily, cyclamen, lilac note reminiscent of hydrocycitronellal Extraordinary tenacity and diffusivity. A powerful blending agent giving richness throughout all dryout phases of a perfume composition.",
+          "source": "IFF · Lyral ® Tocopherol"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007972.html"
+    },
+    {
+      "item_id": 20111,
+      "name": "hydroxycitronellal / methyl anthranilate schiff's base",
+      "cas": "89-43-0",
+      "formula": "C18H27NO3",
+      "molecular_weight": "305.41779000",
+      "appearance": "yellow viscous liquid (est)",
+      "systematic_name": "methyl 2-[(7-hydroxy-3,7-dimethyloctylidene)amino]benzoate",
+      "odor_type": "floral",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 50.00 % solution or less",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "neroli orange muguet grape sweet heavy floral orange-blossom",
+          "source": "PerfumersWorld · Aurantiol Schiffs base MA Hydroxy"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Neroli, orange, muguet and grape facets",
+          "source": "IFF · Auralva"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1004281.html"
+    },
+    {
+      "item_id": 8615,
+      "name": "cinnamyl alcohol",
+      "cas": "104-54-1",
+      "formula": "C9H10O",
+      "molecular_weight": "134.17790000",
+      "appearance": "pale yellow solid (est)",
+      "systematic_name": "3-phenylprop-2-en-1-ol",
+      "odor_type": "balsamic",
+      "flavor_type": "green",
+      "odor_strength": "medium",
+      "substantivity": "371 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Warm-balsamic, floral-hyacinth and rose, sweet, mild almonds Arctander says this: “Widely used in perfume compositions, including many low-cost floral fragrances, soap perfumes, etc. Blends excellently with Amylsalicylate, Phenylethylalcohol, aromatic propionates, benzoates, etc.",
+          "source": "Pell Wall Perfumes · Cinnamyl Alcohol"
+        },
+        {
+          "kind": "taste_description",
+          "text": "sweet, slightly cinnamic Useful in: brown cocoa, brown coffee, brown others, dairy, vanilla, savory spices, fruity red, fruity yellow, fruity tropical, fruity others, sweet others.",
+          "source": "Symrise · Cinnamic alcohol"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1003291.html"
+    },
+    {
+      "item_id": 11303,
+      "name": "decanal (aldehyde C-10)",
+      "cas": "112-31-2",
+      "formula": "C10H20O",
+      "molecular_weight": "156.26860000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "decanal",
+      "odor_type": "aldehydic",
+      "flavor_type": "waxy",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "224 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, aldehydic, fresh, orange, waxy and floral Arctander says this of it: “Excellent for Citrus topnotes, for NeroIi, Rose, Jasmin, Violet, Acacia, etc. and blends well with Linalool and related alcohols, Cyclamal and other floral aldehydes, and combines pleasantly with the con",
+          "source": "Pell Wall Perfumes · Aldehyde C10 (Decanal)"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Powerful, Waxy, Aldehydic, Orange, Citrus peel An extremely important component in perfumery, this fatty aldehyde is used in floral blends such as rose, jasmine and iris, in aldehydic bouquets, and in citrus fragrances, where it enhances power and diffusion.",
+          "source": "Givaudan · Aldehyde C 10 Decylic Food Grade"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1000171.html"
+    },
+    {
+      "item_id": 19199,
+      "name": "(E)-2-hexenal",
+      "cas": "6728-26-3",
+      "formula": "C6H10O",
+      "molecular_weight": "98.14490000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "(E)-hex-2-enal",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "< 8 hour(s) at 10.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "characteristic Eleonora Scalseggi has this to say “Also called “leaf aldehyde” this natural isolate has an outstandingly high odour strength, to such an extent that we recommend not to smell it directly from the bottle but to dilute it down to at least 20% because it is extremely",
+          "source": "Hermitage Oils · Trans 2 Hexenal Natural Isolate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Leafy-green, fruity-apple, sweet, fresh . Diffusive According to Arctander it has a: “Powerful green-fruity, pungent vegetabie-like odor, pungent in high concentrations, almost acrylic-sharp, but pleasant fruity and fresh-green in dilutions below 0.1%. Used in perfume composition",
+          "source": "Pell Wall Perfumes · trans-2-Hexenal 0.1%"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013831.html"
+    },
+    {
+      "item_id": 25596,
+      "name": "methyl 3-nonenoate",
+      "cas": "13481-87-3",
+      "formula": "C10H18O2",
+      "molecular_weight": "170.25186000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "methyl non-3-enoate",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "> 24 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A fruity, green, waxy pear-like aroma with wine and brandy notes on dry-down An intense fresh, fruity, green odor with cucumber undrtones. Useful in violet and narcissus formulations. Imparts a flower shop effect.",
+          "source": "Bedoukian Research · METHYL 3-NONENOATE (MIN 98.5% TRANS)"
+        },
+        {
+          "kind": "odor_description",
+          "text": "A fruity, green, pear-like aroma An intense fresh, fruity, green odor with cucumber undrtones. Useful in violet and narcissus formulations. Imparts a flower shop effect.",
+          "source": "Bedoukian Research · METHYL 3-NONENOATE (HIGH TRANS) ≥97.0%, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1037561.html"
+    },
+    {
+      "item_id": 19427,
+      "name": "hexyl benzoate",
+      "cas": "6789-88-4",
+      "formula": "C13H18O2",
+      "molecular_weight": "206.28486000",
+      "appearance": "colorless clear oily liquid (est)",
+      "systematic_name": "hexyl benzoate",
+      "odor_type": "balsamic",
+      "flavor_type": "green",
+      "odor_strength": "medium",
+      "substantivity": "192 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fresh balsamic, clean woody note",
+          "source": "IFF · Hexyl Benzoate, N-"
+        },
+        {
+          "kind": "taste_description",
+          "text": "sweet aromatic, slightly fruity",
+          "source": "IFF · Hexyl Benzoate, N-"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013291.html"
+    },
+    {
+      "item_id": 20992,
+      "name": "jasmopyrane (Givaudan)",
+      "cas": "18871-14-2",
+      "formula": "C12H22O3",
+      "molecular_weight": "214.30494000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "(3-pentyloxan-4-yl) acetate",
+      "odor_type": "floral",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "356 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Oily, plant like, herbaceous, lavender, slightly mushroomy, floral tea jasmin note",
+          "source": "IFF · Jasmal"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Jasmal",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1618211.html"
+    },
+    {
+      "item_id": 11153,
+      "name": "beta-damascenone",
+      "cas": "23696-85-7",
+      "formula": "C13H18O",
+      "molecular_weight": "190.28566000",
+      "appearance": "yellow clear liquid (est)",
+      "systematic_name": "(E)-1-(2,6,6-trimethyl-1-cyclohexa-1,3-dienyl)but-2-en-1-one",
+      "odor_type": "floral",
+      "flavor_type": "woody",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "216 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral rosy, fruity odor with plum, berry and tobacco nuances",
+          "source": "IFF · Damascenone 93% Min."
+        },
+        {
+          "kind": "odor_description",
+          "text": "Floral rosy, fruity odor with plum, berry and tobacco nuances",
+          "source": "IFF · Damascenone 98% Min."
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1021911.html"
+    },
+    {
+      "item_id": 7219,
+      "name": "atlas cedarwood oil",
+      "cas": "8023-85-6",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "yellowish amber to orange brown clear liquid (est)",
+      "systematic_name": "cedrus atlantica wood oil",
+      "odor_type": "woody",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "192 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Very strong, long lasting and powerful woody note with spicy, orris, amber, leathery and bitter almond effects",
+          "source": "IFF · Cedarwood Oil Atlas TD"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet woody note with a milky warm undertone characteristic of the Atlas origin",
+          "source": "IFF · Cedarwood Oil Atlas Redist"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1028531.html"
+    },
+    {
+      "item_id": 9945,
+      "name": "cortex pyridine",
+      "cas": "2110-18-1",
+      "formula": "C14H15N",
+      "molecular_weight": "197.28055000",
+      "appearance": "yellow to brown clear liquid (est)",
+      "systematic_name": "2-(3-cyclohexylpropyl)pyridine",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "very high , recommend smelling in a 0.10 % solution or less",
+      "substantivity": "400 hour(s) at 10.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "green, earthy, root-like, herbaceous, reminiscent of pea pods, ginseng root and petitgrain oil, extremely powerful and efficient Stable in: body lotion (good), shampoo (good), soap (good), ap roll-on (good), powder (good), cleaner citric (very good), cleaner apc (good), bleach (v",
+          "source": "Symrise · Corps Racine"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 1.00 ppm. Green, vegetative, green and jalapeno pepper-like with some savory metallic nuances Mosciano, Gerard P&F 19, No. 4, 45, (1994)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1023331.html"
+    },
+    {
+      "item_id": 9052,
+      "name": "citrus ocimenol",
+      "cas": "78-69-3",
+      "formula": "C10H22O",
+      "molecular_weight": "158.28454000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "3,7-dimethyloctan-3-ol",
+      "odor_type": "citrus",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "12 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fresh, floral, woody odor with a citrus nuance. A modern alternative to linalool and can also be used as a floralizer",
+          "source": "IFF · Tetrahydro Muguol ®"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Tetrahydro Muguol ®",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007851.html"
+    },
+    {
+      "item_id": 25533,
+      "name": "methyl methylene tricyclodecanol",
+      "cas": "122760-84-3",
+      "formula": "C12H18O",
+      "molecular_weight": "178.27466000",
+      "appearance": "white solid (est)",
+      "systematic_name": "4-methyl-8-methylideneadamantan-2-ol",
+      "odor_type": "woody",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "> 12 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Soft herbaceous pine with spicy hints of ginger and Indian cardamom, followed by smooth natural woods",
+          "source": "IFF · Prismantol"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Prismantol",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1548271.html"
+    },
+    {
+      "item_id": 20652,
+      "name": "indole",
+      "cas": "120-72-9",
+      "formula": "C8H7N",
+      "molecular_weight": "117.15079000",
+      "appearance": "white to amber yellow crystalline solid powder (est)",
+      "systematic_name": "1H-indole",
+      "odor_type": "animal",
+      "flavor_type": "animal",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "400 hour(s) at 50.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Animalic, floral-heady, faecal, naphthelene / moth-balls Arctander writes extensively about this material; here are a couple of extracts: “Extremely diffusive and powerful odor, almost tarry-repulsive and choking when concentrated, but in concentrations lower than 0.1%. or in com",
+          "source": "Pell Wall Perfumes · Indole"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 %. Pungent, floral, slightly naphtha and mothball like with a fecal and animalic musty character Mosciano, Gerard P&F 26, No. 3, 80, (2001)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006511.html"
+    },
+    {
+      "item_id": 17278,
+      "name": "geranyl isobutyrate",
+      "cas": "2345-26-8",
+      "formula": "C14H24O2",
+      "molecular_weight": "224.34368000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "[(2E)-3,7-dimethylocta-2,6-dienyl] 2-methylpropanoate",
+      "odor_type": "floral",
+      "flavor_type": "floral",
+      "odor_strength": "medium",
+      "substantivity": "9 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A sweet fruity apple note with waxy undertones",
+          "source": "IFF · Geranyl Iso Butyrate"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Geranyl Iso Butyrate",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1016431.html"
+    },
+    {
+      "item_id": 19388,
+      "name": "(Z)-3-hexen-1-yl propionate",
+      "cas": "33467-74-2",
+      "formula": "C9H16O2",
+      "molecular_weight": "156.22492000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "[(Z)-hex-3-enyl] propanoate",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "> 4 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Excellent fresh, sweet green fruity note Used for a variety of fruity and tropical flavors including pear, apple, peach, pineapple, mango, passion fruit, raspberry, and other berries. Also useful for vegetable and.spices.",
+          "source": "Bedoukian Research · cis-3-HEXENYL PROPIONATE ≥97.0% (cis), Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, powerful, intensely green odor that is vegetable-like and fatty with hints of tropical fruit Complexes extremely well with green, fruity floral types. Accentuates tropical fruit notes, especially kiwi.",
+          "source": "Bedoukian Research · cis-3-HEXENYL PROPIONATE ≥97.0% (cis), Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1026871.html"
+    },
+    {
+      "item_id": 22007,
+      "name": "leather cyclohexanol",
+      "cas": "4621-04-9",
+      "formula": "C9H18O",
+      "molecular_weight": "142.24166000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "4-propan-2-ylcyclohexan-1-ol",
+      "odor_type": "leathery",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "12 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A diffusive floral effect reminiscent of a combination of lilac, rose and geranium Diffusive leathery, floral effect reminiscent of lilac, rose and geranium. Excellent stability. Non-discoloring.",
+          "source": "IFF · Apo Patchone Coeur"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Discreet leather scent with a hint of rose",
+          "source": "Perfumery Laboratory · SKIN CYCLOHEXANOL IFF (leather cyclohexanol IFF)"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001961.html"
+    },
+    {
+      "item_id": 379,
+      "name": "2-acetyl furan",
+      "cas": "1192-62-7",
+      "formula": "C6H6O2",
+      "molecular_weight": "110.11222000",
+      "appearance": "colorless crystals (est)",
+      "systematic_name": "1-(furan-2-yl)ethanone",
+      "odor_type": "balsamic",
+      "flavor_type": "nutty",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "> 408 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "balsamic Flavour threshold in water: 80,000 ppb. Used in Chocolate, Coffee, Roast Nut, Bread, Rum, Whiskey, Tamarind, Tea and Tobacco flavours, as a trace background note. 2-Acetylfuran is the most abundant flavour compound in Tamarind, where its aroma, in conjunction with alpha-",
+          "source": "R C Treatt & Co Ltd · 2-Acetylfuran Halal, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet, almondy, nutty, brown and toasted with a milky, lactonic undernote Mosciano, Gerard P&F 23, No. 1, 33, (1998)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1026171.html"
+    },
+    {
+      "item_id": 1579,
+      "name": "amber carbinol",
+      "cas": "87118-95-4",
+      "formula": "C12H26O",
+      "molecular_weight": "186.33842000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "3,4,5,6,6-pentamethyl-2-heptanol",
+      "odor_type": "woody",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "44 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Exquisite floral, woody odor with dry, ambery, vetivert and raisin nuances",
+          "source": "IFF · Kohinool ®"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Exquisite floral, woody, dry, amber, vetiver with a touch of raisin",
+          "source": "Perfumery Laboratory · KOHINOOL ® IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007661.html"
+    },
+    {
+      "item_id": 20925,
+      "name": "jasmin absolute egypt (from concrete)",
+      "cas": "8022-96-6",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "reddish brown clear oily liquid (est)",
+      "systematic_name": "jasminum grandiflorum l. absolute",
+      "odor_type": "floral",
+      "flavor_type": "floral",
+      "odor_strength": "medium",
+      "substantivity": "312 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Mellow floral fruity character of jasmine supported by the warmth and power of indole. More substantive than the Indian origin",
+          "source": "IFF · Jasmin Absolute Egypt"
+        },
+        {
+          "kind": "taste_description",
+          "text": "jasmin floral fruity tropical naphthyl oily green spicy herbal",
+          "source": "IFF · Jasmin Absolute Egypt"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/ab1591071.html"
+    },
+    {
+      "item_id": 10603,
+      "name": "cyclamen aldehyde",
+      "cas": "103-95-7",
+      "formula": "C13H18O",
+      "molecular_weight": "190.28566000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "2-methyl-3-(4-propan-2-ylphenyl)propanal",
+      "odor_type": "floral",
+      "flavor_type": "green",
+      "odor_strength": "medium",
+      "substantivity": "72 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "floral-cyclamen, fresh, Linden-blossom, green, rhubarb Arctander describes it as “Diffusive and powerful floral-green, floral-stem like odor with pronounced vegetable Cucumber-Melon-like notes. Overall resembling the odor of Lindenblossom. Extensively used in perfumery for floral",
+          "source": "Pell Wall Perfumes · Cyclamen Aldehyde"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Floral, Green, Powerful Cyclamen Aldehyde Extra can be used in many floral, green, fresh and marine accords. Its stability and substantivity are especially useful for functional perfumery.",
+          "source": "Givaudan · Cyclamen Aldehyde Extra"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1004112.html"
+    },
+    {
+      "item_id": 19528,
+      "name": "hexyl salicylate",
+      "cas": "6259-76-3",
+      "formula": "C13H18O3",
+      "molecular_weight": "222.28406000",
+      "appearance": "colorless clear oily liquid (est)",
+      "systematic_name": "hexyl 2-hydroxybenzoate",
+      "odor_type": "herbal",
+      "flavor_type": "herbal",
+      "odor_strength": "low",
+      "substantivity": "40 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Mild, balsamic, fresh, herbal, floral, typical salicylate character, good blending agent. Arctander has quite a bit to say about it and starts by describing its odour: “Very faint, sweet-herbaceous and floral odor with dry-bark-like green undertones, sometimes referred to as Wit",
+          "source": "Pell Wall Perfumes · Hexyl Salicylate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Floral, Green, Fruity Hexyl Salicylate has a floral fruity character, with a mild, sweet herbaceous slant. It is a very useful modifier of floral fragrances especially with amyl salicylate.",
+          "source": "Givaudan · Hexyl Salicylate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1002751.html"
+    },
+    {
+      "item_id": 1597,
+      "name": "amber oxepin",
+      "cas": "57345-19-4",
+      "formula": "C18H30O2",
+      "molecular_weight": "278.43550000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "5,5,9,13-tetramethyl-14,16-dioxatetracyclo[11.2.1.01,10.04,9]hexadecane",
+      "odor_type": "amber",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "> 384 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Extremely powerful amber and woody with elegant animalic, musky tonalities",
+          "source": "IFF · Ambermor Ketal Crystal"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Extremely powerful amber and woody with elegant animalic, musky tonalities",
+          "source": "IFF · Ambermor Ketal IPM"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1547611.html"
+    },
+    {
+      "item_id": 11160,
+      "name": "(E)-beta-damascone",
+      "cas": "23726-91-2",
+      "formula": "C13H20O",
+      "molecular_weight": "192.30160000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "(E)-1-(2,6,6-trimethyl-1-cyclohexenyl)but-2-en-1-one",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "264 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Rose, plum, raspberry, wine, tobacco. Diffusive According to Arcadi Boix Camps it’s effects are impressive even in minimal doses, he says “It imparts a freshness, naturalness, radiance, intensity, broadness, uniformity and character to any perfume.” He continues: “ As is well kno",
+          "source": "Pell Wall Perfumes · Damascone Beta"
+        },
+        {
+          "kind": "odor_description",
+          "text": "A very powerful fruity floral note. DAMASCONE BETA is a complex odor of rose, plum, blackcurrant, wine and tobacco DAMASCONE BETA gives a very distinctive character to any perfume. It is particularly valuable in rose but has also interesting effects in florals, woody, herbal, ald",
+          "source": "Firmenich · DAMASCONE BETA"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1000881.html"
+    },
+    {
+      "item_id": 11366,
+      "name": "(E)-4-decenal",
+      "cas": "65405-70-1",
+      "formula": "C10H18O",
+      "molecular_weight": "154.25266000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "(E)-dec-4-enal",
+      "odor_type": "citrus",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 0.10 % solution or less",
+      "substantivity": "296 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fresh-citrus, aldehydic, orange, mandarin, tangerine, green. Very Powerful and diffusive Arcadi Boix Camps writing in 1985, describes this and the related cis compound as “an extremely agreeable, citric aldehyde, orange flower odour, and it profoundly changes every kind of floral",
+          "source": "Pell Wall Perfumes · Decenal 4 Trans"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Aldehydic, Orange, Green, Floral Decenal-4-Trans is an exceptionally powerful and diffusive chemical. Used mainly as a top note ingredient, it produces a fresh, natural, citrus-like effect, imparting tremendous lift.",
+          "source": "Givaudan · Decenal-4-Trans"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1028391.html"
+    },
+    {
+      "item_id": 23893,
+      "name": "melon heptenal",
+      "cas": "106-72-9",
+      "formula": "C9H16O",
+      "molecular_weight": "140.22572000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "2,6-dimethylhept-5-enal",
+      "odor_type": "melon",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "144 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Green, fruity-melon, cucumber. Powerful According to Arcadi Boix Camps, writing in 1978, “Melon-fruity products are playing a decisive role in the current evolution of perfumery. Let us mention cis-6-nonenol, with an absolutely natural and intense melon character, which could lea",
+          "source": "Pell Wall Perfumes · Melonal G"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Powerful, Green, Melon, Cucumber Melonal offers a powerful and unique note. It is effective in all types of fragrances and is invaluable in the creation of natural smelling marine and fruity-melon notes.",
+          "source": "Givaudan · Melonal"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1019891.html"
+    },
+    {
+      "item_id": 25102,
+      "name": "4-methyl guaiacol",
+      "cas": "93-51-6",
+      "formula": "C8H10O2",
+      "molecular_weight": "138.16610000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "2-methoxy-4-methylphenol",
+      "odor_type": "spicy",
+      "flavor_type": "spicy",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "132 hour(s) at 10.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "phenolic, smoky, sweet, coffee, vanilla, cocoa Useful in: brown nuts, brown cocoa, brown coffee, brown others, dairy, vanilla, savory spices, savory meat, sweet others, alcoholics.",
+          "source": "Symrise · Methyl guaiacol-4"
+        },
+        {
+          "kind": "taste_description",
+          "text": "spicy Used in rum, nut, clove, vanilla flavours for savoury at 35ppm, soft confection at 10ppm, beverages at 5ppm, and dairy confection/desserts at 2ppm.",
+          "source": "R C Treatt & Co Ltd · 4-Methylguaiacol Halal, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1020341.html"
+    },
+    {
+      "item_id": 18102,
+      "name": "green acetate",
+      "cas": "88-41-5",
+      "formula": "C12H22O2",
+      "molecular_weight": "198.30574000",
+      "appearance": "colorless to pale yellow liquid to solid (est)",
+      "systematic_name": "(2-tert-butylcyclohexyl) acetate",
+      "odor_type": "fruity",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "8 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Powerful, fresh, fruity, apple, woody. Gives a fruity tea note in florals or is simply a woody tone. It is unusually intense, yet it blends well",
+          "source": "IFF · Verdox™"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Verdox™",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1002461.html"
+    },
+    {
+      "item_id": 19357,
+      "name": "(Z)-3-hexen-1-yl 2-methyl butyrate",
+      "cas": "53398-85-9",
+      "formula": "C11H20O2",
+      "molecular_weight": "184.27880000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "[(Z)-hex-3-enyl] 2-methylbutanoate",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "4 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A fruity green odor with notes of apple and snow-pea, as well as natural connotations Imparts a refreshing green and tart granny smith apple note to fruity floral compositions. Blends well with lavender, clary sage, and geranium. Excellent in air freshener fragrances.",
+          "source": "Bedoukian Research · cis-3-HEXENYL ALPHA METHYL BUTYRATE 97.0% - 99.9% (cis), FCC, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "A fruity green odor with notes of apple and snow-pea, as well as natural connotations Imparts a refreshing green and tart granny smith apple note to fruity floral compositions. Blends well with lavender, clary sage, and geranium. Excellent in air freshener.",
+          "source": "Bedoukian Research · cis-3-HEXENYL ALPHA METHYL BUTYRATE FCC, NO ANTIOXIDANT ≥98.0% (sum of isomers), Special Order"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1016971.html"
+    },
+    {
+      "item_id": 9791,
+      "name": "coranol (Firmenich)",
+      "cas": "83926-73-2",
+      "formula": "C11H22O",
+      "molecular_weight": "170.29554000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "4-cyclohexyl-2-methylbutan-2-ol",
+      "odor_type": "floral",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "18 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral, Fresh, Spicy",
+          "source": "IFF · Coramor"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Coramor",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1585801.html"
+    },
+    {
+      "item_id": 12713,
+      "name": "dimethyl anthranilate",
+      "cas": "85-91-6",
+      "formula": "C9H11NO2",
+      "molecular_weight": "165.19207000",
+      "appearance": "pale yellow to amber clear liquid to solid (est)",
+      "systematic_name": "methyl 2-methylaminobenzoate",
+      "odor_type": "floral",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "48 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Orange flower, Mandarine, Neroli Dimethyl Anthranilate is similar in use to Methyl Anthranilate, but it will not form Schiff bases with the aldehydes and has little or no tendency to discolour.",
+          "source": "Givaudan · Dimethyl Anthranilate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Fruity grape skin, anthranilate-like with a woody and floral nuance Mosciano, Gerard P&F 16, No. 1, 31, (1991)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1004392.html"
+    },
+    {
+      "item_id": 16533,
+      "name": "frankincense resinoid",
+      "cas": "8050-07-5",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "dark amber solid (est)",
+      "systematic_name": "boswellia carteri birdw. resinoid",
+      "odor_type": "woody",
+      "flavor_type": "woody",
+      "odor_strength": "medium",
+      "substantivity": "284 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Characteristic olibanum odor, more spicy and less zesty than the oil with a mandarin aldehyde top note",
+          "source": "IFF · Olibanum Resinoid MD"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fresh balsamic note with a spicy mineral character. Nearly fruity, rich and long lasting",
+          "source": "IFF · Olibanum Resinoid Extra 50 PCT DPG"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rs1048341.html"
+    },
+    {
+      "item_id": 11157,
+      "name": "(E)-alpha-damascone",
+      "cas": "24720-09-0",
+      "formula": "C13H20O",
+      "molecular_weight": "192.30160000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "(E)-1-(2,6,6-trimethyl-1-cyclohex-2-enyl)but-2-en-1-one",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "64 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Unique and sophisticated floral fruity note with a delicate and natural rose character. Complex apple note, mint and blackcurrant with plum undertones",
+          "source": "IFF · Damascone Alpha"
+        },
+        {
+          "kind": "taste_description",
+          "text": "fruity woody green seedy",
+          "source": "IFF · Damascone Alpha"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006041.html"
+    },
+    {
+      "item_id": 13625,
+      "name": "dodecanal (aldehyde C-12 lauric)",
+      "cas": "112-54-9",
+      "formula": "C12H24O",
+      "molecular_weight": "184.32248000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "dodecanal",
+      "odor_type": "aldehydic",
+      "flavor_type": "soapy",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "368 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "fatty sweaty soapy fresh clean strong odour waxy clean-soap-laundry aldehyde floral sweet waxy-herb green fresh balsamic BLENDS WITH - +Isobornyl Acetate +Anisyl Alcohol Fixer For This Aldehyde +Benzyl Isoeugenol Fixer For This Aldehyde +Anthocephalus Cadamba +Benzoin Fixer For T",
+          "source": "PerfumersWorld · Aldehyde C-12 lauric"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Aldehydic, Intense, Woody, Fresh, Clean One of the classics in the aldehydic family, this product is widely used in all types of perfumery. Its versatile character allows its use in a variety of odour types: cologne, violet, pine, chypre. Good fabric substantivity.",
+          "source": "Givaudan · Aldehyde C 12 Lauric Food Grade"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1000371.html"
+    },
+    {
+      "item_id": 21882,
+      "name": "lavandin oil",
+      "cas": "8022-18-2",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "lavandula hydrida herb oil",
+      "odor_type": "floral",
+      "flavor_type": "herbal",
+      "odor_strength": "medium",
+      "substantivity": "216 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Rich and mellow floral, the finest lavandin with a fruity candy facet",
+          "source": "IFF · Lavandin Oil Super"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Aromatic, fresh and floral",
+          "source": "IFF · Lavandin Heart"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1618861.html"
+    },
+    {
+      "item_id": 14082,
+      "name": "elettaria cardamomum seed oil guatemala",
+      "cas": "8000-66-6",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "elettaria cardamomum l. seed oil",
+      "odor_type": "spicy",
+      "flavor_type": "spicy",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "The most penetrating, fresh and volatile of the origins. Green, slightly metallic character evaporating on a thin fruity note",
+          "source": "IFF · Cardamom Oil Guatemala"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Cardamom Oil Guatemala",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1618841.html"
+    },
+    {
+      "item_id": 15160,
+      "name": "ethyl phenyl acetate",
+      "cas": "101-97-3",
+      "formula": "C10H12O2",
+      "molecular_weight": "164.20404000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "ethyl 2-phenylacetate",
+      "odor_type": "floral",
+      "flavor_type": "honey",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "312 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 %. Floral honey, rosy with balsamic dark chocolate and cocoa notes with anisic black licorice nuances Mosciano, Gerard P&F 25, No. 4, 71, (2000)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 5.00 - 10.00 ppm. Strong sweet rosy honey and balsamic cocoa-like with molasses and yeasty nuances Mosciano, Gerard P&F 25, No. 4, 71, (2000)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1015111.html"
+    },
+    {
+      "item_id": 12317,
+      "name": "dihydro-beta-ionone",
+      "cas": "17283-81-7",
+      "formula": "C13H22O",
+      "molecular_weight": "194.31754000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "4-(2,6,6-trimethyl-1-cyclohexenyl)butan-2-one",
+      "odor_type": "woody",
+      "flavor_type": "woody",
+      "odor_strength": "medium",
+      "substantivity": "9 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Distinct violet note with slight woody undertone",
+          "source": "IFF · Dihydro Beta Ionone"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Dihydro Beta Ionone",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1019322.html"
+    },
+    {
+      "item_id": 15343,
+      "name": "ethyl vinyl ketone",
+      "cas": "1629-58-9",
+      "formula": "C5H8O",
+      "molecular_weight": "84.11796000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "pent-1-en-3-one",
+      "odor_type": "spicy",
+      "flavor_type": "spicy",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "pungent, radish, metallic, strong impact Useful in: brown cocoa, savory vegetable, savory spices, savory allium, savory others, fruity citrus.",
+          "source": "Symrise · Pentenone-1,3 natural, 1% AL"
+        },
+        {
+          "kind": "taste_description",
+          "text": "pungent, radish, metallic, strong impact Useful in: brown cocoa, savory vegetable, savory spices, savory allium, savory others, fruity citrus.",
+          "source": "Symrise · Pentenone-1,3 natural 1% TRI"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1009141.html"
+    },
+    {
+      "item_id": 13096,
+      "name": "2,5-dimethyl pyrazine",
+      "cas": "123-32-0",
+      "formula": "C6H8N2",
+      "molecular_weight": "108.14376000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "2,5-dimethylpyrazine",
+      "odor_type": "chocolate",
+      "flavor_type": "musty",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "chocolate, cocoa, roasted-nuts, woody, slightly green-grass According to Arctander the main use of this material was to scent the packets and enhance the flavour of potato crisps / chips. It is present in the scent of coffee and chocolate but also some types of lavender, beer and",
+          "source": "Pell Wall Perfumes · Ketine (Pyrazine)"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Nutty, peanut, musty, earthy, powdery and slightly roasted with a cocoa powder nuance Mosciano, Gerard P&F 21, No. 6, 49, (1996)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1008141.html"
+    },
+    {
+      "item_id": 24632,
+      "name": "para-methyl anisole",
+      "cas": "104-93-8",
+      "formula": "C8H10O",
+      "molecular_weight": "122.16690000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "1-methoxy-4-methylbenzene",
+      "odor_type": "naphthyl",
+      "flavor_type": "naphthyl",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "8 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "aromatic-phenolic floral daffodil ylang cananga naphthyl phenolic camphor mint powdery nutty Blends-well-with - +Linalool +Isoamyl Benzyl Ether +Para-tolyl Isobutyrate +Methyl Chavicol +Dimethyl Benzyl Carbinol",
+          "source": "PerfumersWorld · para-Cresyl methyl ether"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 20.00 ppm. Naphthyl, phenolic, camphoraceous, cooling and woody Mosciano, Gerard P&F 15, No. 3, 51, (1990)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1003932.html"
+    },
+    {
+      "item_id": 20692,
+      "name": "intreleven aldehyde (IFF)",
+      "cas": "112-45-8",
+      "formula": "C11H20O",
+      "molecular_weight": "168.27960000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "undec-10-enal",
+      "odor_type": "aldehydic",
+      "flavor_type": null,
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "380 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Intense aldehydic floral note with ozone, marine and citrus effects",
+          "source": "IFF · Intreleven Aldehyde Special"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Intense aldehydic floral note with ozone, marine and citrus effects",
+          "source": "IFF · Intreleven Aldehyde"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1395171.html"
+    },
+    {
+      "item_id": 16871,
+      "name": "galbanum resinoid",
+      "cas": "9000-24-2",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "dark amber semi-solid (est)",
+      "systematic_name": "ferula galbaniflua resinoid",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "400 hour(s) at 50.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Characteristic green leafy note with a fruity gooseberry aspect and an almost ambergris dry out",
+          "source": "IFF · Galbanum Resinoid"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Galbanum Resinoid",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rs1002401.html"
+    },
+    {
+      "item_id": 24117,
+      "name": "homomenthyl acetate",
+      "cas": "67859-96-5",
+      "formula": "C11H20O2",
+      "molecular_weight": "184.27880000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "(3,3,5-trimethylcyclohexyl) acetate",
+      "odor_type": "minty",
+      "flavor_type": "cooling",
+      "odor_strength": "medium",
+      "substantivity": "> 1 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fresh-minty, floral-lavender, herbal, clean As you might guess from the name it has a fresh, minty aspect: what isn’t so obvious is it can be used as a blending agent; in relatively large amounts as a background freshening agent in a wide range of different fragrances as well. It",
+          "source": "Pell Wall Perfumes · Mintonat"
+        },
+        {
+          "kind": "odor_description",
+          "text": "complex and outstanding new type of fragrance ingredient combining green-herbal and floral notes with fresh-minty aspects Stable in: body lotion (good), shampoo (very good), soap (good), ap roll-on (good), powder (very good), cleaner citric (very good), cleaner apc (very good), b",
+          "source": "Symrise · Mintonat"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1051881.html"
+    },
+    {
+      "item_id": 2113,
+      "name": "(E)-anethol",
+      "cas": "4180-23-8",
+      "formula": "C10H12O",
+      "molecular_weight": "148.20484000",
+      "appearance": "white colorless crystals (est)",
+      "systematic_name": "1-methoxy-4-[(E)-prop-1-enyl]benzene",
+      "odor_type": "licorice",
+      "flavor_type": "anise",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "20 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "anise, sweet, liquorice, fennel Useful in: mint, savory vegetable, savory spices, fruity red, fruity yellow, fruity tropical, fruity others, sweet others, alcoholics.",
+          "source": "Symrise · Anethole Extra 21/22"
+        },
+        {
+          "kind": "odor_description",
+          "text": "sweet anise warm herbal-spice licorice mimosa aromatic herbaceous Blends-well-with - +Anisyl Alcohol +Dihydro-alpha-ionyl Aldehyde Methyl Chavicol Gums Anisaldehyde",
+          "source": "PerfumersWorld · Anethole"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001152.html"
+    },
+    {
+      "item_id": 8699,
+      "name": "cistus twig/leaf absolute",
+      "cas": "8016-26-0",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "brownish amber green semi-solid (est)",
+      "systematic_name": "cistus ladaniferus l. twig/leaf absolute",
+      "odor_type": "woody",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Very close to the smell of the original sticky leaves. Mineral, resinous almost frankincense and floral warmth",
+          "source": "IFF · Ciste Absolute"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Diffusive and strong top note of jute. Mineral, almost frankincense, reminiscent of the smell of an old church",
+          "source": "IFF · Ciste Absolute Colorless"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/ab1041311.html"
+    },
+    {
+      "item_id": 21872,
+      "name": "lavandin absolute",
+      "cas": "8022-15-9",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "green brown viscous liquid (est)",
+      "systematic_name": "lavandula hydrida absolute",
+      "odor_type": "herbal",
+      "flavor_type": "herbal",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Very true to the plant. Floral herbaceous with a deep sweet watery green undertone",
+          "source": "IFF · Lavandin Absolute H"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Lavandin Absolute H",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/ab1045781.html"
+    },
+    {
+      "item_id": 22803,
+      "name": "isolongifolene ketone",
+      "cas": "23787-90-8",
+      "formula": "C15H24O",
+      "molecular_weight": "220.35548000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "2,2,7,7-tetramethyltricyclo[6.2.1.01,6]undecan-5-one",
+      "odor_type": "woody",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "240 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A dry, diffusive, woody, earthy, pine, patchouli note. Long lasting",
+          "source": "IFF · Piconia"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Warm woody, dry (vetiver), earthy pachulievy, tobacco, amber",
+          "source": "Perfumery Laboratory · Picone IFF (Piconia IFF)"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007011.html"
+    },
+    {
+      "item_id": 19246,
+      "name": "(E)-2-hexen-1-ol",
+      "cas": "928-95-0",
+      "formula": "C6H12O",
+      "molecular_weight": "100.16084000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "(E)-hex-2-en-1-ol",
+      "odor_type": "fruity",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "< 4 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Green, leafy, very fresh, fruity, apple, unripe, cut grass notes trans-2-HEXENOL adds, in low dosages, very green, fleshy and fruity profiles to all kinds of fruit flavors.",
+          "source": "Firmenich · TRANS-2-HEXENOL NAT Kosher for flavor"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 2.00 - 9.00 ppm. Green leafy, fresh, fatty, grassy with fruity and juicy nuances Mosciano, Gerard P&F 24, No. 5, 41, (1999)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1017731.html"
+    },
+    {
+      "item_id": 16601,
+      "name": "fruity ketal",
+      "cas": "6290-17-1",
+      "formula": "C9H16O4",
+      "molecular_weight": "188.22332000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "ethyl 2-(2,4-dimethyl-1,3-dioxolan-2-yl)acetate",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "12 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A tart, fresh, anisic, fruity note reminiscent of apple, plum and strawberry",
+          "source": "IFF · Fraistone"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Fraistone",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005422.html"
+    },
+    {
+      "item_id": 20883,
+      "name": "ivy carbaldehyde / methyl anthranilate schiff's base",
+      "cas": "68738-99-8",
+      "formula": "C17H21NO2",
+      "molecular_weight": "271.35977000",
+      "appearance": "yellow solid (est)",
+      "systematic_name": "methyl 2-[[(E)-(2,4-dimethyl-1-cyclohex-3-enylidene)methyl]amino]benzoate",
+      "odor_type": "green",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A fresh green, sweet floral note with orange flower characteristics",
+          "source": "IFF · Agrumea"
+        },
+        {
+          "kind": "odor_description",
+          "text": "GREEN, FLORAL, ALDEHYDIC, CITRUS",
+          "source": "Ernesto Ventós · SCHIFF BASE, TRIPLAL/METHYL ANTHRANILATE"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013971.html"
+    },
+    {
+      "item_id": 12324,
+      "name": "dihydrojasmone",
+      "cas": "1128-08-1",
+      "formula": "C11H18O",
+      "molecular_weight": "166.26366000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "3-methyl-2-pentylcyclopent-2-en-1-one",
+      "odor_type": "floral",
+      "flavor_type": "floral",
+      "odor_strength": "medium",
+      "substantivity": "340 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Intensely floral green, jasmine odor with fresh and fruity undertones",
+          "source": "IFF · Dihydrojasmone"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Dihydrojasmone",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1009071.html"
+    },
+    {
+      "item_id": 6617,
+      "name": "caramel furanone solution",
+      "cas": "28664-35-9",
+      "formula": "C6H8O3",
+      "molecular_weight": "128.12736000",
+      "appearance": "colorless to pale yellow clear oily liquid (est)",
+      "systematic_name": "3-hydroxy-4,5-dimethyl-5H-furan-2-one",
+      "odor_type": "caramellic",
+      "flavor_type": "caramellic",
+      "odor_strength": "very high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "> 400 hour(s) at 3.00 % in propylene glycol",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, caramel, fenugreek, maple sugar, burnt sugar, coffee In dilution, as supplied here, this materials is still extremely strongly caramel-sugar-sweet, with a distinct fenugreek note. Use tiny traces to sweeten almost any blend but especially good for gourmand types.",
+          "source": "Pell Wall Perfumes · Caramel Furanone 0.1%"
+        },
+        {
+          "kind": "taste_description",
+          "text": "caramellic Used - up to 10ppm in sugar, chocolate, vanilla, milk, nut, and sweet flavours for baked goods, meat/poultry/fish products/soups/gravies, condiments/sauces/relishes. Stability: excellent.",
+          "source": "R C Treatt & Co Ltd · Sugar lactone, 3% in PG Halal, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1028801.html"
+    },
+    {
+      "item_id": 19324,
+      "name": "(Z)-3-hexen-1-yl formate",
+      "cas": "33467-73-1",
+      "formula": "C7H12O2",
+      "molecular_weight": "128.17104000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "[(Z)-hex-3-enyl] formate",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "1 hour(s) at 10.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Green, fresh, sharp with an arugula note Cis-3-HEXENYL FORMATE brings a sharp and fresh profile to fruit and vegetable flavors. It is excellent for kiwi, watermelon, red fruits, apple, tomato and mango flavors.",
+          "source": "Firmenich · cis-3-HEXENYL FORMATE min. 95%, Kosher, Halal"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Strong ethereal, sweet, green apple odor with woody undertones Imparts a green, fruity (unripe apple), and ozonic marine note to formulations. Blends well with galbanum, hyacinth, and other herbal types",
+          "source": "Bedoukian Research · cis-3-HEXENYL FORMATE ≥97.0% (cis), Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001451.html"
+    },
+    {
+      "item_id": 8804,
+      "name": "citronellyl formate",
+      "cas": "105-85-1",
+      "formula": "C11H20O2",
+      "molecular_weight": "184.27880000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "3,7-dimethyloct-6-enyl formate",
+      "odor_type": "floral",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "40 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Green (bergamot), fresh flowers, fruit (apricots) with hints of pear and geranium",
+          "source": "Perfumery Laboratory · Citronella FORMAT IFF (CITRONELLYL FORMATE IFF)"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fresh citrus, grapefruit rind note similar to Limonene",
+          "source": "IFF · Citronellyl Formate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1017871.html"
+    },
+    {
+      "item_id": 11253,
+      "name": "2,4-decadienal",
+      "cas": "2363-88-4",
+      "formula": "C10H16O",
+      "molecular_weight": "152.23672000",
+      "appearance": "yellow clear liquid (est)",
+      "systematic_name": "deca-2,4-dienal",
+      "odor_type": "fatty",
+      "flavor_type": "fatty",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "> 24 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Fatty, oily, chicken fat, fried potatoes. Bitter orange character in high diution Chicken flavors, fatty notes in various nut flavors, specifically peanut and peanut butter. Useful in savory and dairy flavors, and at low levels in various citrus and other fruit flavors. Blends we",
+          "source": "Bedoukian Research · 2,4-DECADIEN-1-AL ≥90.0% (trans,trans), FCC, Kosher"
+        },
+        {
+          "kind": "taste_description",
+          "text": "Very powerful fatty, oily and citrus-like notes 2,4-DECADIENAL adds at higher dosages nice chicken fat and fried notes. In dilution it can be used for cucumber, melon, peach, plum, orange, tangerine and mandarin tonalities.",
+          "source": "Firmenich · 2,4-DECADIENAL NAT min. 78%, Kosher, Halal"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1537401.html"
+    },
+    {
+      "item_id": 7266,
+      "name": "cedrol",
+      "cas": "77-53-2",
+      "formula": "C15H26O",
+      "molecular_weight": "222.37142000",
+      "appearance": "white to pale yellow crystalline solid (est)",
+      "systematic_name": "(1S,2R,5S,7R,8R)-2,6,6,8-tetramethyltricyclo[5.3.1.01,5]undecan-8-ol",
+      "odor_type": "woody",
+      "flavor_type": "woody",
+      "odor_strength": "low",
+      "substantivity": "400 hour(s) at 20.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Characteristic cedar, sandalwood note, valuable addition to enhance woody facets in fine fragrances.",
+          "source": "IFF · Cedrol Cryst 1x"
+        },
+        {
+          "kind": "taste_description",
+          "text": "woody amber floral cedar ambrette musk powdery",
+          "source": "IFF · Cedrol Cryst 1x"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1003031.html"
+    },
+    {
+      "item_id": 19394,
+      "name": "(Z)-3-hexen-1-yl salicylate",
+      "cas": "65405-77-8",
+      "formula": "C13H16O3",
+      "molecular_weight": "220.26812000",
+      "appearance": "colorless clear oily liquid (est)",
+      "systematic_name": "[(Z)-hex-3-enyl] 2-hydroxybenzoate",
+      "odor_type": "floral",
+      "flavor_type": "green",
+      "odor_strength": "medium",
+      "substantivity": "216 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Apparently mild odored in the herbaceous/green family, but an excellent blending agent. Floral, sea RECOMMENDED USES: Fine fragrance, personal care, fabric care, home care.",
+          "source": "IFF · Hexenyl Salicylate CIS-3"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Hexenyl Salicylate CIS-3",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1010652.html"
+    },
+    {
+      "item_id": 15848,
+      "name": "alpha-farnesene isomer",
+      "cas": "125037-13-0",
+      "formula": "C15H24",
+      "molecular_weight": "204.35628000",
+      "appearance": "pale yellow to yellow clear liquid (est)",
+      "systematic_name": "3,7,11-trimethyldodeca-1,3,6,10-tetraene",
+      "odor_type": "woody",
+      "flavor_type": "green",
+      "odor_strength": "medium",
+      "substantivity": "> 1 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in ethyl alcohol. Woody, green vegetative with a hint of a floral nuance. It has a slight gin herbal and citrus dry out Mosciano, Gerard P&F 25, No. 1, 49, (2000)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 - 20.00 ppm. Fresh green vegetative, with celery and hay nuances and somewhat fatty and tropical fruity afternotes Mosciano, Gerard P&F 25, No. 1, 49, (2000)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1122351.html"
+    },
+    {
+      "item_id": 18702,
+      "name": "gamma-heptalactone",
+      "cas": "105-21-5",
+      "formula": "C7H12O2",
+      "molecular_weight": "128.17104000",
+      "appearance": "colorless clear oily liquid (est)",
+      "systematic_name": "5-propyloxolan-2-one",
+      "odor_type": "coconut",
+      "flavor_type": "lactonic",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Sweet, lactonic, creamy, coconut and coumarin, with milky and tobacco nuances Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "Sweet lactonic, hay, coumarin Sweet lactone notes for vanilla, fresh cream, coconut, coumarin notes for a variety of flavors.",
+          "source": "Bedoukian Research · gamma-HEPTALACTONE ≥98.0%, FCC, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1017151.html"
+    },
+    {
+      "item_id": 16287,
+      "name": "fleuramone (IFF)",
+      "cas": "137-03-1",
+      "formula": "C12H22O",
+      "molecular_weight": "182.30654000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "2-heptylcyclopentan-1-one",
+      "odor_type": "fruity",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "80 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Concentrated jasmin flower note similar to that of cis jasmone. Lactonic, green",
+          "source": "IFF · Fleuramone"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fresh, floral, jasmine flavor with a piercing note of rue",
+          "source": "Perfumery Laboratory · FLAMAMON ™ IFF (FLEURAMONE ™ IFF)"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1004971.html"
+    },
+    {
+      "item_id": 22005,
+      "name": "leafy acetal",
+      "cas": "7493-57-4",
+      "formula": "C13H20O2",
+      "molecular_weight": "208.30080000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "2-(1-propoxyethoxy)ethylbenzene",
+      "odor_type": "green",
+      "flavor_type": "aromatic",
+      "odor_strength": "medium",
+      "substantivity": "29 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "aroma of green leaves with sweet hints of hyacinth and sweet pea",
+          "source": "Perfumery Laboratory · HYACINTH BODY no.3 IFF (HYACINTH BODY NO. 3 IFF)"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Powerful leafy green with facets of hyacinth",
+          "source": "IFF · Hyacinth Body No.3"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1018151.html"
+    },
+    {
+      "item_id": 19273,
+      "name": "(E)-2-hexen-1-yl acetate",
+      "cas": "2497-18-9",
+      "formula": "C8H14O2",
+      "molecular_weight": "142.19798000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "[(E)-hex-2-enyl] acetate",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "1 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Sweet and leafy green notes trans-2-HEXENYL ACETATE brings freshness to flavors with fruity and apple nuances and nice waxy and oily backnotes.",
+          "source": "Firmenich · trans-2-HEXENYL ACETATE NAT min. 90%, Kosher, Halal"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Waxy, banana like odor with spice undertones (cinnamon) Used in artificial essential oils such as geranium, sage and ylang-ylang.",
+          "source": "Bedoukian Research · trans-2-HEXENYL ACETATE ≥98.0%, FCC, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1031091.html"
+    },
+    {
+      "item_id": 17135,
+      "name": "gelsone (IFF)",
+      "cas": "29214-60-6",
+      "formula": "C12H22O3",
+      "molecular_weight": "214.30494000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "ethyl 2-acetyloctanoate",
+      "odor_type": "floral",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "92 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral, Jasmin, Fruity Long lasting, strong, refreshing and decidedly jasmin-like with an intriguing wine bouquet. Pear, floral, ozone, luminous, transparent note.",
+          "source": "IFF · Gelsone"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Gelsone",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006881.html"
+    },
+    {
+      "item_id": 14669,
+      "name": "ethyl (E,Z)-2,4-decadienoate",
+      "cas": "3025-30-7",
+      "formula": "C12H20O2",
+      "molecular_weight": "196.28980000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "ethyl (2E,4Z)-deca-2,4-dienoate",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "> 48 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "fruity oily juicy and fleshy notes PEAR ESTER is a clean, fruity and cost effective material which brings nice fruitness to all kinds of flavors.",
+          "source": "Firmenich · PEAR ESTER NAT US Kosher for flavor"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 5.00 ppm. Green, waxy, vegetative, pear and melon with a tropical nuance Mosciano, Gerard P&F 23, No. 3, 55, (1998)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1029341.html"
+    },
+    {
+      "item_id": 18905,
+      "name": "herbal ketone",
+      "cas": "67801-33-6",
+      "formula": "C10H20O2",
+      "molecular_weight": "172.26780000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "3-(hydroxymethyl)nonan-2-one",
+      "odor_type": "herbal",
+      "flavor_type": "cheesy",
+      "odor_strength": "medium",
+      "substantivity": "20 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Strong with a sweet, herbal, metallic, lavender character. Traces are very effective",
+          "source": "IFF · Methyl Lavender Ketone"
+        },
+        {
+          "kind": "taste_description",
+          "text": "cheese green fruity dairy dirty buttery",
+          "source": "IFF · Methyl Lavender Ketone"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006411.html"
+    },
+    {
+      "item_id": 13413,
+      "name": "diphenyl oxide",
+      "cas": "101-84-8",
+      "formula": "C12H10O",
+      "molecular_weight": "170.21090000",
+      "appearance": "colorless solid (est)",
+      "systematic_name": "phenoxybenzene",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "156 hour(s) at 50.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Geranium, green-leaf, floral-rose, slightly harsh-phenolic, metalic, camphoraceous This material melts at 28 Centigrade. Arctander suggests these uses: “… It is not confined exclusively to Geranium and Rose types, since Fougeres, New Mown Hay and Hyacinth, to mention a few, can b",
+          "source": "Pell Wall Perfumes · Diphenyl Oxide"
+        },
+        {
+          "kind": "odor_description",
+          "text": "strong geranium phenolic aromatic floral rose geranium harsh chemical mettalic floral-green Blends-well-with - +Terpineol +Citral +Nerol +Citral +Geranyl Acetate NewMownHay",
+          "source": "PerfumersWorld · Diphenyl Oxide"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1004532.html"
+    },
+    {
+      "item_id": 2235,
+      "name": "para-anisaldehyde",
+      "cas": "123-11-5",
+      "formula": "C8H8O2",
+      "molecular_weight": "136.15016000",
+      "appearance": "colorless to pale yellow clear oily liquid (est)",
+      "systematic_name": "4-methoxybenzaldehyde",
+      "odor_type": "anisic",
+      "flavor_type": "creamy",
+      "odor_strength": "medium",
+      "substantivity": "44 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, floral-hawthorn, powdery, vanilla, anise, woody, coumarin Arctander gives some good indications of its useage: “Very widely used in perfumery, only restricted because of its poor stability in alkali and in the presence of Amines. Certain fragrance types may contain well ov",
+          "source": "Pell Wall Perfumes · Anisaldehyde"
+        },
+        {
+          "kind": "odor_description",
+          "text": "sweet powdery mimosa floral hawthorn balsam sweet aromatic herbaceous-spicy anis-like hawthorn BLENDS WITH - +Naphthyl Methyl Ether +Naphthyl Ethyl Ether +Acetanisole +Hydroxycitronellal +Acetophenone Anisaldehyde Gums Methyl Chavicol",
+          "source": "PerfumersWorld · Anis Aldehyde"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001272.html"
+    },
+    {
+      "item_id": 14828,
+      "name": "ethyl 3-hexenoate",
+      "cas": "2396-83-0",
+      "formula": "C8H14O2",
+      "molecular_weight": "142.19798000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "ethyl hex-3-enoate",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "1 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Sharp, acidic fruity green Very useful in apple, pineapple, guava and most other tropical flavors. Good for heavy honey flavors.",
+          "source": "Bedoukian Research · ETHYL 3-HEXENOATE ≥96.0%, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. fruity pineapple green tart candy metallic tropical rhubarb weedy cheesy Luebke, William tgsc, (2021)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1022721.html"
+    },
+    {
+      "item_id": 17290,
+      "name": "geranyl formate",
+      "cas": "105-86-2",
+      "formula": "C11H18O2",
+      "molecular_weight": "182.26286000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "[(2E)-3,7-dimethylocta-2,6-dienyl] formate",
+      "odor_type": "floral",
+      "flavor_type": "green",
+      "odor_strength": "medium",
+      "substantivity": "24 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fresh rose neroli tea rose green",
+          "source": "IFF · Geranyl Formate"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Geranyl Formate",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005551.html"
+    },
+    {
+      "item_id": 11439,
+      "name": "decen-1-yl cyclopentanone",
+      "cas": "68133-79-9",
+      "formula": "C15H24O",
+      "molecular_weight": "220.35548000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "2-[(2E)-3,7-dimethylocta-2,6-dienyl] cyclopentan-1-one",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "216 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in ethyl alcohol. Warm fruity with ripe fleshy apricot and peach notes reminiscent of Dukipers peach cordial. It has jammy Davana and damascenone-like nuances and a slight floral under note Mosciano, Gerard P&F 25, No. 1, 49, (2000)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Tenacious, ripe fleshy apricot with peach and jasmine undertones. Sweet and reminiscent of cooked fruit A rare fruity & natural character of ripe fleshy apricot. Excellent in fruity complexes for skin care and fine fragrances.",
+          "source": "Bedoukian Research · APRITONE ≥96.5% (sum of isomers), Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1024151.html"
+    },
+    {
+      "item_id": 16313,
+      "name": "floral undecenone",
+      "cas": "1322-58-3",
+      "formula": "C13H24O",
+      "molecular_weight": "196.33348000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "(E)-6,10-dimethylundec-3-en-2-one",
+      "odor_type": "floral",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "24 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A natural floral, rosy, lavender, green bouquet with balsamic, woody undertones. Imparts a floral absolute bloom to fragrances",
+          "source": "IFF · Tetrameran"
+        },
+        {
+          "kind": "taste_description",
+          "text": "fruity apple peach",
+          "source": "IFF · Tetrameran"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1034921.html"
+    },
+    {
+      "item_id": 23567,
+      "name": "manzanate (Givaudan)",
+      "cas": "39255-32-8",
+      "formula": "C8H16O2",
+      "molecular_weight": "144.21392000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "ethyl 2-methylpentanoate",
+      "odor_type": "green",
+      "flavor_type": "cooling",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "> 4 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fruity-pineapple and apple, sweet, fresh. Powerful Arctander describes it as having “Powerful, fruity-green, diffusive odor of Banana-Pineapple type, in proper dilution also reminiscent of Strawberry.” and goes on to say that at the time he is writing this ester is “rarely offere",
+          "source": "Pell Wall Perfumes · Manzanate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fruity, Apple, Pineapple Manzanate has a fruity apple character with aspects of cider and sweet pineapple. It works very well at covering base odours and has great impact in water-contact products.",
+          "source": "Givaudan · Manzanate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006801.html"
+    },
+    {
+      "item_id": 19181,
+      "name": "hexanol",
+      "cas": "111-27-3",
+      "formula": "C6H14O",
+      "molecular_weight": "102.17678000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "hexan-1-ol",
+      "odor_type": "herbal",
+      "flavor_type": "green",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "green, sweet, leaf-, apple-like Useful in: savory vegetable, savory spices, fruity red, fruity yellow, fruity tropical, fruity others, sweet others, alcoholics.",
+          "source": "Symrise · Alcohol C 6 natural"
+        },
+        {
+          "kind": "taste_description",
+          "text": "Nice green, fruity and winey notes HEXANOL gives a delicate fatty-fruity, woody and fermented profile to fruit, vegetable and alcoholic flavors.",
+          "source": "Firmenich · HEXANOL NAT min. 96.5%, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1002711.html"
+    },
+    {
+      "item_id": 19415,
+      "name": "hexyl acetate",
+      "cas": "142-92-7",
+      "formula": "C8H16O2",
+      "molecular_weight": "144.21392000",
+      "appearance": "colorless clear oily liquid (est)",
+      "systematic_name": "hexyl acetate",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "5 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A green, fruity, sweet, aldehydic note reminiscent of pear.",
+          "source": "IFF · Hexyl Acetate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "fruity green fresh sweet banana peel apple pear",
+          "source": "IFF · Hexyl Acetate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1003201.html"
+    },
+    {
+      "item_id": 19291,
+      "name": "(Z)-3-hexen-1-yl benzoate",
+      "cas": "25152-85-6",
+      "formula": "C13H16O2",
+      "molecular_weight": "204.26892000",
+      "appearance": "colorless clear oily liquid (est)",
+      "systematic_name": "[(Z)-hex-3-enyl] benzoate",
+      "odor_type": "green",
+      "flavor_type": "fatty",
+      "odor_strength": "medium",
+      "substantivity": "> 8 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Slightly green with a mild herbaceous quality",
+          "source": "IFF · Hexenyl Benzoate CIS-3"
+        },
+        {
+          "kind": "taste_description",
+          "text": "fatty floral green fruity spice woody",
+          "source": "IFF · Hexenyl Benzoate CIS-3"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001382.html"
+    },
+    {
+      "item_id": 13624,
+      "name": "gamma-dodecalactone",
+      "cas": "2305-05-7",
+      "formula": "C12H22O2",
+      "molecular_weight": "198.30574000",
+      "appearance": "colorless to pale yellow clear oily liquid (est)",
+      "systematic_name": "5-octyloxolan-2-one",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet, fruity, musky, peach, pear",
+          "source": "IFF · gamma-Dodecalactone"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "gamma-Dodecalactone",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1013371.html"
+    },
+    {
+      "item_id": 25196,
+      "name": "methyl heptine carbonate",
+      "cas": "111-12-6",
+      "formula": "C9H14O2",
+      "molecular_weight": "154.20898000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "methyl oct-2-ynoate",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "240 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Powerful, Green, Leaf like, Floral Folione, used in traces, produces violet-leaf and cucumber notes. It blends extremely well with products in the orris family like the Isoraldeines and ionones.",
+          "source": "Givaudan · Folione ®"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 15.00 ppm. Green, vegetative, fatty, fruity, rindy, melon and cucumber with mushroom and dairy nuances Mosciano, Gerard P&F 22, No. 1, 57, (1997)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1026731.html"
+    },
+    {
+      "item_id": 2274,
+      "name": "para-anisyl acetate",
+      "cas": "104-21-2",
+      "formula": "C10H12O3",
+      "molecular_weight": "180.20324000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "(4-methoxyphenyl)methyl acetate",
+      "odor_type": "powdery",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "100 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral, Anisic, Fruity, Slightly Balsamic Anisyl Acetate is a good modifier in floral, fruity, oriental and chypre fragrances where it imparts sweetness and a natural effect.",
+          "source": "Givaudan · Anisyl Acetate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "sweet mild narcotic fruity vanilla powdery balsam plum sweet-aromatic fruity-plum floral-hawthorn Blends-well-with - Balsams Narcotic florals +Cyclamen-aldehyde",
+          "source": "PerfumersWorld · Anisyl Acetate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001292.html"
+    },
+    {
+      "item_id": 25082,
+      "name": "bis(2-methyl-3-furyl) disulfide",
+      "cas": "28588-75-2",
+      "formula": "C10H10O2S2",
+      "molecular_weight": "226.31810000",
+      "appearance": "pale yellow to amber clear liquid (est)",
+      "systematic_name": "2-methyl-3-(2-methylfuran-3-yl)disulfanylfuran",
+      "odor_type": "meaty",
+      "flavor_type": "meaty",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Very powerful meaty, brothy and roasted notes METHYLFURYL DISULFIDE adds along with its typical meaty profile, nice creamy and milky effects. It can be used in lower dosages (5 to 10 ppb) to add fatty notes to hazelnut and chocolate flavors.",
+          "source": "Firmenich · METHYLFURYL DISULFIDE min. 98%, Kosher, Halal"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 0.00 - 0.10 ppm. Strong meaty, sulfurous, brothy with a hint of thiamin, roasted savory, with nuances of cooked onion, sauteed garlic and black pepper Mosciano, Gerard P&F 26, No. 5, 68, (2001)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1035721.html"
+    },
+    {
+      "item_id": 22428,
+      "name": "lilyall / methyl anthranilate schiff's base",
+      "cas": "91-51-0",
+      "formula": "C22H27NO2",
+      "molecular_weight": "337.46259000",
+      "appearance": "yellow liquid to solid (est)",
+      "systematic_name": "methyl 2-[[3-(4-tert-butylphenyl)-2-methylpropylidene]amino]benzoate",
+      "odor_type": "floral",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 50.00 % solution or less",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "neroli, orange blossom A very high quality product with subtle floral notes to enhance delicate fragrances.",
+          "source": "Bedoukian Research · SCHIFF'S BASE LILIAL-METHYL ANTHRANILATE ≥90.0% (sum of isomers), Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Floral, orange flower, lily of the valley",
+          "source": "Robertet · Schiff lilial"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006301.html"
+    },
+    {
+      "item_id": 15841,
+      "name": "alpha-farnesene",
+      "cas": "502-61-4",
+      "formula": "C15H24",
+      "molecular_weight": "204.35628000",
+      "appearance": "pale yellow to yellow clear liquid (est)",
+      "systematic_name": "(3E,6E)-3,7,11-trimethyldodeca-1,3,6,10-tetraene",
+      "odor_type": "woody",
+      "flavor_type": "green",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Mild, green-floral, herbacious, sweet, warm, woody. Tenacious Arctander describes it as having a “Very mild, sweet and warm, rather nondescript odor of good tenacity.” but he does not appear to see much use for it: “Apart from some possible use in the re-construction of certain e",
+          "source": "Pell Wall Perfumes · Farnesene"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 1.00 % in ethyl alcohol. Woody, green vegetative with a hint of a floral nuance. It has a slight gin herbal and citrus dry out Mosciano, Gerard P&F 25, No. 1, 49, (2000)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1044061.html"
+    },
+    {
+      "item_id": 4085,
+      "name": "(E)-benzyl tiglate",
+      "cas": "37526-88-8",
+      "formula": "C12H14O2",
+      "molecular_weight": "190.24198000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "benzyl (E)-2-methylbut-2-enoate",
+      "odor_type": "balsamic",
+      "flavor_type": "balsamic",
+      "odor_strength": "medium",
+      "substantivity": "> 121 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "at 100.00 %. balsamic earthy mushroom vegetable plastic cortex almond nutty Luebke, William tgsc, (2021)",
+          "source": null
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Balsamic, spice-like with a nutty almond note Mosciano, Gerard P&F 17, No. 3, 57, (1992)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1011841.html"
+    },
+    {
+      "item_id": 24746,
+      "name": "2-methyl butyraldehyde",
+      "cas": "96-17-3",
+      "formula": "C5H10O",
+      "molecular_weight": "86.13390000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "2-methylbutanal",
+      "odor_type": "cocoa",
+      "flavor_type": "fusel",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "> 1 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "at 10.00 ppm. Musty, furfural and rummy, with nutty and cereal notes, and caramel and fruity undernotes Mosciano, Gerard P&F 23, No. 1, 33, (1998)",
+          "source": null
+        },
+        {
+          "kind": "odor_description",
+          "text": "Musty, chocolate, nutty, furfural and iaovaleraldehyde-like with malty and fermented nuances Mosciano, Gerard P&F 23, No. 1, 33, (1998)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1008921.html"
+    },
+    {
+      "item_id": 2545,
+      "name": "apple ketal",
+      "cas": "6413-10-1",
+      "formula": "C8H14O4",
+      "molecular_weight": "174.19638000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "ethyl 2-(2-methyl-1,3-dioxolan-2-yl)acetate",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "12 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A strong, fruity, exotic fruit, pineapple, strawberry, apple-like note with a woody aspect reminding of sweet pine",
+          "source": "IFF · Fructone"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Fructone",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1033271.html"
+    },
+    {
+      "item_id": 12810,
+      "name": "2,4-dimethyl-3-cyclohexene-1-methanyl acetate",
+      "cas": "67634-25-7",
+      "formula": "C11H18O2",
+      "molecular_weight": "182.26286000",
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "(3,5-dimethyl-1-cyclohex-3-enyl)methyl acetate",
+      "odor_type": "citrus",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "24 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Citrus, grapefruit note also reminiscent of the dry notes of bitter orange oil and melon. Useful in colognes as a freshener to overcome the candy-sweet notes of orange and lemon oil",
+          "source": "IFF · Citrolate™"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fresh, citrus fragrance with notes of grapefruit, melon and bitter orange",
+          "source": "Perfumery Laboratory · CITROLATE ™ IFF (CITROLATE ™ IFF)"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005211.html"
+    },
+    {
+      "item_id": 17390,
+      "name": "ginger root oil",
+      "cas": "8007-08-7",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "pale yellow to yellow clear liquid (est)",
+      "systematic_name": "zingiber officinale rosc. root oil",
+      "odor_type": "spicy",
+      "flavor_type": "spicy",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "picy fresh, citrus, characteristic of the fresh rhizomes. Sparkling effect of the top note with a steady and long lasting character",
+          "source": "IFF · Ginger Oil Fresh"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sparkling effect of fresh ginger slightly citral and green with an earthy undertone",
+          "source": "IFF · Ginger Oil Fresh Madagascar"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1101221.html"
+    },
+    {
+      "item_id": 9357,
+      "name": "cocoa hexenal",
+      "cas": "21834-92-4",
+      "formula": "C13H16O",
+      "molecular_weight": "188.26972000",
+      "appearance": "colorless to yellow clear liquid (est)",
+      "systematic_name": "5-methyl-2-phenylhex-2-enal",
+      "odor_type": "chocolate",
+      "flavor_type": "cocoa",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "118 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "cocoa, chocolate, bitter, honey, aldehydic. Powerful Very diffusive and powerful, it is used in small amounts typically well below 1% of the perfume concentrate except where a strong chocolate note is desired when as much as 8% might be used. We also offer this product at 10% dil",
+          "source": "Pell Wall Perfumes · Cocoa Hexenal"
+        },
+        {
+          "kind": "taste_description",
+          "text": "chocolate Used in dark chocolate and coconut flavours for bakery and soft confection at 15ppm; alcoholic beverages at 15ppm; and desserts and non-alcoholic beverages at 6ppm.",
+          "source": "R C Treatt & Co Ltd · 5-Methyl-2-phenyl-2-hexenal NI, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1035461.html"
+    },
+    {
+      "item_id": 13021,
+      "name": "dimethyl octanol",
+      "cas": "106-21-8",
+      "formula": "C10H22O",
+      "molecular_weight": "158.28454000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "3,7-dimethyloctan-1-ol",
+      "odor_type": "floral",
+      "flavor_type": "fatty",
+      "odor_strength": "medium",
+      "substantivity": "24 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A waxy citronella, geranium, rose odor used in a variety of perfumery applications. (A potential alternative to Geraniol)",
+          "source": "IFF · Dimethyl Octanol"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Dimethyl Octanol",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1000592.html"
+    },
+    {
+      "item_id": 19145,
+      "name": "hexanal (aldehyde C-6)",
+      "cas": "66-25-1",
+      "formula": "C6H12O",
+      "molecular_weight": "100.16084000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "hexanal",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "4 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Classic aldehyde notes green grassy sharp unripe or raw fruit and green vegetable HEXANAL adds a freshly cut grass and unripe effect to fruit and vegetable flavors.",
+          "source": "Firmenich · HEXANAL NAT Kosher for flavor"
+        },
+        {
+          "kind": "taste_description",
+          "text": "at 2.50 ppm. Green, woody, vegetative, apple, grassy, citrus and orange with a fresh, lingering aftertaste Mosciano, Gerard P&F 22, No. 6, 41, (1997)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1011071.html"
+    },
+    {
+      "item_id": 18115,
+      "name": "green hexanal",
+      "cas": "5435-64-3",
+      "formula": "C9H18O",
+      "molecular_weight": "142.24166000",
+      "appearance": "colorless to pale yellow clear oily liquid (est)",
+      "systematic_name": "3,5,5-trimethylhexanal",
+      "odor_type": "aldehydic",
+      "flavor_type": "herbal",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "5 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Powerful aldehydic green note with a fresh clean impression",
+          "source": "IFF · Vandor ® B"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Vandor ® B",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1017351.html"
+    },
+    {
+      "item_id": 9362,
+      "name": "cocoa pentenal",
+      "cas": "26643-91-4",
+      "formula": "C12H14O",
+      "molecular_weight": "174.24278000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "4-methyl-2-phenylpent-2-enal",
+      "odor_type": "chocolate",
+      "flavor_type": "floral",
+      "odor_strength": "medium",
+      "substantivity": "> 48 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "green chocolate Used in chocolate flavours for bakery and soft confection at 15ppm; in frozen dairy and desserts at 10ppm; and in non-alcoholic beverages at 1ppm",
+          "source": "R C Treatt & Co Ltd · 4-Methyl-2-phenyl-2-pentenal NI, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "A distinctive cocoa mocha aroma with honey undertones, and a hint of peony Imparts sweet, rosy, powdery, honey, and cocoa notes to florals.",
+          "source": "Bedoukian Research · 4-METHYL-2-PHENYL-2-PENTENAL ≥90.0% (sum of isomers), Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1022441.html"
+    },
+    {
+      "item_id": 4193,
+      "name": "berry pentadienoate",
+      "cas": "60523-21-9",
+      "formula": "C8H12O2",
+      "molecular_weight": "140.18204000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "ethyl 2-methylpenta-3,4-dienoate",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "> 6 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fruity, delicious apple, drying down to a plum with strong tropical pineapple undertones Fruity apple, drying down to a plum with strong pineapple notes. Useful in formulations to impart exotic tropical fruits effect.",
+          "source": "Bedoukian Research · ETHYL 2-METHYL-3,4-PENTADIENOATE ≥98.0%, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Green, sweet, fruity, tufti-frutti-Iike with tropical and rummy nuances Mosciano, Gerard P&F 16, No. 5, 71, (1991)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1004631.html"
+    },
+    {
+      "item_id": 11425,
+      "name": "9-decen-1-ol",
+      "cas": "13019-22-2",
+      "formula": "C10H20O",
+      "molecular_weight": "156.26860000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "dec-9-en-1-ol",
+      "odor_type": "floral",
+      "flavor_type": "waxy",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "340 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fresh, green, aldehydic dewy rose note; imparts a waxy, aldehydic character without being fatty and maintains a constancy of odor strength",
+          "source": "IFF · Rosalva"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Rosalva",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1009352.html"
+    },
+    {
+      "item_id": 13129,
+      "name": "para-alpha-dimethyl styrene",
+      "cas": "1195-32-0",
+      "formula": "C10H12",
+      "molecular_weight": "132.20564000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "1-methyl-4-prop-1-en-2-ylbenzene",
+      "odor_type": "phenolic",
+      "flavor_type": "spicy",
+      "odor_strength": null,
+      "substantivity": null,
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "spicy Used in alcoholic beverages and soft confection at 5ppm, in bakery and frozen confection at 2.5ppm, and desserts and non-alcoholic beverages at 1ppm. Storage: oxidizes, and slowly polymerises in the presence of air.",
+          "source": "R C Treatt & Co Ltd · alpha-, para-Dimethylstyrene NI, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Herbaceous, leathery, peppery, with notes of elemi oil and thyme, as well as a touch of citrus Adds naturalness to herbal and citrus types at trace levels of use.",
+          "source": "Bedoukian Research · HABANENE ≥94.0%, Kosher"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1018551.html"
+    },
+    {
+      "item_id": 25389,
+      "name": "methyl jasmonate",
+      "cas": "39924-52-2",
+      "formula": "C13H20O3",
+      "molecular_weight": "224.30000000",
+      "appearance": "colorless clear oily liquid (est)",
+      "systematic_name": "methyl 2-(3-oxo-2-pent-2-enylcyclopentyl)acetate",
+      "odor_type": "floral",
+      "flavor_type": "floral",
+      "odor_strength": "medium",
+      "substantivity": "256 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Floral-jasmine, warm, rich Effective in traces it can also be used in much higher proportions, mainly in fine fragrances, though it’s application is limited only by cost. Firmenich describe it like this: “Odor reminiscent of the floral heart of jasmin. Petal soft and unctuous. Ve",
+          "source": "Pell Wall Perfumes · Splendione"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Reminiscent of the floral heart of jasmin. Petal soft and unctuous. Very elegant and natural A note reminiscent of the floral heart of jasmine; petal soft, very elegant and natural; tea-like aspects. Gives rich soft effects in jasmine and its family, as well as in lily of the val",
+          "source": "Firmenich · SPLENDIONE ®"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1468261.html"
+    },
+    {
+      "item_id": 15382,
+      "name": "ethylene brassylate",
+      "cas": "105-95-3",
+      "formula": "C15H26O4",
+      "molecular_weight": "270.36902000",
+      "appearance": "colorless to pale yellow clear oily liquid (est)",
+      "systematic_name": "1,4-dioxacycloheptadecane-5,17-dione",
+      "odor_type": "musk",
+      "flavor_type": "musk",
+      "odor_strength": "medium",
+      "substantivity": "208 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Musk, powdery, sweet, floral, ambrette-like with woody, spicy and vanilla nuances Ethylene brassylate is a macrocyclic musk, like most of those found in nature, it is exceptionally tenacious and a good fixative. It plays well with other musks and is probably best used in combinat",
+          "source": "Pell Wall Perfumes · Ethylene Brassylate"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Sweet-musky, somewhat oily Can be used in all types of fragrance accords, from floral to animalic. It gives an outstanding tenacity to perfumes and it performs well in all types of applications.",
+          "source": "Takasago · Musk T ® ≥93% min. as Ethylene brassylate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1002472.html"
+    },
+    {
+      "item_id": 2239,
+      "name": "para-anisaldehyde / methyl anthranilate schiff's base",
+      "cas": "14735-72-9",
+      "formula": "C16H15NO3",
+      "molecular_weight": "269.30015000",
+      "appearance": "yellow viscous liquid to solid (est)",
+      "systematic_name": null,
+      "odor_type": "floral",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 50.00 % solution or less",
+      "substantivity": "204 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A subtle but very pleasant mayflower odor Used in a variety of fragrances for a spicy, anisic, floral note.",
+          "source": "Bedoukian Research · SCHIFF'S BASE ANISALDEHYDE-METHYL ANTHRANILATE, 50% IN TRIACETIN ≥95.0%, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "A powdery mimosa character similar to the sweet smell of common orange flower",
+          "source": "IFF · Anisimea"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1025731.html"
+    },
+    {
+      "item_id": 25291,
+      "name": "methyl hexyl ether",
+      "cas": "4747-07-3",
+      "formula": "C7H16O",
+      "molecular_weight": "116.20372000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "1-methoxyhexane",
+      "odor_type": "herbal",
+      "flavor_type": "ethereal",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "2 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Concentrated sweet, herbaceous notes of lavender. Effective in traces. Pear, banana, green tonalities",
+          "source": "IFF · Diola"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Bright, floral, grassy, fruity, concentrated sweet aroma with herbaceous notes of lavender",
+          "source": "Perfumery Laboratory · DIOLA ® IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1017011.html"
+    },
+    {
+      "item_id": 11212,
+      "name": "daucus carota fruit oil",
+      "cas": "8015-88-1",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "pale yellow clear liquid (est)",
+      "systematic_name": "daucus carota l. fruit oil",
+      "odor_type": "herbal",
+      "flavor_type": "herbal",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "96 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Subtle balance between the fruity fresh apricot peel top note and the traditional powdery background effect",
+          "source": "IFF · Carrot Heart"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Earth after the rain with a fruity apricot tone",
+          "source": "IFF · Carrot Seed Oil"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1024732.html"
+    },
+    {
+      "item_id": 15389,
+      "name": "ethylene dodecanoate",
+      "cas": "54982-83-1",
+      "formula": "C14H24O4",
+      "molecular_weight": "256.34208000",
+      "appearance": "pale yellow clear oily liquid (est)",
+      "systematic_name": "2,5-dioxacyclohexadecane-1,6-dione",
+      "odor_type": "musk",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "348 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Warm, fresh, fruit-berry, animalistic sweet",
+          "source": "Perfumery Laboratory · ZENOLIDE IFF"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Soft, delicate musk, red fruit",
+          "source": "IFF · Zenolide"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001991.html"
+    },
+    {
+      "item_id": 1085,
+      "name": "aldehydic nitrile",
+      "cas": "40188-41-8",
+      "formula": "C10H19N",
+      "molecular_weight": "153.26843000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "3,7-dimethyloctanenitrile",
+      "odor_type": "citrus",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "24 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Citrus, aldehydic, fatty waxy with some metallic facets Citrus,Fatty, Metallic, Lemon. Hot, Zesty, Citrus (Dried Lemon/Orange Peel, Palmarosa note. To give a rich natural body to all fragrances employing the natural cologne moiety.",
+          "source": "IFF · Hypo-LEM"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Hypo-LEM",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1059281.html"
+    },
+    {
+      "item_id": 1592,
+      "name": "amber furan",
+      "cas": "68611-23-4",
+      "formula": "C17H28O2",
+      "molecular_weight": "264.40856000",
+      "appearance": "yellow clear liquid (est)",
+      "systematic_name": "prop-2-yn-1-ol; 1-(2,6,6-trimethyl-1-cyclohex-2-enyl)pentan-3-one",
+      "odor_type": "amber",
+      "flavor_type": null,
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "The character of ambergris captured in a single chemical of remarkable strength. Diffusive and long lasting. Excellent performance/cost ratio Grisalva is the ethyl analogue of Ambrox, discovered by IFF in the 1960's. Generally, incorporation of an ethyl group in place of a methyl",
+          "source": "IFF · Grisalva"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fresh, sweet, with a slightly metallic hue, animalistic amber",
+          "source": "Perfumery Laboratory · GRIZALVA ™ IFF (GRISALVA ™ IFF)"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1023391.html"
+    },
+    {
+      "item_id": 19860,
+      "name": "hyacinth acetals",
+      "cas": "29895-73-6",
+      "formula": "C11H14O3",
+      "molecular_weight": "194.23018000",
+      "appearance": "colorless clear slightly viscous liquid (est)",
+      "systematic_name": "2-(phenylmethyl)-1,3-dioxan-5-ol",
+      "odor_type": "floral",
+      "flavor_type": "aromatic",
+      "odor_strength": "medium , recommend smelling in a 50.00 % solution or less",
+      "substantivity": "> 576 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Tenacious heart note with honey, cyclamen and rose character",
+          "source": "IFF · Phenyl Acetaldehyde Glycerine Acetal"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Phenyl Acetaldehyde Glycerine Acetal",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1033811.html"
+    },
+    {
+      "item_id": 2279,
+      "name": "para-anisyl alcohol",
+      "cas": "105-13-5",
+      "formula": "C8H10O2",
+      "molecular_weight": "138.16610000",
+      "appearance": "white to pale yellow liquid to solid (est)",
+      "systematic_name": "(4-methoxyphenyl)methanol",
+      "odor_type": "powdery",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "82 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": ", floral-hawthorn and lilac, powdery, vanilla, balsamic Arctander says this about it: “Mild-floral, very sweet odor, reminiscent of Lilac and Vanilla with a faint, delicate, balsamic background. Very useful in Lilac, Appleblossom, Sweet Pea, Gardenia, Jasmin, etc. Gives pleasant ",
+          "source": "Pell Wall Perfumes · Anisyl Alcohol"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Floral, Anisic, Herbaceous, Powdery Anisyl Alcohol adds volume and gives a natural aspect to floral compositions such as mimosa, lilac, cassia, apple-blossom, jasmine and heliotrope as well as to clover and fougère perfumes. It has an excellent blending effect and can give a heli",
+          "source": "Givaudan · Anisyl Alcohol"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1001251.html"
+    },
+    {
+      "item_id": 14791,
+      "name": "ethyl heptanoate",
+      "cas": "106-30-9",
+      "formula": "C9H18O2",
+      "molecular_weight": "158.24086000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "ethyl heptanoate",
+      "odor_type": "fruity",
+      "flavor_type": "fruity",
+      "odor_strength": "medium",
+      "substantivity": "56 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Fruity, pineapple, berry, with a slight green nuance",
+          "source": "IFF · Oenanthic Ether"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Oenanthic Ether",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1009171.html"
+    },
+    {
+      "item_id": 1593,
+      "name": "amber naphthofuran",
+      "cas": "3738-00-9",
+      "formula": "C16H28O",
+      "molecular_weight": "236.39836000",
+      "appearance": "colorless to pale yellow liquid to solid (est)",
+      "systematic_name": "3a,6,6,9a-tetramethyl-2,4,5,5a,7,8,9,9b-octahydro-1H-benzo[e][1]benzofuran",
+      "odor_type": "amber",
+      "flavor_type": "amber",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "> 400 hour(s) at 10.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "One of the finest ambergris notes, powerful amber, woody odor, which gives rich, elegant effects to all kinds of perfumery",
+          "source": "IFF · Cetalor"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Strong amber with dry and woody notes",
+          "source": "IFF · Ambermor DL"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1005291.html"
+    },
+    {
+      "item_id": 17267,
+      "name": "geranyl acetate",
+      "cas": "105-87-3",
+      "formula": "C12H20O2",
+      "molecular_weight": "196.28980000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",
+      "odor_type": "floral",
+      "flavor_type": "green",
+      "odor_strength": "medium",
+      "substantivity": "24 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Green, fruity, rose. Of unique freshness because of its Neryl Acetate content. Rose, metallic, citronella, pear, mushroom note RECOMMENDED USES: Fine fragrance, personal care, fabric care, home care.",
+          "source": "IFF · Geranyl Acetate Extra"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Green, fruity, rose. Of unique freshness because of its Neryl Acetate content. Rose, metallic, citronella, pear, mushroom note",
+          "source": "IFF · Geranyl Acetate Coeur"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1030092.html"
+    },
+    {
+      "item_id": 10517,
+      "name": "black currant bud absolute",
+      "cas": "97676-19-2",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "yellow green to dark green crystalline paste to solid (est)",
+      "systematic_name": "ribes nigrum l. bud absolute",
+      "odor_type": "spicy",
+      "flavor_type": "spicy",
+      "odor_strength": null,
+      "substantivity": "344 Hour(s)",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Clearer and more acidulous than the absolute with an enhanced fruity character overcoming the green leafy aspect",
+          "source": "IFF · Blackcurrant Bud Absolute MD 37 PCT TEC"
+        },
+        {
+          "kind": "odor_description",
+          "text": "Fruity and powerful note of crushed blackcurrant leaves with both an acid and liquorish twist",
+          "source": "IFF · Blackcurrant Bud Absolute Burgundy"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/ab1017621.html"
+    },
+    {
+      "item_id": 11254,
+      "name": "(E,E)-2,4-decadienal",
+      "cas": "25152-84-5",
+      "formula": "C10H16O",
+      "molecular_weight": "152.23672000",
+      "appearance": "pale yellow to yellow clear liquid (est)",
+      "systematic_name": "(2E,4E)-deca-2,4-dienal",
+      "odor_type": "fatty",
+      "flavor_type": "fatty",
+      "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+      "substantivity": "94 hour(s) at 1.00 % in dipropylene glycol",
+      "sensory": [
+        {
+          "kind": "taste_description",
+          "text": "Fatty, oily, chicken fat, fried potatoes. Bitter orange character in high diution Chicken flavors, fatty notes in various nut flavors, specifically peanut and peanut butter. Useful in savory and dairy flavors, and at low levels in various citrus and other fruit flavors. Blends we",
+          "source": "Bedoukian Research · 2,4-DECADIEN-1-AL ≥90.0% (trans,trans), FCC, Kosher"
+        },
+        {
+          "kind": "odor_description",
+          "text": "at 2.00 %. Fatty, chicken, fried, citrus, chicken fat, coriander and brothy Mosciano, Gerard P&F 23, No. 3, 55, (1998)",
+          "source": null
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1028121.html"
+    },
+    {
+      "item_id": 7268,
+      "name": "cedrol methyl ether",
+      "cas": "19870-74-7",
+      "formula": "C16H28O",
+      "molecular_weight": "236.39836000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": null,
+      "odor_type": "woody",
+      "flavor_type": null,
+      "odor_strength": "medium",
+      "substantivity": "124 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "A dry, very diffusive, true ambergris note that also has rich woody cedarwood, dry aspects",
+          "source": "IFF · Cedramber ®"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Cedramber ®",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1104871.html"
+    },
+    {
+      "item_id": 20880,
+      "name": "2,4-ivy carbaldehyde",
+      "cas": "68039-49-6",
+      "formula": "C9H14O",
+      "molecular_weight": "138.20978000",
+      "appearance": "colorless to pale yellow clear liquid (est)",
+      "systematic_name": "2,4-dimethylcyclohex-3-ene-1-carbaldehyde",
+      "odor_type": "green",
+      "flavor_type": "green",
+      "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "8 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Powerful, green, grass odor that connotes the concentrated refreshing tartness of lemon and bergamot peels",
+          "source": "IFF · Triplal ®"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Triplal ®",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1007631.html"
+    },
+    {
+      "item_id": 18571,
+      "name": "heliotropyl acetone",
+      "cas": "55418-52-5",
+      "formula": "C11H12O3",
+      "molecular_weight": "192.21424000",
+      "appearance": "off-white to pale brown crystalline powder (est)",
+      "systematic_name": "4-(1,3-benzodioxol-5-yl)butan-2-one",
+      "odor_type": "floral",
+      "flavor_type": "berry",
+      "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Extremely sweet odor reminding of raspberry, cotton candy (i.e. candy floss), blackberry jam with cassis, heliotrope associations",
+          "source": "IFF · Dulcinyl ® Recrystallized"
+        },
+        {
+          "kind": "supplier_product",
+          "text": "Dulcinyl ® Recrystallized",
+          "source": "IFF"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1012851.html"
+    },
+    {
+      "item_id": 5457,
+      "name": "isobutyl phenyl acetate",
+      "cas": "102-13-6",
+      "formula": "C12H16O2",
+      "molecular_weight": "192.25792000",
+      "appearance": "colorless clear liquid (est)",
+      "systematic_name": "2-methylpropyl 2-phenylacetate",
+      "odor_type": "chocolate",
+      "flavor_type": "cocoa",
+      "odor_strength": "medium",
+      "substantivity": "96 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Sweet balsamic, incense note Sweet, balsamic, floral, honey note with a slightly fruity character.",
+          "source": "IFF · isoButyl Phenyl Acetate"
+        },
+        {
+          "kind": "taste_description",
+          "text": "sweet honey chocolate floral",
+          "source": "IFF · isoButyl Phenyl Acetate"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/rw1006811.html"
+    },
+    {
+      "item_id": 18196,
+      "name": "guaiacwood oil",
+      "cas": "8016-23-7",
+      "formula": null,
+      "molecular_weight": null,
+      "appearance": "yellow brown solid paste (est)",
+      "systematic_name": "guaiacum sanctum l. gum oil",
+      "odor_type": "woody",
+      "flavor_type": "woody",
+      "odor_strength": "medium",
+      "substantivity": "400 hour(s) at 100.00 %",
+      "sensory": [
+        {
+          "kind": "odor_description",
+          "text": "Faint but steady and long lasting smoky and woody note with a spicy floral tea rose facet",
+          "source": "IFF · Guaiacwood Heart"
+        },
+        {
+          "kind": "taste_description",
+          "text": "woody balsamic spicy peppery powdery oily bitter resinous",
+          "source": "IFF · Guaiacwood Heart"
+        }
+      ],
+      "url": "https://www.thegoodscentscompany.com/data/es1005751.html"
+    }
+  ]
+}

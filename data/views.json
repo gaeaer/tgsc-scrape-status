@@ -1,0 +1,3140 @@
+{
+  "updated_at": "2026-09-08T21:48:37.534158+00:00",
+  "views": [
+    {
+      "id": "recent_completes",
+      "title": "Recent completes",
+      "description": "Latest completed detail pages.",
+      "sql": "SELECT\n          i.item_id,\n          COALESCE(i.detail_name, l.name) AS name,\n          COALESCE(l.cas, '') AS cas,\n          i.odor_type,\n          i.detail_scraped_at,\n          i.detail_url\n        FROM tgsc_item AS i\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE i.detail_status = 'complete'\n        GROUP BY i.item_id\n        ORDER BY i.detail_scraped_at DESC\n        LIMIT 40",
+      "rows": [
+        {
+          "item_id": 25842,
+          "name": "4-methyl-4-phenyl-2-pentanol",
+          "cas": "2035-93-0",
+          "odor_type": "floral",
+          "detail_scraped_at": "2026-09-08T21:48:37.490853+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1456901.html"
+        },
+        {
+          "item_id": 25841,
+          "name": "methyl phenyl methylene aminobenzoate",
+          "cas": "39129-16-3",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:48:11.950524+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1548351.html"
+        },
+        {
+          "item_id": 25840,
+          "name": "3-methyl-1-phenyl-2-hexene 1,5-epoxide",
+          "cas": "68039-40-7",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:48:06.549031+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1429361.html"
+        },
+        {
+          "item_id": 25839,
+          "name": "methyl beta-phenyl glycidate",
+          "cas": "37161-74-3",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:48:02.065339+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1486221.html"
+        },
+        {
+          "item_id": 25838,
+          "name": "methyl phenyl disulfide",
+          "cas": "14173-25-2",
+          "odor_type": "sulfurous",
+          "detail_scraped_at": "2026-09-08T21:47:57.126801+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1047211.html"
+        },
+        {
+          "item_id": 25837,
+          "name": "2-methyl-4-phenyl-1,3-dioxolane",
+          "cas": "33941-99-0",
+          "odor_type": "floral",
+          "detail_scraped_at": "2026-09-08T21:47:52.808203+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1531961.html"
+        },
+        {
+          "item_id": 25836,
+          "name": "methyl phenyl-1,3-dioxanol",
+          "cas": "4757-23-7",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:47:46.964027+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1548331.html"
+        },
+        {
+          "item_id": 25835,
+          "name": "methyl phenyl butyrate",
+          "cas": "2294-71-5",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:47:42.328806+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1470431.html"
+        },
+        {
+          "item_id": 25834,
+          "name": "methyl 4-phenyl butyrate",
+          "cas": "2046-17-5",
+          "odor_type": "fruity",
+          "detail_scraped_at": "2026-09-08T21:47:36.357853+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1032961.html"
+        },
+        {
+          "item_id": 25833,
+          "name": "2-methyl-3-phenyl-2-butanol",
+          "cas": "3280-08-8",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:47:31.297290+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1126361.html"
+        },
+        {
+          "item_id": 25832,
+          "name": "methyl phenyl butanol",
+          "cas": "705-58-8",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:47:06.478968+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1049191.html"
+        },
+        {
+          "item_id": 25831,
+          "name": "3-(4-methyl phenyl) butanal",
+          "cas": "16251-78-8",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:47:01.743545+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1128841.html"
+        },
+        {
+          "item_id": 25830,
+          "name": "2-methyl-4-phenyl butanal",
+          "cas": "40654-82-8",
+          "odor_type": "floral",
+          "detail_scraped_at": "2026-09-08T21:46:56.975358+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1032931.html"
+        },
+        {
+          "item_id": 25829,
+          "name": "2-methyl-5-phenyl benzoxazole",
+          "cas": "61931-68-8",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:46:52.283066+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1178761.html"
+        },
+        {
+          "item_id": 25828,
+          "name": "methyl phenyl acetate",
+          "cas": "101-41-7",
+          "odor_type": "honey",
+          "detail_scraped_at": "2026-09-08T21:46:46.907205+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008431.html"
+        },
+        {
+          "item_id": 25827,
+          "name": "methyl phenoxyisobutyrate",
+          "cas": "72278-52-5",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:46:40.507298+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1470301.html"
+        },
+        {
+          "item_id": 25826,
+          "name": "methyl phenoxyethanol",
+          "cas": "15149-10-7",
+          "odor_type": "floral",
+          "detail_scraped_at": "2026-09-08T21:46:34.526923+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1497961.html"
+        },
+        {
+          "item_id": 25825,
+          "name": "methyl 3-phenoxybenzoate",
+          "cas": "50789-43-0",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:46:29.532359+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1502831.html"
+        },
+        {
+          "item_id": 25824,
+          "name": "methyl phenoxyacetate",
+          "cas": "2065-23-8",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:46:24.924274+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1040321.html"
+        },
+        {
+          "item_id": 25823,
+          "name": "para-methyl phenoxyacetaldehyde",
+          "cas": "67845-46-9",
+          "odor_type": "hay",
+          "detail_scraped_at": "2026-09-08T21:46:20.434962+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1037861.html"
+        },
+        {
+          "item_id": 25822,
+          "name": "4-methyl phenol reaction products with dicyclopentadiene and isobutylene",
+          "cas": "68610-51-5",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:46:12.919590+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1317721.html"
+        },
+        {
+          "item_id": 25821,
+          "name": "alpha-methyl phenethyl butyrate",
+          "cas": "68922-11-2",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:46:08.105373+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1035451.html"
+        },
+        {
+          "item_id": 25820,
+          "name": "methyl perillate",
+          "cas": "26460-67-3",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:46:03.828707+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1559841.html"
+        },
+        {
+          "item_id": 25819,
+          "name": "2-methyl-3-pentynoic acid",
+          "cas": "17074-99-6",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:45:59.512267+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1075391.html"
+        },
+        {
+          "item_id": 25818,
+          "name": "methyl 3-oxo-4-pentylidene cyclopentane acetate",
+          "cas": "84824-80-6",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:45:53.849195+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1502811.html"
+        },
+        {
+          "item_id": 25817,
+          "name": "methyl 3-oxo-2-pentylidene cyclopentane acetate",
+          "cas": "84962-44-7",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:45:49.556697+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1485971.html"
+        },
+        {
+          "item_id": 25816,
+          "name": "3-methyl-5-pentyl-1,2,4-trithiolane",
+          "cas": "101517-93-5",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:45:43.879558+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1120011.html"
+        },
+        {
+          "item_id": 25815,
+          "name": "5-methyl-2-pentyl thiazole",
+          "cas": "86290-21-3",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:45:38.091268+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1583891.html"
+        },
+        {
+          "item_id": 25814,
+          "name": "methyl pentyl tetrasulfide",
+          "cas": "NF0814",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:45:13.780877+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1086291.html"
+        },
+        {
+          "item_id": 25813,
+          "name": "2-methyl-3-pentyl quinoxaline",
+          "cas": "40790-46-3",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:45:08.117414+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1656481.html"
+        },
+        {
+          "item_id": 25812,
+          "name": "2-methyl-5-pentyl pyrazine",
+          "cas": "32737-07-8",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:44:42.765342+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1629701.html"
+        },
+        {
+          "item_id": 25811,
+          "name": "2-methyl-3-pentyl pyrazine",
+          "cas": "15987-02-7",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:44:37.125406+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1629691.html"
+        },
+        {
+          "item_id": 25810,
+          "name": "2-methyl pentyl propionate",
+          "cas": "NF0494",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:44:32.708134+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1082471.html"
+        },
+        {
+          "item_id": 25809,
+          "name": "3-methyl-4-pentyl oxybutyraldehyde",
+          "cas": "",
+          "odor_type": "dusty",
+          "detail_scraped_at": "2026-09-08T21:44:27.270117+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1071301.html"
+        },
+        {
+          "item_id": 25808,
+          "name": "4-methyl-3-pentyl oxazolidin-2-one",
+          "cas": "597532-53-1",
+          "odor_type": "herbal",
+          "detail_scraped_at": "2026-09-08T21:44:22.545636+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1697291.html"
+        },
+        {
+          "item_id": 25807,
+          "name": "4-methyl-2-pentyl oxazole",
+          "cas": "52713-58-3",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:44:16.537863+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1118621.html"
+        },
+        {
+          "item_id": 25806,
+          "name": "2-methyl-4-pentyl oxazole",
+          "cas": "102586-52-7",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:44:12.244982+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1118611.html"
+        },
+        {
+          "item_id": 25805,
+          "name": "4-methyl pentyl 4-methyl valerate",
+          "cas": "35852-42-7",
+          "odor_type": "fruity",
+          "detail_scraped_at": "2026-09-08T21:44:06.933963+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1624531.html"
+        },
+        {
+          "item_id": 25804,
+          "name": "4-methyl pentyl isovalerate",
+          "cas": "850309-45-4",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:44:00.735826+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1593961.html"
+        },
+        {
+          "item_id": 25803,
+          "name": "3-methyl pentyl isovalerate",
+          "cas": "35852-41-6",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:43:55.107566+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1476931.html"
+        }
+      ]
+    },
+    {
+      "id": "iff_odors",
+      "title": "IFF odor notes",
+      "description": "Sensory rows tagged with IFF.",
+      "sql": "SELECT\n          i.item_id,\n          COALESCE(i.detail_name, l.name) AS name,\n          COALESCE(l.cas, '') AS cas,\n          i.odor_type,\n          s.description AS odor,\n          s.source_name AS supplier,\n          i.detail_url\n        FROM sensory_observation AS s\n        JOIN tgsc_item AS i ON i.item_id = s.item_id\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE s.source_name LIKE '%IFF%'\n          AND s.kind LIKE '%odor%'\n        GROUP BY s.sensory_id\n        ORDER BY LENGTH(s.description) DESC\n        LIMIT 40",
+      "rows": [
+        {
+          "item_id": 1633,
+          "name": "isoambrettolide",
+          "cas": "28645-51-4",
+          "odor_type": "musk",
+          "odor": "Musk, ambrette, fruity-berry Arctander says it is “is one of the finest fixatives among the distinguished group of those showing a synergistic and amplifying effect upon perfumes and flavors. At the same time it increases the diffusiveness of fragrances in which it is incorporated. Its fixative effect is easily recognized by the fact that solutions of 0.01% Ambrettolide (or even less) in slightly diluted alcohol show practically no odor of alcohol, only a faint, floral-musky, sweet and pleasant odor of the lactone. A. is particularly useful in fragrance types of delicately floral, mildly animal or Ambre-like type.”",
+          "supplier": "Pell Wall Perfumes · Ambrettolide IFF",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1026271.html"
+        },
+        {
+          "item_id": 7066,
+          "name": "cassis cyclohexene",
+          "cas": "139539-66-5",
+          "odor_type": "floral",
+          "odor": "A non-sulfur substantive fruity, green, cassis note. Gives sparkle to a wide range of citrus fragrances Cassis notes are very important in perfumery and are mostly associated with ingredients containing a sulfur atom. The discovery of Cassiffix ® was serendipitous in nature. IFF R&D were aiming for synthesis of novel cyclic ethers with oxabicyclooctane structures anticipating an amber odor based on the campholenic backbone. It turned out that the Cassiffix ® structure had a Cassis odor. It is one of the few Cassis ingredients that are long-lasting as most Cassis notes are topnotes.",
+          "supplier": "IFF · Cassiffix ®",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1134711.html"
+        },
+        {
+          "item_id": 22505,
+          "name": "limonene aldehyde",
+          "cas": "6784-13-0",
+          "odor_type": "citrus",
+          "odor": "Citrus, Aldehydic, Zest A diffusive fresh citrus which evokes the sensation of the natural sparkle of Lemon and Orange zest. Particulary effective in combination with natural citrus oils. Adds a slight herbal characteristic enhancing overall strength and volume of compositions. RECOMMENDED USES: Used in combination with natural and synthetic citrus notes to increase body and tenacity, and very effective in oriental, sandalwood, amber and wood accords.",
+          "supplier": "IFF · Limoxal",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1021471.html"
+        },
+        {
+          "item_id": 1592,
+          "name": "amber furan",
+          "cas": "68611-23-4",
+          "odor_type": "amber",
+          "odor": "The character of ambergris captured in a single chemical of remarkable strength. Diffusive and long lasting. Excellent performance/cost ratio Grisalva is the ethyl analogue of Ambrox, discovered by IFF in the 1960's. Generally, incorporation of an ethyl group in place of a methyl group increases the intensity of the parent chemical. One of the main key characteristics of Grisalva is its exceptional diffusion.",
+          "supplier": "IFF · Grisalva",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1023391.html"
+        },
+        {
+          "item_id": 20651,
+          "name": "indolall",
+          "cas": "68908-82-7",
+          "odor_type": "animal",
+          "odor": "A floral, jasmin note with slight animalic character which is useful in extending natural absolute Jasmin Modified animal, fecal note useful in floral absolute types. Increases the substantivity of a fragrance and provides fixation as well as floralcy.",
+          "supplier": "IFF · Indolene 50% BB",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1377241.html"
+        },
+        {
+          "item_id": 7258,
+          "name": "alpha-cedrene epoxide",
+          "cas": "13567-39-0",
+          "odor_type": "woody",
+          "odor": "A precious wood odor reminiscent of ambergris, tobacco, cedarwood and sandalwood. It is powerful, stable, excellent in soap and useful in artificial patchouli Recommended Uses: Personal care, home care, fabric care, fine fragrance, air care",
+          "supplier": "IFF · Andrane",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001171.html"
+        },
+        {
+          "item_id": 1085,
+          "name": "aldehydic nitrile",
+          "cas": "40188-41-8",
+          "odor_type": "citrus",
+          "odor": "Citrus, aldehydic, fatty waxy with some metallic facets Citrus,Fatty, Metallic, Lemon. Hot, Zesty, Citrus (Dried Lemon/Orange Peel, Palmarosa note. To give a rich natural body to all fragrances employing the natural cologne moiety.",
+          "supplier": "IFF · Hypo-LEM",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1059281.html"
+        },
+        {
+          "item_id": 3588,
+          "name": "balsam ketone",
+          "cas": "3240-29-7",
+          "odor_type": "balsamic",
+          "odor": "Balsamic, Labdanum, Myrrh Opoponax, labdanum and myrrh with a balsamic characteristic and herbal, lavender nuances. Useful for its non-discoloring resinous notes which provide a modern twist to herbal fragrances. Metallic.",
+          "supplier": "IFF · Lavonax",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1096681.html"
+        },
+        {
+          "item_id": 22043,
+          "name": "leerall",
+          "cas": "31906-04-4",
+          "odor_type": "floral",
+          "odor": "Soft delicate floral, lily, cyclamen, lilac note reminiscent of hydrocycitronellal Extraordinary tenacity and diffusivity. A powerful blending agent giving richness throughout all dryout phases of a perfume composition.",
+          "supplier": "IFF · Lyral ®",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007972.html"
+        },
+        {
+          "item_id": 22043,
+          "name": "leerall",
+          "cas": "31906-04-4",
+          "odor_type": "floral",
+          "odor": "Soft delicate floral, lily, cyclamen, lilac note reminiscent of hydrocycitronellal Extraordinary tenacity and diffusivity. A powerful blending agent giving richness throughout all dryout phases of a perfume composition.",
+          "supplier": "IFF · Lyral ® Tocopherol",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007972.html"
+        },
+        {
+          "item_id": 10408,
+          "name": "cuminyl acetaldehyde",
+          "cas": "7775-00-0",
+          "odor_type": "floral",
+          "odor": "Fresh, floral, muguet with a fruity melon nuance CyclemaxTM was first made in 1980 as a structure-odor analogue of Muguet ingredients such as Lilial and Cyclamal. Since then the production process has been optimized.",
+          "supplier": "IFF · Cyclemax™",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1034191.html"
+        },
+        {
+          "item_id": 17267,
+          "name": "geranyl acetate",
+          "cas": "105-87-3",
+          "odor_type": "floral",
+          "odor": "Green, fruity, rose. Of unique freshness because of its Neryl Acetate content. Rose, metallic, citronella, pear, mushroom note RECOMMENDED USES: Fine fragrance, personal care, fabric care, home care.",
+          "supplier": "IFF · Geranyl Acetate Extra",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1030092.html"
+        },
+        {
+          "item_id": 22007,
+          "name": "leather cyclohexanol",
+          "cas": "4621-04-9",
+          "odor_type": "leathery",
+          "odor": "A diffusive floral effect reminiscent of a combination of lilac, rose and geranium Diffusive leathery, floral effect reminiscent of lilac, rose and geranium. Excellent stability. Non-discoloring.",
+          "supplier": "IFF · Apo Patchone Coeur",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001961.html"
+        },
+        {
+          "item_id": 13397,
+          "name": "dipentene terpene hydrocarbon byproducts",
+          "cas": "68956-56-9",
+          "odor_type": "pine",
+          "odor": "A mixture of hydrocarbons, including terpinolene (p-menthadiene), together with small amounts of the alcohols derived from the production of terpineol from alpha pinene. Pine-lime fragrance",
+          "supplier": "IFF · Dipentene 5100",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007232.html"
+        },
+        {
+          "item_id": 17215,
+          "name": "geraniol",
+          "cas": "106-24-1",
+          "odor_type": "floral",
+          "odor": "Rose note. Economical grade for soaps, detergents, air fresheners, etc. Rose, metallic, citronella, pear note RECOMMENDED USES: Fine fragrance, personal care, fabric care, home care.",
+          "supplier": "IFF · Geraniol 7030",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006992.html"
+        },
+        {
+          "item_id": 12810,
+          "name": "2,4-dimethyl-3-cyclohexene-1-methanyl acetate",
+          "cas": "67634-25-7",
+          "odor_type": "citrus",
+          "odor": "Citrus, grapefruit note also reminiscent of the dry notes of bitter orange oil and melon. Useful in colognes as a freshener to overcome the candy-sweet notes of orange and lemon oil",
+          "supplier": "IFF · Citrolate™",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1005211.html"
+        },
+        {
+          "item_id": 1635,
+          "name": "alpha-ambrinol",
+          "cas": "41199-19-3",
+          "odor_type": "amber",
+          "odor": "Possesses the elegant tonalities of aged natural ambergris tincture. Tobacco, leathery nuances and the power of oceanic seaweed notes supported with a warm animalic, musky dry down",
+          "supplier": "IFF · Ambrinol 95",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1052421.html"
+        },
+        {
+          "item_id": 9168,
+          "name": "clary propyl acetate",
+          "cas": "131766-73-9",
+          "odor_type": "herbal",
+          "odor": "Herbal, floral, rosy odor with a dry plum fruitiness and a suggestion of clary sage and cedarwood. Augments the rose ketone notes. Fruity, plum, rose, celery, wine, mushroom, cedar",
+          "supplier": "IFF · Clarycet",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1059161.html"
+        },
+        {
+          "item_id": 11162,
+          "name": "delta-damascone",
+          "cas": "57378-68-4",
+          "odor_type": "floral",
+          "odor": "Blackcurrant (cassis), fruity note of exceptional diffusion. Very good in trace amounts a rose/tobacco effect. Member of the rose ketone family. A fruity, apple, rose earthy note",
+          "supplier": "IFF · Damascone Delta",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006961.html"
+        },
+        {
+          "item_id": 5511,
+          "name": "isobutyl quinoline",
+          "cas": "1333-58-0",
+          "odor_type": "animal",
+          "odor": "Intense , earthy, rooty, nutty odor. Character resembles certain facets of oakmoss and vetivert and blends very well with them. Also ambery, woody, tobacco-like and leathery",
+          "supplier": "IFF · isoButyl Quinoline",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1381341.html"
+        },
+        {
+          "item_id": 19394,
+          "name": "(Z)-3-hexen-1-yl salicylate",
+          "cas": "65405-77-8",
+          "odor_type": "floral",
+          "odor": "Apparently mild odored in the herbaceous/green family, but an excellent blending agent. Floral, sea RECOMMENDED USES: Fine fragrance, personal care, fabric care, home care.",
+          "supplier": "IFF · Hexenyl Salicylate CIS-3",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1010652.html"
+        },
+        {
+          "item_id": 1211,
+          "name": "allyl amyl glycolate",
+          "cas": "67634-00-8",
+          "odor_type": "fruity",
+          "odor": "Strong, fruity, galbanum with a pineapple modification. Adds a modern sparkle to any fragrance Recommended Uses: Fine fragrance, personal care, fabric care, home care.",
+          "supplier": "IFF · Allyl Amyl Glycolate",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001841.html"
+        },
+        {
+          "item_id": 17135,
+          "name": "gelsone (IFF)",
+          "cas": "29214-60-6",
+          "odor_type": "floral",
+          "odor": "Floral, Jasmin, Fruity Long lasting, strong, refreshing and decidedly jasmin-like with an intriguing wine bouquet. Pear, floral, ozone, luminous, transparent note.",
+          "supplier": "IFF · Gelsone",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006881.html"
+        },
+        {
+          "item_id": 8548,
+          "name": "cinnamon bark oil",
+          "cas": "8015-91-6",
+          "odor_type": "spicy",
+          "odor": "powdery, sweet, tasty and spicy note of the cinnamon bark, with a strong woody and cinnamic character. Higher content in cinnamic aldehyde than the regular oil",
+          "supplier": "IFF · Cinnamon Essential™",
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1655051.html"
+        },
+        {
+          "item_id": 16597,
+          "name": "fruity butanate",
+          "cas": "113889-23-9",
+          "odor_type": "fruity",
+          "odor": "Pleasant, fruity, peach note with a slight woody undertone Useful in a wide variety of fragrances giving a substantive fruity note even through washing cycles.",
+          "supplier": "IFF · Nectarate™",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1573161.html"
+        },
+        {
+          "item_id": 22045,
+          "name": "leerall / methyl anthranilate schiff's base",
+          "cas": "67634-12-2",
+          "odor_type": "floral",
+          "odor": "Tenacious floral absolute odor with a very sweet, orange blossom profile. Increases the substantivity of a fragrance and provides fixation and floralcy as well",
+          "supplier": "IFF · Lyrame Super",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1025921.html"
+        },
+        {
+          "item_id": 25365,
+          "name": "alpha-isomethyl ionone (50% min.)",
+          "cas": "127-51-5",
+          "odor_type": "floral",
+          "odor": "Woody, Floral, Violet Woody, tobacco, floral (orris and violet). Powdery tone. Great strength as both top and body notes. Excellent performance to cost ratio.",
+          "supplier": "IFF · Meth Ionone Gamma A Tocopherol",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1023012.html"
+        },
+        {
+          "item_id": 8553,
+          "name": "cinnamon bark oil replacer",
+          "cas": "",
+          "odor_type": "spicy",
+          "odor": "Cinnamon Bark Intended to be used as a one for one replacement of cinnamon bark oil in perfume applications. Typical usage level is traces to less than 1%.",
+          "supplier": "Pell Wall Perfumes · Cinnamon Bark Oliffac",
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1059391.html"
+        },
+        {
+          "item_id": 11157,
+          "name": "(E)-alpha-damascone",
+          "cas": "24720-09-0",
+          "odor_type": "fruity",
+          "odor": "Unique and sophisticated floral fruity note with a delicate and natural rose character. Complex apple note, mint and blackcurrant with plum undertones",
+          "supplier": "IFF · Damascone Alpha",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006041.html"
+        },
+        {
+          "item_id": 24775,
+          "name": "methyl cedryl ketone replacer",
+          "cas": "91722-61-1",
+          "odor_type": "woody",
+          "odor": "Woody, amber, leathery, vetivert. A very economical, substantive alternative to Methyl Cedryl Ketone. Very substantive on skin, fabric, hair and paper",
+          "supplier": "IFF · Cedrafix",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1005881.html"
+        },
+        {
+          "item_id": 18102,
+          "name": "green acetate",
+          "cas": "88-41-5",
+          "odor_type": "fruity",
+          "odor": "Powerful, fresh, fruity, apple, woody. Gives a fruity tea note in florals or is simply a woody tone. It is unusually intense, yet it blends well",
+          "supplier": "IFF · Verdox™",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1002461.html"
+        },
+        {
+          "item_id": 7646,
+          "name": "chamomile oil morocco",
+          "cas": "68916-68-7",
+          "odor_type": "herbal",
+          "odor": "Intensely herbaceous. Drier and more long lasting than the Roman chamomile. Reminiscent of calamus, green hay and amber labdanum undertones",
+          "supplier": "IFF · Chamomile Oil Wild",
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1041091.html"
+        },
+        {
+          "item_id": 11425,
+          "name": "9-decen-1-ol",
+          "cas": "13019-22-2",
+          "odor_type": "floral",
+          "odor": "Fresh, green, aldehydic dewy rose note; imparts a waxy, aldehydic character without being fatty and maintains a constancy of odor strength",
+          "supplier": "IFF · Rosalva",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1009352.html"
+        },
+        {
+          "item_id": 8817,
+          "name": "citronellyl oxyacetaldehyde",
+          "cas": "7492-67-3",
+          "odor_type": "aldehydic",
+          "odor": "Powerful with a refreshing, aldehydic, rosy ozone-like note. Traces will contribute a pleasant top note. Fluidised with diethyl phthalate",
+          "supplier": "IFF · Muguet Aldehyde 50",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1016771.html"
+        },
+        {
+          "item_id": 9661,
+          "name": "conifer acetate",
+          "cas": "67874-72-0",
+          "odor_type": "balsamic",
+          "odor": "Balsamic, sandalwood, woody odor, sweet and rich as in Fir Balsam Absolute. Also has a precious wood, herbal and sweet pear character",
+          "supplier": "IFF · Coniferan Pure",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1009711.html"
+        },
+        {
+          "item_id": 18904,
+          "name": "herbal heptane",
+          "cas": "122795-41-9",
+          "odor_type": "herbal",
+          "odor": "Herbal, green leafy, citrus Herbal, leafy and green with citrus notes. Stable in all functional media including hypochlorite bleach.",
+          "supplier": "IFF · Neoproxen",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1096691.html"
+        },
+        {
+          "item_id": 17390,
+          "name": "ginger root oil",
+          "cas": "8007-08-7",
+          "odor_type": "spicy",
+          "odor": "picy fresh, citrus, characteristic of the fresh rhizomes. Sparkling effect of the top note with a steady and long lasting character",
+          "supplier": "IFF · Ginger Oil Fresh",
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1101221.html"
+        },
+        {
+          "item_id": 18571,
+          "name": "heliotropyl acetone",
+          "cas": "55418-52-5",
+          "odor_type": "floral",
+          "odor": "Extremely sweet odor reminding of raspberry, cotton candy (i.e. candy floss), blackberry jam with cassis, heliotrope associations",
+          "supplier": "IFF · Dulcinyl ® Recrystallized",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1012851.html"
+        },
+        {
+          "item_id": 8776,
+          "name": "citronellol",
+          "cas": "106-22-9",
+          "odor_type": "floral",
+          "odor": "Clean, rose-like. Has a rich rosy geranium, citronella character. With deeper red rose character than the Citronellol 750 grade.",
+          "supplier": "IFF · Citronellol 700 JAX",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007032.html"
+        },
+        {
+          "item_id": 16313,
+          "name": "floral undecenone",
+          "cas": "1322-58-3",
+          "odor_type": "floral",
+          "odor": "A natural floral, rosy, lavender, green bouquet with balsamic, woody undertones. Imparts a floral absolute bloom to fragrances",
+          "supplier": "IFF · Tetrameran",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1034921.html"
+        }
+      ]
+    },
+    {
+      "id": "tall_sensory",
+      "title": "Tall sensory pages",
+      "description": "Items with the most sensory rows.",
+      "sql": "SELECT\n          i.item_id,\n          COALESCE(i.detail_name, l.name) AS name,\n          COALESCE(l.cas, '') AS cas,\n          i.odor_type,\n          COUNT(s.sensory_id) AS sensory_rows,\n          i.detail_url\n        FROM tgsc_item AS i\n        JOIN sensory_observation AS s ON s.item_id = i.item_id\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE i.detail_status = 'complete'\n        GROUP BY i.item_id\n        ORDER BY sensory_rows DESC, name\n        LIMIT 40",
+      "rows": [
+        {
+          "item_id": 11361,
+          "name": "(E)-2-decenal",
+          "cas": "3913-81-3",
+          "odor_type": "fatty",
+          "sensory_rows": 51,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007761.html"
+        },
+        {
+          "item_id": 25102,
+          "name": "4-methyl guaiacol",
+          "cas": "93-51-6",
+          "odor_type": "spicy",
+          "sensory_rows": 49,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1020341.html"
+        },
+        {
+          "item_id": 8776,
+          "name": "citronellol",
+          "cas": "106-22-9",
+          "odor_type": "floral",
+          "sensory_rows": 48,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007032.html"
+        },
+        {
+          "item_id": 9175,
+          "name": "clary sage oil france",
+          "cas": "8016-63-5",
+          "odor_type": "herbal",
+          "sensory_rows": 48,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1018512.html"
+        },
+        {
+          "item_id": 9357,
+          "name": "cocoa hexenal",
+          "cas": "21834-92-4",
+          "odor_type": "chocolate",
+          "sensory_rows": 48,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1035461.html"
+        },
+        {
+          "item_id": 3686,
+          "name": "barosma betulina leaf oil",
+          "cas": "68650-46-4",
+          "odor_type": "herbal",
+          "sensory_rows": 46,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1000711.html"
+        },
+        {
+          "item_id": 16527,
+          "name": "frankincense oil",
+          "cas": "8016-36-2",
+          "odor_type": "terpenic",
+          "sensory_rows": 46,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1004051.html"
+        },
+        {
+          "item_id": 18052,
+          "name": "grapefruit menthane",
+          "cas": "68398-18-5",
+          "odor_type": "sulfurous",
+          "sensory_rows": 45,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1399071.html"
+        },
+        {
+          "item_id": 24946,
+          "name": "methyl dihydrojasmonate",
+          "cas": "24851-98-7",
+          "odor_type": "floral",
+          "sensory_rows": 45,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1015272.html"
+        },
+        {
+          "item_id": 20729,
+          "name": "alpha-ionone",
+          "cas": "127-41-3",
+          "odor_type": "floral",
+          "sensory_rows": 44,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1011952.html"
+        },
+        {
+          "item_id": 11153,
+          "name": "beta-damascenone",
+          "cas": "23696-85-7",
+          "odor_type": "floral",
+          "sensory_rows": 44,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1021911.html"
+        },
+        {
+          "item_id": 15097,
+          "name": "ethyl octanoate",
+          "cas": "106-32-1",
+          "odor_type": "waxy",
+          "sensory_rows": 44,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1056351.html"
+        },
+        {
+          "item_id": 19247,
+          "name": "(Z)-2-hexen-1-ol",
+          "cas": "928-94-9",
+          "odor_type": "green",
+          "sensory_rows": 43,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1026641.html"
+        },
+        {
+          "item_id": 6908,
+          "name": "4-carvomenthenol",
+          "cas": "562-74-3",
+          "odor_type": "spicy",
+          "sensory_rows": 43,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1021751.html"
+        },
+        {
+          "item_id": 5305,
+          "name": "butyl hexanoate",
+          "cas": "626-82-4",
+          "odor_type": "fruity",
+          "sensory_rows": 43,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007591.html"
+        },
+        {
+          "item_id": 8804,
+          "name": "citronellyl formate",
+          "cas": "105-85-1",
+          "odor_type": "floral",
+          "sensory_rows": 43,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1017871.html"
+        },
+        {
+          "item_id": 17311,
+          "name": "geranyl propionate",
+          "cas": "105-90-8",
+          "odor_type": "floral",
+          "sensory_rows": 43,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1005591.html"
+        },
+        {
+          "item_id": 19415,
+          "name": "hexyl acetate",
+          "cas": "142-92-7",
+          "odor_type": "fruity",
+          "sensory_rows": 43,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1003201.html"
+        },
+        {
+          "item_id": 11157,
+          "name": "(E)-alpha-damascone",
+          "cas": "24720-09-0",
+          "odor_type": "fruity",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006041.html"
+        },
+        {
+          "item_id": 19277,
+          "name": "(Z)-3-hexen-1-yl acetate",
+          "cas": "3681-71-8",
+          "odor_type": "green",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001471.html"
+        },
+        {
+          "item_id": 19299,
+          "name": "(Z)-3-hexen-1-yl isobutyrate",
+          "cas": "41519-23-7",
+          "odor_type": "fruity",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1005361.html"
+        },
+        {
+          "item_id": 13095,
+          "name": "2,3-dimethyl pyrazine",
+          "cas": "5910-89-4",
+          "odor_type": "nutty",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008121.html"
+        },
+        {
+          "item_id": 3813,
+          "name": "beeswax absolute",
+          "cas": "8012-89-3",
+          "odor_type": "hay",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1029091.html"
+        },
+        {
+          "item_id": 10517,
+          "name": "black currant bud absolute",
+          "cas": "97676-19-2",
+          "odor_type": "spicy",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1017621.html"
+        },
+        {
+          "item_id": 8782,
+          "name": "citronellyl acetate",
+          "cas": "150-84-5",
+          "odor_type": "floral",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1012172.html"
+        },
+        {
+          "item_id": 12260,
+          "name": "dihydrocoumarin",
+          "cas": "119-84-6",
+          "odor_type": "tonka",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001531.html"
+        },
+        {
+          "item_id": 15637,
+          "name": "eugenol",
+          "cas": "97-53-0",
+          "odor_type": "spicy",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1004991.html"
+        },
+        {
+          "item_id": 1911,
+          "name": "isoamyl butyrate",
+          "cas": "106-27-4",
+          "odor_type": "fruity",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006752.html"
+        },
+        {
+          "item_id": 23899,
+          "name": "melon nonenoate",
+          "cas": "111-79-5",
+          "odor_type": "green",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1015351.html"
+        },
+        {
+          "item_id": 24314,
+          "name": "methional",
+          "cas": "3268-49-3",
+          "odor_type": "vegetable",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1032991.html"
+        },
+        {
+          "item_id": 25283,
+          "name": "methyl (E)-3-hexenoate",
+          "cas": "13894-61-6",
+          "odor_type": "green",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1433011.html"
+        },
+        {
+          "item_id": 2279,
+          "name": "para-anisyl alcohol",
+          "cas": "105-13-5",
+          "odor_type": "powdery",
+          "sensory_rows": 42,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001251.html"
+        },
+        {
+          "item_id": 19273,
+          "name": "(E)-2-hexen-1-yl acetate",
+          "cas": "2497-18-9",
+          "odor_type": "green",
+          "sensory_rows": 41,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1031091.html"
+        },
+        {
+          "item_id": 17272,
+          "name": "(E)-geranyl acetone",
+          "cas": "3796-70-1",
+          "odor_type": "floral",
+          "sensory_rows": 41,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1014692.html"
+        },
+        {
+          "item_id": 7853,
+          "name": "cherry pentenoate",
+          "cas": "1617-23-8",
+          "odor_type": "fruity",
+          "sensory_rows": 41,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1036291.html"
+        },
+        {
+          "item_id": 9842,
+          "name": "coriander seed oil",
+          "cas": "8008-52-4",
+          "odor_type": "floral",
+          "sensory_rows": 41,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1003771.html"
+        },
+        {
+          "item_id": 17267,
+          "name": "geranyl acetate",
+          "cas": "105-87-3",
+          "odor_type": "floral",
+          "sensory_rows": 41,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1030092.html"
+        },
+        {
+          "item_id": 18427,
+          "name": "hazelnut pyrazine",
+          "cas": "18138-04-0",
+          "odor_type": "musty",
+          "sensory_rows": 41,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1018961.html"
+        },
+        {
+          "item_id": 19292,
+          "name": "(E)-2-hexen-1-yl butyrate",
+          "cas": "53398-83-7",
+          "odor_type": "green",
+          "sensory_rows": 39,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1026691.html"
+        },
+        {
+          "item_id": 19291,
+          "name": "(Z)-3-hexen-1-yl benzoate",
+          "cas": "25152-85-6",
+          "odor_type": "green",
+          "sensory_rows": 39,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001382.html"
+        }
+      ]
+    },
+    {
+      "id": "missing_cas",
+      "title": "Completed · missing CAS",
+      "description": "Completed pages with no CAS assertion.",
+      "sql": "SELECT\n          i.item_id,\n          COALESCE(i.detail_name, l.name) AS name,\n          i.odor_type,\n          i.detail_scraped_at,\n          i.detail_url\n        FROM tgsc_item AS i\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE i.detail_status = 'complete'\n          AND NOT EXISTS (\n            SELECT 1 FROM identifier_assertion AS ia\n            WHERE ia.item_id = i.item_id AND ia.scheme = 'CAS'\n          )\n          AND (l.cas IS NULL OR l.cas = '')\n        GROUP BY i.item_id\n        ORDER BY i.detail_scraped_at DESC\n        LIMIT 40",
+      "rows": [
+        {
+          "item_id": 25809,
+          "name": "3-methyl-4-pentyl oxybutyraldehyde",
+          "odor_type": "dusty",
+          "detail_scraped_at": "2026-09-08T21:44:27.270117+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1071301.html"
+        },
+        {
+          "item_id": 25782,
+          "name": "methyl 2-pentenyl-3-oxo-cyclopentylacetate",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:42:08.912577+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1078071.html"
+        },
+        {
+          "item_id": 25740,
+          "name": "3-methyl-3-(penten-1-cyclohexanone",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:38:10.341731+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1078031.html"
+        },
+        {
+          "item_id": 25690,
+          "name": "(4E,9Z)-13-methyloxacyclopentadeca-4,9-dien-2-one",
+          "odor_type": "aromatic",
+          "detail_scraped_at": "2026-09-08T21:33:08.106268+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1696881.html"
+        },
+        {
+          "item_id": 25682,
+          "name": "3-methyl-4-octyl oxybutyraldehyde",
+          "odor_type": "aldehydic",
+          "detail_scraped_at": "2026-09-08T21:32:29.802359+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1071381.html"
+        },
+        {
+          "item_id": 25678,
+          "name": "methyl octine carbonate replacer",
+          "odor_type": "green",
+          "detail_scraped_at": "2026-09-08T21:31:49.557640+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007071.html"
+        },
+        {
+          "item_id": 25635,
+          "name": "6-methyl octahydro-4,7-methanoindene-5-carbaldehyde",
+          "odor_type": "aldehydic",
+          "detail_scraped_at": "2026-09-08T21:27:30.156211+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1023821.html"
+        },
+        {
+          "item_id": 25631,
+          "name": "5-methyl-3,5-octadien-2-one",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:27:09.156181+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1079031.html"
+        },
+        {
+          "item_id": 25563,
+          "name": "N-methyl (E,Z)-2,6-nonadienamide",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:20:03.451513+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1066311.html"
+        },
+        {
+          "item_id": 25525,
+          "name": "2-methyl-5-(.alpha.(-methyl-.alpha.(-hydroxyethyl)-cyclohex-2-en-1-one",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:16:06.541470+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1072521.html"
+        },
+        {
+          "item_id": 25503,
+          "name": "4-methyl-2-[2-(methyl thio)ethyl]-1,3-oxathiane",
+          "odor_type": "garlic",
+          "detail_scraped_at": "2026-09-08T21:13:13.102580+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1029601.html"
+        },
+        {
+          "item_id": 25489,
+          "name": "4-methyl-2-(1-methyl propyl)-1,3-oxathiane",
+          "odor_type": "citrus",
+          "detail_scraped_at": "2026-09-08T21:12:02.688607+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1029891.html"
+        },
+        {
+          "item_id": 25484,
+          "name": "2-methyl-3-(2-methyl-5-isopropenyl-cyclopent-1-en-1-yl)-propanal",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:10:58.899596+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1072531.html"
+        },
+        {
+          "item_id": 25468,
+          "name": "3-methyl-4-(1-methyl hexyl oxy) butyraldehyde",
+          "odor_type": "aldehydic",
+          "detail_scraped_at": "2026-09-08T21:09:11.286490+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1071361.html"
+        },
+        {
+          "item_id": 25445,
+          "name": "3-methyl-4-(2-methyl butyl oxy) butyraldehyde",
+          "odor_type": "citrus",
+          "detail_scraped_at": "2026-09-08T21:06:54.749913+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1071281.html"
+        },
+        {
+          "item_id": 25430,
+          "name": "O-methyl S-1-methoxyhexan-3-yl carbonothioate",
+          "odor_type": "sulfurous",
+          "detail_scraped_at": "2026-09-08T21:05:43.684460+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1116871.html"
+        },
+        {
+          "item_id": 25424,
+          "name": "3-methyl-4-(3-methly-3-methoxybutyl oxy) butyraldehyde",
+          "odor_type": "aldehydic",
+          "detail_scraped_at": "2026-09-08T21:05:15.545619+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1071401.html"
+        },
+        {
+          "item_id": 25400,
+          "name": "methyl laurate/myristate",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T21:02:30.419005+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1753431.html"
+        },
+        {
+          "item_id": 25394,
+          "name": "methyl ketones",
+          "odor_type": "creamy",
+          "detail_scraped_at": "2026-09-08T21:01:18.506137+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1598051.html"
+        },
+        {
+          "item_id": 25305,
+          "name": "4-(4-methyl-4-hydroxyamyl)-delta3-cyclohexenecarboxaldehyde",
+          "odor_type": "floral",
+          "detail_scraped_at": "2026-09-08T20:51:16.066886+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1697741.html"
+        },
+        {
+          "item_id": 25302,
+          "name": "2-methyl-4-hydroxy-5,7-dihydrofuro-[3,4-d]-pyrimidine",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:51:00.628743+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1075511.html"
+        },
+        {
+          "item_id": 25293,
+          "name": "2-methyl-3-hexyl-pyrazine",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:50:15.116565+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1072821.html"
+        },
+        {
+          "item_id": 25292,
+          "name": "3-methyl-4-hexyl oxybutyraldehyde",
+          "odor_type": "aldehydic",
+          "detail_scraped_at": "2026-09-08T20:50:09.842422+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1071321.html"
+        },
+        {
+          "item_id": 25290,
+          "name": "2-methyl-5-hexen-1-yl 2-butenoate",
+          "odor_type": "fruity",
+          "detail_scraped_at": "2026-09-08T20:50:01.102050+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1016061.html"
+        },
+        {
+          "item_id": 25269,
+          "name": "3-methyl-3-(hexen-1-yl)-1-cyclohexanone",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:46:52.765984+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1078061.html"
+        },
+        {
+          "item_id": 25234,
+          "name": "methyl hexanesulfinate",
+          "odor_type": "sulfurous",
+          "detail_scraped_at": "2026-09-08T20:44:01.552550+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1075961.html"
+        },
+        {
+          "item_id": 25198,
+          "name": "3-methyl-4-heptyl oxybutyraldehyde",
+          "odor_type": "aldehydic",
+          "detail_scraped_at": "2026-09-08T20:41:06.527604+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1071341.html"
+        },
+        {
+          "item_id": 25130,
+          "name": "5-methyl-heptan-2,3-dione",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:34:44.216749+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1072771.html"
+        },
+        {
+          "item_id": 25093,
+          "name": "1-(5-methylfuryl)-3-pentanone",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:31:40.873782+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1095111.html"
+        },
+        {
+          "item_id": 25053,
+          "name": "1-(5-methyl-fur-2-yl)-1(5-methyl-5-vinyl-tetrahydrofur-2-yl)-ethane",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:27:51.866398+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1072481.html"
+        },
+        {
+          "item_id": 25005,
+          "name": "methyl (Z)-4-dodecenoate",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:23:31.559993+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1073961.html"
+        },
+        {
+          "item_id": 24938,
+          "name": "2-methyl-5,7-dihydro-[3,4-d]-pyrimidine",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:17:54.467660+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1075541.html"
+        },
+        {
+          "item_id": 24937,
+          "name": "5-methyl-2,2'-difuryl-methane",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:17:49.840509+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1073541.html"
+        },
+        {
+          "item_id": 24925,
+          "name": "methyl-5-oxo-3-decenoate",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:16:47.078610+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1075761.html"
+        },
+        {
+          "item_id": 24861,
+          "name": "1-(2-methyl cyclohexyl)-5-oxopyrrolidine-3-carboxylic acid methyl ester",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:10:48.601203+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1030841.html"
+        },
+        {
+          "item_id": 24828,
+          "name": "4-methyl cyclohexane propanal",
+          "odor_type": "floral",
+          "detail_scraped_at": "2026-09-08T20:07:23.159237+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1063601.html"
+        },
+        {
+          "item_id": 24814,
+          "name": "7-methyl coumarin replacer",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:06:13.501247+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1032371.html"
+        },
+        {
+          "item_id": 24813,
+          "name": "6-methyl coumarin replacer",
+          "odor_type": "balsamic",
+          "detail_scraped_at": "2026-09-08T20:06:07.550101+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1032361.html"
+        },
+        {
+          "item_id": 24778,
+          "name": "2-methyl-4-chloro-5,7-dihydrofuro-[3,4-d]-pyrimidine",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:03:10.323902+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1075531.html"
+        },
+        {
+          "item_id": 24767,
+          "name": "methyl capryloyl tyrosinate",
+          "odor_type": null,
+          "detail_scraped_at": "2026-09-08T20:02:12.391683+00:00",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1753251.html"
+        }
+      ]
+    },
+    {
+      "id": "duplicate_cas",
+      "title": "Duplicate CAS assertions",
+      "description": "CAS values on more than one item.",
+      "sql": "SELECT\n          ia.normalized_value AS cas,\n          COUNT(DISTINCT ia.item_id) AS item_count,\n          GROUP_CONCAT(DISTINCT COALESCE(i.detail_name, l.name)) AS names\n        FROM identifier_assertion AS ia\n        JOIN tgsc_item AS i ON i.item_id = ia.item_id\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE ia.scheme = 'CAS'\n        GROUP BY ia.normalized_value\n        HAVING COUNT(DISTINCT ia.item_id) > 1\n        ORDER BY item_count DESC, cas\n        LIMIT 40",
+      "rows": [
+        {
+          "cas": "102381-15-7",
+          "item_count": 34,
+          "names": "ceteareth-2,ceteareth-3,ceteareth-4,ceteareth-5,ceteareth-6,ceteareth-7,ceteareth-8,ceteareth-9,ceteareth-10,ceteareth-11,ceteareth-12,ceteareth-13,ceteareth-14,ceteareth-15,ceteareth-16,ceteareth-17,ceteareth-18,ceteareth-20,ceteareth-22,ceteareth-23,ceteareth-24,ceteareth-25,ceteareth-27,ceteareth-28,ceteareth-29,ceteareth-30,ceteareth-33,ceteareth-34,ceteareth-40,ceteareth-50,ceteareth-55,ceteareth-60,ceteareth-80,ceteareth-100"
+        },
+        {
+          "cas": "68439-49-6",
+          "item_count": 34,
+          "names": "ceteareth-2,ceteareth-3,ceteareth-4,ceteareth-5,ceteareth-6,ceteareth-7,ceteareth-8,ceteareth-9,ceteareth-10,ceteareth-11,ceteareth-12,ceteareth-13,ceteareth-14,ceteareth-15,ceteareth-16,ceteareth-17,ceteareth-18,ceteareth-20,ceteareth-22,ceteareth-23,ceteareth-24,ceteareth-25,ceteareth-27,ceteareth-28,ceteareth-29,ceteareth-30,ceteareth-33,ceteareth-34,ceteareth-40,ceteareth-50,ceteareth-55,ceteareth-60,ceteareth-80,ceteareth-100"
+        },
+        {
+          "cas": "25322-68-3",
+          "item_count": 33,
+          "names": "peg-2m,peg-4,peg-5m,peg-6,peg-7,peg-7m,peg-8,peg-9,peg-9m,peg-10,peg-12,peg-16,peg-18,peg-20,peg-32,peg-33,peg-40,peg-45,peg-45m,peg-55,peg-60,peg-65m,peg-75,peg-80,peg-90,peg-90m,peg-100,peg-1450,peg-300,peg-3350,peg-600,peg-8000,polyethylene glycol"
+        },
+        {
+          "cas": "84650-60-2",
+          "item_count": 30,
+          "names": "white camellia sinensis bud extract,camellia sinensis callus culture extract,camellia sinensis catechins,camellia sinensis flower extract,camellia sinensis flower/leaf/stem juice,camellia sinensis leaf,camellia sinensis leaf cera,black camellia sinensis leaf CO2 extract,green camellia sinensis leaf CO2 extract,camellia sinensis leaf extract,black camellia sinensis leaf extract,green camellia sinensis leaf extract,white camellia sinensis leaf extract,black camellia sinensis leaf infusion,green camellia sinensis leaf infusion,camellia sinensis leaf powder,black camellia sinensis leaf powder,green camellia sinensis leaf powder,oolong camellia sinensis leaf powder,white camellia sinensis leaf powder,green camellia sinensis leaf tincture,camellia sinensis leaf water,camellia sinensis root extract,camellia sinensis seed coat powder,camellia sinensis seed extract,camellia sinensis sprout extract,tea leaf absolute,blacktea leaf absolute,greentea leaf absolute,blacktea leaf distillates"
+        },
+        {
+          "cas": "8001-25-0",
+          "item_count": 26,
+          "names": "olea europaea bark extract,olea europaea branch extract,olea europaea bud extract,olea europaea flower extract,olea europaea flower water,olea europaea fruit,olea europaea fruit extract,olea europaea fruit juice,olea europaea fruit unsaponifiables,olea europaea fruit water,olea europaea husk oil,olea europaea husk powder,olea europaea leaf,olea europaea leaf cell extract,olea europaea leaf extract,olea europaea leaf oil,olea europaea leaf powder,olea europaea leaf tincture,olea europaea oil unsaponifiables,olea europaea pulp extract,olea europaea seed,olea europaea seed powder,olive leaf absolute,hydrolyzedolive leaf extract,olive oil,olive oil absolute"
+        },
+        {
+          "cas": "111637-23-1",
+          "item_count": 24,
+          "names": "ceteth-1,ceteth-2,ceteth-3,ceteth-4,ceteth-5,ceteth-6,ceteth-7,ceteth-8,ceteth-10,ceteth-12,ceteth-13,ceteth-14,ceteth-15,ceteth-16,ceteth-17,ceteth-18,ceteth-20,ceteth-23,ceteth-24,ceteth-25,ceteth-30,ceteth-40,ceteth-45,ceteth-150"
+        },
+        {
+          "cas": "9004-95-9",
+          "item_count": 24,
+          "names": "ceteth-1,ceteth-2,ceteth-3,ceteth-4,ceteth-5,ceteth-6,ceteth-7,ceteth-8,ceteth-10,ceteth-12,ceteth-13,ceteth-14,ceteth-15,ceteth-16,ceteth-17,ceteth-18,ceteth-20,ceteth-23,ceteth-24,ceteth-25,ceteth-30,ceteth-40,ceteth-45,ceteth-150"
+        },
+        {
+          "cas": "9038-95-3",
+          "item_count": 24,
+          "names": "ppg-2-buteth-2,ppg-2-buteth-3,ppg-2-buteth-1,ppg-3-buteth-5,ppg-4-buteth-4,ppg-5-buteth-5,ppg-5-buteth-7,ppg-7-buteth-10,ppg-7-buteth-4,ppg-9-buteth-12,ppg-10-buteth-9,ppg-12-buteth-12,ppg-12-buteth-16,ppg-15-buteth-20,ppg-17-buteth-17,ppg-19-buteth-19,ppg-20-buteth-30,ppg-24-buteth-27,ppg-26-buteth-26,ppg-28-buteth-35,ppg-30-buteth-30,ppg-33-buteth-45,ppg-36-buteth-36,ppg-38-buteth-37"
+        },
+        {
+          "cas": "85085-51-4",
+          "item_count": 23,
+          "names": "nelumbo nucifera callus culture extract,nelumbo nucifera flower cera,nelumbo nucifera flower extract,nelumbo nucifera flower powder,nelumbo nucifera flower water,nelumbo nucifera flower/leaf/stem juice,nelumbo nucifera germ,nelumbo nucifera germ extract,nelumbo nucifera germ/sprout extract,nelumbo nucifera leaf,nelumbo nucifera leaf cell culture powder,nelumbo nucifera leaf cell extract,nelumbo nucifera leaf extract,nelumbo nucifera phytoplacenta culture extract,nelumbo nucifera phytoplacenta extract,nelumbo nucifera root,nelumbo nucifera root extract,nelumbo nucifera root powder,nelumbo nucifera root water,nelumbo nucifera seed extract,nelumbo nucifera seed powder,nelumbo nucifera stamen extract,nelumbo nucifera stem extract"
+        },
+        {
+          "cas": "68553-81-1",
+          "item_count": 22,
+          "names": "oryza sativa bran,oryza sativa bran extract,oryza sativa bran fiber,oryza sativa bran oil extract,oryza sativa bran sterol,oryza sativa bran water,oryza sativa extract,oryza sativa germ extract,oryza sativa germ oil,oryza sativa germ powder,oryza sativa hull extract,oryza sativa hull powder,oryza sativa kernel,oryza sativa leaf extract,oryza sativa leaf/stem extract,oryza sativa lees extract,oryza sativa lees water,oryza sativa powder,oryza sativa seed oil,oryza sativa seed water,rice bran absolute,rice bran oil"
+        },
+        {
+          "cas": "84012-26-0",
+          "item_count": 22,
+          "names": "avena sativa bran extract,avena sativa flower/leaf/stem juice,avena sativa grain tincture,avena sativa kernel extract,avena sativa leaf extract,avena sativa leaf/stalk extract,avena sativa leaf/stem extract,avena sativa meal extract,avena sativa meristem cell extract,avena sativa peptide,avena sativa protein extract,avena sativa seed,avena sativa seed water,avena sativa straw,avena sativa straw extract,avena sativa straw tincture,steel cutoat,oat bran,oat flake,oat oil (fixed),oatmeal,rolledoatmeal"
+        },
+        {
+          "cas": "9004-99-3",
+          "item_count": 22,
+          "names": "peg-3 stearate,peg-4 stearate,peg-5 stearate,peg-6 stearate,peg-7 stearate,peg-8 stearate,peg-9 stearate,peg-10 stearate,peg-15 stearate,peg-18 stearate,peg-30 stearate,peg-32 stearate,peg-35 stearate,peg-36 stearate,peg-40 stearate,peg-45 stearate,peg-50 stearate,peg-55 stearate,peg-75 stearate,peg-80 stearate,peg-90 stearate,peg-100 stearate"
+        },
+        {
+          "cas": "50647-08-0",
+          "item_count": 21,
+          "names": "panax ginseng berry extract,panax ginseng bud extract,panax ginseng callus culture extract,panax ginseng callus extract,panax ginseng cambium cell culture,panax ginseng cambium cell culture extract,panax ginseng cambium cell extract,panax ginseng cell culture extract,panax ginseng flower extract,panax ginseng leaf cell extract,panax ginseng leaf/stem extract,panax ginseng meristem cell extract,panax ginseng root,panax ginseng root extract,panax ginseng root powder,panax ginseng root tincture,panax ginseng root water,panax ginseng seed extract,panax ginseng seed oil,panax ginseng seed powder,panax ginseng sprout extract"
+        },
+        {
+          "cas": "61791-12-6",
+          "item_count": 21,
+          "names": "peg-3 castor oil,peg-4 castor oil,peg-5 castor oil,peg-8 castor oil,peg-9 castor oil,peg-10 castor oil,peg-11 castor oil,peg-16 castor oil,peg-20 castor oil,peg-33 castor oil,peg-35 castor oil,peg-36 castor oil,peg-40 castor oil,peg-44 castor oil,peg-50 castor oil,peg-54 castor oil,peg-55 castor oil,peg-60 castor oil,peg-75 castor oil,peg-80 castor oil,peg-100 castor oil"
+        },
+        {
+          "cas": "84961-57-9",
+          "item_count": 21,
+          "names": "pomegranate fruit essence,punica granatum bark extract,punica granatum bark/fruit extract,punica granatum callus culture extract,punica granatum extract,punica granatum flower extract,punica granatum fruit,punica granatum fruit extract,punica granatum fruit juice,punica granatum fruit water,punica granatum fruit/root/stem powder,punica granatum juice extract,punica granatum leaf cell extract,punica granatum peel,punica granatum peel extract,punica granatum pericarp extract,punica granatum seed,punica granatum seed extract,punica granatum seed oil,punica granatum seed oil CO2 extract,punica granatum seed powder"
+        },
+        {
+          "cas": "8008-57-9",
+          "item_count": 20,
+          "names": "citrus sinensis peel extract,sweetorange peel oil,sweetorange peel oil c.p. brazil,sweetorange peel oil c.p. california,sweetorange peel oil c.p. china,sweetorange peel oil c.p. egypt,sweetorange peel oil c.p. florida,sweetorange peel oil c.p. french guinea,sweetorange peel oil c.p. italy,sweetorange peel oil c.p. spain,sweetorange peel oil c.p. valencia,sweetorange peel oil c.p. west indian,sweetorange peel oil decolorized,sweetorange peel oil folded,sweetorange peel oil folded brazil,sweetorange peel oil folded california,sweetorange peel oil folded florida,sweetorange peel oil folded israel,sweetorange peel oil folded valencia,sweetpetitgrain oil"
+        },
+        {
+          "cas": "8016-20-4",
+          "item_count": 20,
+          "names": "citrus grandis peel oil,citrus grandis seed oil,citrus paradisi fruit extract,citrus paradisi fruit water,citrus paradisi peel oil bergaptene reduced,citrus paradisi peel oil washed,grapefruit essence oil,grapefruit isolate,grapefruit oil,grapefruit oil c.p. argentina,grapefruit oil c.p. california,grapefruit oil c.p. florida,grapefruit oil c.p. israel,grapefruit oil folded,grapefruit oil folded california,grapefruit oil folded florida,citrus grandis fruit extract,citrus grandis fruit water,citrus grandis juice,citrus grandis leaf extract"
+        },
+        {
+          "cas": "85251-63-4",
+          "item_count": 20,
+          "names": "malus sylvestris extract,malus sylvestris flower extract,pyrus malus bark extract,pyrus malus carpel powder,pyrus malus fiber,pyrus malus flower extract,pyrus malus fruit,pyrus malus fruit extract,pyrus malus fruit juice,pyrus malus fruit puree,pyrus malus fruit water,pyrus malus leaf extract,pyrus malus oil,pyrus malus pectin extract,pyrus malus peel extract,pyrus malus pulp extract,pyrus malus root bark powder,pyrus malus root extract,pyrus malus seed oil,pyrus malus stem extract"
+        },
+        {
+          "cas": "61788-85-0",
+          "item_count": 19,
+          "names": "peg-2 hydrogenated castor oil,peg-5 hydrogenated castor oil,peg-6 hydrogenated castor oil,peg-7 hydrogenated castor oil,peg-8 hydrogenated castor oil,peg-10 hydrogenated castor oil,peg-16 hydrogenated castor oil,peg-20 hydrogenated castor oil,peg-30 hydrogenated castor oil,peg-35 hydrogenated castor oil,peg-40 hydrogenated castor oil,peg-45 hydrogenated castor oil,peg-50 hydrogenated castor oil,peg-54 hydrogenated castor oil,peg-55 hydrogenated castor oil,peg-60 hydrogenated castor oil,peg-65 hydrogenated castor oil,peg-80 hydrogenated castor oil,peg-100 hydrogenated castor oil"
+        },
+        {
+          "cas": "9003-13-8",
+          "item_count": 19,
+          "names": "ppg-2 butyl ether,ppg-4 butyl ether,ppg-5 butyl ether,ppg-9 butyl ether,ppg-12 butyl ether,ppg-14 butyl ether,ppg-15 butyl ether,ppg-16 butyl ether,ppg-17 butyl ether,ppg-18 butyl ether,ppg-20 butyl ether,ppg-22 butyl ether,ppg-24 butyl ether,ppg-26 butyl ether,ppg-30 butyl ether,ppg-33 butyl ether,ppg-40 butyl ether,ppg-52 butyl ether,ppg-53 butyl ether"
+        },
+        {
+          "cas": "90320-37-9",
+          "item_count": 19,
+          "names": "sweet almond,prunus amygalus dulcis seed extract,prunus amygdalus amara kernel extract,prunus amygdalus dulcis bark extract,prunus amygdalus dulcis bark powder,prunus amygdalus dulcis bud extract,prunus amygdalus dulcis flower extract,prunus amygdalus dulcis fruit extract,prunus amygdalus dulcis fruit water,prunus amygdalus dulcis leaf cell extract,prunus amygdalus dulcis oil unsaponifiables,prunus amygdalus dulcis oleosomes,prunus amygdalus dulcis protein,prunus amygdalus dulcis seed extract,prunus amygdalus dulcis seed meal,prunus amygdalus dulcis seedcoat extract,prunus amygdalus dulcis seedcoat powder,prunus amygdalus dulcis shell powder,prunus amygdalus sativa kernel oil"
+        },
+        {
+          "cas": "84929-31-7",
+          "item_count": 18,
+          "names": "citrus limon leaf extract,citrus limon peel extract,citrus limon extract,citrus limon peel cera,citrus limon peel tincture,citrus limon flower/leaf/stem extract,citrus limon flower/leaf/stem oil,citrus limon fruit extract,citrus limon fruit oil,citrus limon fruit powder,citrus limon fruit water,citrus limon juice extract,citrus limon juice powder,citrus limon leaf cell extract,citrus limon leaf/peel/stem oil,citrus limon peel powder,citrus limon peel water,lemon seed oil"
+        },
+        {
+          "cas": "9087-53-0",
+          "item_count": 18,
+          "names": "ppg-1-ceteth-1,ppg-1-ceteth-5,ppg-1-ceteth-10,ppg-1-ceteth-20,ppg-2-ceteth-1,ppg-2-ceteth-5,ppg-2-ceteth-10,ppg-2-ceteth-20,ppg-4-ceteth-1,ppg-4-ceteth-5,ppg-4-ceteth-10,ppg-4-ceteth-20,ppg-5-ceteth-20,ppg-8-ceteth-1,ppg-8-ceteth-2,ppg-8-ceteth-5,ppg-8-ceteth-10,ppg-8-ceteth-20"
+        },
+        {
+          "cas": "8006-90-4",
+          "item_count": 17,
+          "names": "peppermint oil,peppermint oil america,peppermint oil brazil,peppermint oil china,peppermint oil dementholized,peppermint oil england,peppermint oil france,peppermint oil hungary,peppermint oil idaho,peppermint oil india,peppermint oil mongolia,peppermint oil montana,peppermint oil morocco,peppermint oil russia,peppermint oil tasmania,peppermint oil willamette,peppermint oil yakima"
+        },
+        {
+          "cas": "8008-56-8",
+          "item_count": 17,
+          "names": "citrus limon peel oil c.p. florida,citrus limon peel oil expressed,lemon oil,citral-less lemon oil,lemon oil c.p. africa,lemon oil c.p. argentina,lemon oil c.p. brazil,lemon oil c.p. california,lemon oil decolorized,lemon oil distilled,lemon oil folded,lemon oil folded argentina 10.0% to 16.0% citral,lemon oil folded brazil,lemon oil folded california,lemon oil folded italy,lemon oil italy,lemon oil washed"
+        },
+        {
+          "cas": "84012-34-0",
+          "item_count": 17,
+          "names": "prunus persica leaf extract,prunus persica bud extract,prunus persica callus culture extract,prunus persica flower extract,prunus persica flower powder,prunus persica fruit,prunus persica fruit callus culture extract,prunus persica fruit extract,prunus persica fruit juice,prunus persica fruit puree,prunus persica fruit water,prunus persica gum,prunus persica kernel extract,prunus persica leaf absolute,prunus persica nectarina fruit extract,prunus persica seed powder,prunus persica wood extract"
+        },
+        {
+          "cas": "84775-50-8",
+          "item_count": 17,
+          "names": "cilantro herb oil egypt,cilantro leaf oleoresin,coriander seed concrete,coriander seed infusion,coriander seed oil CO2 extract,coriander seed oil cuba,coriandrum sativum callus extract,coriandrum sativum extract,coriandrum sativum fruit extract,hydrolyzed coriandrum sativum fruit extract,coriandrum sativum fruit/leaf extract,coriandrum sativum leaf extract,coriandrum sativum seed extract,coriandrum sativum seed oil (fixed),coriandrum sativum seed water,coriandrum sativum sprout extract,coriandrum sativum tincture"
+        },
+        {
+          "cas": "84929-76-0",
+          "item_count": 17,
+          "names": "raspberry leaf absolute,raspberry seed oil,rubus idaeus bud extract,rubus idaeus fruit,rubus idaeus fruit extract,rubus idaeus fruit juice,rubus idaeus fruit tincture,rubus idaeus fruit water,rubus idaeus leaf cell culture,rubus idaeus leaf cera,rubus idaeus leaf extract,rubus idaeus leaf powder,rubus idaeus leaf tincture,rubus idaeus seed,rubus idaeus seed extract,rubus idaeus seed powder,rubus idaeus wood"
+        },
+        {
+          "cas": "9002-93-1",
+          "item_count": 17,
+          "names": "octoxynol-3,octoxynol-5,octoxynol-6,octoxynol-7,octoxynol-8,octoxynol-9,octoxynol-10,octoxynol-11,octoxynol-12,octoxynol-13,octoxynol-16,octoxynol-20,octoxynol-25,octoxynol-30,octoxynol-33,octoxynol-40,octoxynol-70"
+        },
+        {
+          "cas": "92346-89-9",
+          "item_count": 17,
+          "names": "citrus limon flower/leaf/stem extract,citrus limon flower/leaf/stem oil,citrus limon fruit extract,citrus limon fruit oil,citrus limon fruit powder,citrus limon fruit puree,citrus limon fruit water,citrus limon juice extract,citrus limon juice powder,citrus limon leaf cell extract,citrus limon leaf/peel/stem oil,citrus limon peel powder,citrus limon peel water,lemon seed oil,citrus limon peel extract,citrus limon extract,citrus limon peel cera"
+        },
+        {
+          "cas": "101008-55-3",
+          "item_count": 16,
+          "names": "laureth-9,laureth-10,laureth-11,laureth-12,laureth-13,laureth-14,laureth-15,laureth-16,laureth-20,laureth-21,laureth-23,laureth-25,laureth-30,laureth-38,laureth-40,laureth-50"
+        },
+        {
+          "cas": "25322-69-4",
+          "item_count": 16,
+          "names": "polypropylene glycol,ppg-3,ppg-7,ppg-9,ppg-12,ppg-13,ppg-15,ppg-16,ppg-17,ppg-20,ppg-26,ppg-30,ppg-33,ppg-34,ppg-51,ppg-69"
+        },
+        {
+          "cas": "72968-50-4",
+          "item_count": 16,
+          "names": "citrus aurantium amara flower extract,citrus aurantium amara fruit extract,citrus aurantium amara fruit juice extract,citrus aurantium amara leaf/twig extract,citrus aurantium amara peel,citrus aurantium amara peel extract,citrus aurantium amara peel tincture,citrus aurantium flower extract,citrus aurantium flower water,citrus aurantium fruit extract,citrus aurantium leaf extract,citrus aurantium peel oil expressed,neroli absolute,neroli extract,citrus aurantium amara flower oil,citrus aurantium amara peel powder"
+        },
+        {
+          "cas": "8008-26-2",
+          "item_count": 16,
+          "names": "citrus aurantifolia swingle seed oil unsaponifiables,lime concentrate,lime oil,lime oil CO2 extract mexico,lime oil distilled,lime oil distilled africa,lime oil distilled folded,lime oil distilled haiti,lime oil distilled mexico,lime oil distilled peru,lime oil distilled west indian,lime oil expressed,persian lime oil expressed,lime oil expressed florida,lime oil expressed furanocoumarin reduced,lime oil expressed mexico"
+        },
+        {
+          "cas": "84650-00-0",
+          "item_count": 16,
+          "names": "coffea arabica fruit extract,coffea arabica fruit tincture,coffea arabica leaf cell extract,coffea arabica leaf/seed extract,coffea arabica seed extract,roasted coffea arabica seed extract,coffea arabica seed oil,coffea arabica seedcake extract,roasted arabica coffee bean,arabica coffee bean,arabica coffee bean butter,roasted arabica coffee bean essence,roasted arabica coffee bean infusion,roasted arabica coffee bean oil,roasted arabica coffee bean oil CO2 extract,arabica coffee bean powder"
+        },
+        {
+          "cas": "84696-47-9",
+          "item_count": 16,
+          "names": "rosa canina bud extract,rosa canina flower,rosa canina flower extract,rosa canina flower oil,rosa canina flower powder,rosa canina fruit,rosa canina fruit extract,rosa canina fruit juice,rosa canina fruit oil,rosa canina fruit oil CO2 extract,rosa canina fruit shell,rosa canina fruit shell tincture,rosa canina leaf extract,rosa canina seed,rosa canina seed extract,rosa canina seed powder"
+        },
+        {
+          "cas": "84929-27-1",
+          "item_count": 16,
+          "names": "redvitis vinifera bud extract,redvitis vinifera flower extract,redvitis vinifera fruit cell extract,redvitis vinifera fruit extract,whitevitis vinifera fruit extract,redvitis vinifera fruit juice,redvitis vinifera fruit powder,vitis vinifera fruit puree,redvitis vinifera fruit water,redvitis vinifera juice extract,vitis vinifera leaf,vitis vinifera leaf cera,vitis vinifera leaf extract,vitis vinifera skin powder,vitis vinifera vine extract,vitis vinifera vine sap"
+        },
+        {
+          "cas": "9002-92-0",
+          "item_count": 16,
+          "names": "laureth-11,laureth-13,laureth-14,laureth-15,laureth-16,laureth-20,laureth-21,laureth-23,laureth-25,laureth-30,laureth-38,laureth-40,laureth-50,laureth-9,laureth-10,laureth-12"
+        },
+        {
+          "cas": "9004-96-0",
+          "item_count": 16,
+          "names": "peg-2 oleate SE,peg-3 oleate,peg-4 oleate,peg-6 oleate,peg-7 oleate,peg-8 oleate,peg-9 oleate,peg-10 oleate,peg-11 oleate,peg-12 oleate,peg-16 oleate,peg-32 oleate,peg-36 oleate,peg-75 oleate,peg-1000 oleate,peg-200 oleate"
+        },
+        {
+          "cas": "90131-63-8",
+          "item_count": 16,
+          "names": "solanum lycocarpum meristem cell culture conditioned media,solanum lycopersicum callus culture extract,solanum lycopersicum fruit,solanum lycopersicum fruit extract,solanum lycopersicum fruit juice,solanum lycopersicum fruit lipids,solanum lycopersicum fruit pulp powder,solanum lycopersicum fruit puree,solanum lycopersicum fruit water,solanum lycopersicum fruit/leaf/stem extract,solanum lycopersicum leaf absolute,solanum lycopersicum leaf cell extract,solanum lycopersicum leaf cera,solanum lycopersicum leaf concrete,solanum lycopersicum meristem cell,solanum lycopersicum seed oil"
+        }
+      ]
+    },
+    {
+      "id": "failed_details",
+      "title": "Failed detail pages",
+      "description": "Detail pages that returned an error.",
+      "sql": "SELECT\n          i.item_id,\n          COALESCE(i.detail_name, l.name) AS name,\n          COALESCE(l.cas, '') AS cas,\n          i.detail_error,\n          i.detail_url\n        FROM tgsc_item AS i\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE i.detail_status = 'failed'\n        GROUP BY i.item_id\n        ORDER BY i.item_id\n        LIMIT 40",
+      "rows": [
+        {
+          "item_id": 1830,
+          "name": "ammonium-15N chloride",
+          "cas": "39466-62-1",
+          "detail_error": "Failed to download https://www.thegoodscentscompany.com/data/rw1691170.html after 5 attempts: 404 Client Error: Not Found for url: https://www.thegoodscentscompany.com/data/rw1691170.html",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1691170.html"
+        },
+        {
+          "item_id": 2890,
+          "name": "artemisia arborescens",
+          "cas": "",
+          "detail_error": "Failed to download https://www.thegoodscentscompany.com/data/rs1674880.html after 5 attempts: 404 Client Error: Not Found for url: https://www.thegoodscentscompany.com/data/rs1674880.html",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rs1674880.html"
+        },
+        {
+          "item_id": 17594,
+          "name": "alpha-D-glucopyranoside, beta-D-fructofuranosyl, octadecanoate",
+          "cas": "37318-31-3",
+          "detail_error": "Failed to download https://www.thegoodscentscompany.com/data/rw1808030.html after 5 attempts: 404 Client Error: Not Found for url: https://www.thegoodscentscompany.com/data/rw1808030.html",
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1808030.html"
+        }
+      ]
+    },
+    {
+      "id": "long_odors",
+      "title": "Long odor descriptions",
+      "description": "Longest sensory descriptions (≥90 chars).",
+      "sql": "SELECT\n          i.item_id,\n          COALESCE(i.detail_name, l.name) AS name,\n          COALESCE(l.cas, '') AS cas,\n          i.odor_type,\n          s.description AS odor,\n          s.source_name AS source,\n          LENGTH(s.description) AS chars,\n          i.detail_url\n        FROM sensory_observation AS s\n        JOIN tgsc_item AS i ON i.item_id = s.item_id\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE LENGTH(s.description) >= 90\n        GROUP BY s.sensory_id\n        ORDER BY LENGTH(s.description) DESC\n        LIMIT 40",
+      "rows": [
+        {
+          "item_id": 21399,
+          "name": "labdanum absolute",
+          "cas": "8016-26-0",
+          "odor_type": "amber",
+          "odor": "leathery and amber notes that are more powerful than in the resinoid This shrub, native to the Mediterranean, exudes a very fragrant glutinous gum called labdanum. The plant produces this substance chiefly in the summer when the sun’s rays are at their peak during July and August. It allows the plant to protect itself from excessive water evaporation that would cause wilting, then death. Cistus perfumes our scrublands with a powerful, characteristic amber odor. The only plant to have amber notes similar to those of ambergris, it is also known as “vegetable ambergris,” which comes from Cistus labdaniferus var maculate, found mainly in southern Spain, in Andalusia. Our cistus fields are in the Almaden de la Plata nature reserve near Seville. The young leafy twigs, heavy with gum, are sickle-harvested, while the cistus plant itself is left intact to generate new growth the following year. The branches are grouped in small bundles before being transported to our production unit in the very midst of the cistus fields. The labdanum is collected through immersing the young branches in hot carbonated water for several minutes; the bundles are then removed from the tank, leaving the plant debris. Adding acid to neutralize this debris precipitates the gum. The so-called “raw” gum is then dewatered and dried to obtain a moisture content of less than 10%. The labdanum absolute is obtained through ethanol extraction of the labdanum resinoid, followed by glazing. The absolute, fully soluble in ethanol, has leathery and amber notes that are more powerful than in the resinoid.",
+          "source": "Albert Vieille SAS · Labdanum clear Absolute Spain",
+          "chars": 1587,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1012491.html"
+        },
+        {
+          "item_id": 1635,
+          "name": "alpha-ambrinol",
+          "cas": "41199-19-3",
+          "odor_type": "amber",
+          "odor": "Ambergris, natural, musky, animalic, tobacco IFF describe it like this: “Possesses the elegant tonalities of aged natural ambergris tincture. Tobacco, leathery nuances and the power of oceanic seaweed notes supported with a warm animalic, musky dry down“. Traces of Ambrinol 95 can be used in all perfume types to add naturalness, depth, complexity and texture; it can be particularly interesting in woody, oriental, Chypre and floral creations. A touch of Ambrinol 95 can transform a labdanum-based amber accord into a natural ambergris note. Writing in the 1960s Arctander had this to say about the potential of a material not yet part of the palette: “The title materials are briefly mentioned in this work because of their potential interest to the perfumer. They are natural components of Ambregris, and they are considered of major importance to the olfactory properties of natural Ambregris and Ambregris tincture. Although the materials have been synthesized, and also obtained as isolates from natural Ambregris, they are not yet commercially available under the name Ambrinol. Closely related chemicals are made syntheically at lower cost, but not of the same attractive olfactory eflect …When the title materials become commercially available at an attractive price, they will undoubtedly find their way into perfumery as part of Ambre bases, new perfume types, specialities etc.“ He was of course right and Ambrinols have been used in bases such as Ambergris Oliffac (an IFF product, recently discontinued) for many years.",
+          "source": "Pell Wall Perfumes · Ambrinol 95 (at 10% in ethanol)",
+          "chars": 1534,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1052421.html"
+        },
+        {
+          "item_id": 10517,
+          "name": "black currant bud absolute",
+          "cas": "97676-19-2",
+          "odor_type": "spicy",
+          "odor": "fruity and also has sulfurous and animalic notes, giving it a lasting, sparkling character Blackcurrant is a bushy perennial shrub that grows one to two meters high. Its botanical name is Ribes nigrum L. Native to the colder regions of the Northern Hemisphere, blackcurrant is now mainly grown in Poland and England, along with the Burgundy and Loire Valley regions of France. The large, bright-green leaves are divided into five lobes with finely serrated tips. The underside of each leaf is covered with odoriferous glands containing the potent, fruity fragrance characteristic of blackcurrant. In springtime, the plant becomes covered with small green flowers forming hanging clusters, which give way to juicy, black berries to be harvested in summer. Blackcurrant grows wild in cool regions, as the plant’s buds need cold enough temperatures to properly develop. The leaf buds are what are used to produce our 100% pure and natural French blackcurrant bud absolute. These very fragrant parts are harvested in January and February and processed into concrete by extraction with volatile solvents. The absolute is then obtained by ethanol extraction of the concrete. Just as with cognac or davana, it exudes a fruity fragrance and also has sulfurous and animalic notes, giving it a lasting, sparkling character.",
+          "source": "Albert Vieille SAS · Blackcurrant buds Absolute France",
+          "chars": 1313,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1017621.html"
+        },
+        {
+          "item_id": 25365,
+          "name": "alpha-isomethyl ionone (50% min.)",
+          "cas": "127-51-5",
+          "odor_type": "floral",
+          "odor": "floral-violet, fruity, powdery, woody, tea-like It is extremely versatile in character, and effects ranging from sweet floral to tobacco-like or woody are obtainable with various grades of subject material. The most refined grades, which are quite expensive, often show a very attractive creamy’ top-note and a most uniform, powdery-sweet dryout performance. This type of Methylionone can support floral notes in Ylang-Ylang as well as woody notes in Vetiver, or leathery notes in Salicylates, etc. Certain types of perfume contain up to 25% or more of this material. Many soap perfumes are based upon a large volume of common-grade Methylonone with the subject isomer as pre-dominant component.” Calkin & Jellinek talk about Methyl Ionone: “Methyl ionone is one of the most versatile materials used in perfumery. Although it occurs in a number of different isomeric forms … the qualities most widely used today are either the gamma (iso-alpha) form or a mixture of isomers in which this predominates. In odor it lies somewhere between floral, woody, and iris, working in a perfume as a bridge between the middle and base notes. It blends with almost every type of material, taking its place as a structural component in many of the great perfume families.”",
+          "source": "Pell Wall Perfumes · Methyl ionone iso super",
+          "chars": 1258,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1023012.html"
+        },
+        {
+          "item_id": 8699,
+          "name": "cistus twig/leaf absolute",
+          "cas": "8016-26-0",
+          "odor_type": "woody",
+          "odor": "characteristic This hardy perennial shrub has stalks sometimes reaching two meters in height. They bear perennial, elongated leaves of a deep green color. The solitary flowers begin appearing as early as April: large blossoms formed of five white petals, each marked with a dark purple spot at its base. These purple blotches have always been referred to as the “tears of Christ” in Andalusia. The entire plant, most particularly the leaves, produces a highly scented resinous exudate called labdanum. This gum protects the plant from the stress of the hot, dry summers in southern Spain. Harvesting takes place from July to August, when labdanum production is at its peak. The young leafy twigs are the parts that are hand-picked in our cistus fields in Almaden de la Plata near Seville, Spain. The cistus absolute is obtained after the cistus concrete, itself the result of a hexane extraction of the young branches, is washed with ethanol. This unique plant with amber accents expresses its olfactory character in different ways, depending on the process: cistus essential oil, cistus Tradition quality essential oil, labdanum absolute, labdanum resinoid, and even labdasur.",
+          "source": "Albert Vieille SAS · Cistus Absolute Spain",
+          "chars": 1177,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1041311.html"
+        },
+        {
+          "item_id": 9150,
+          "name": "civet absolute replacer",
+          "cas": "",
+          "odor_type": "animal",
+          "odor": "Animalic, faecal, musk, warm. Extremely powerful This is Arctander writing about the natural extract of Civet (please note the product offered here is a synthetic recreation and contains no animal extracts whatever): \"Civet ranks among the 20 most important perfume raw materials… The crude civet arrives in Europe and the U. S. A. in Zebu horns, containing about 500 to 1200 grams of the buttery yellowish paste which turns darker and more solid on age. The contents of one average Zebu horn represents the production from one civet cat in Four Years. During this period, the animal will consume something like the raw meat from 50 (fifty) sheep, and the poor cat, frequently teased in its narrow cage, will have undergone 400 to 800 painful “scrapings” of its glands. The raw meat, the narrow cage and the teasing are all means of increasing the production of the civet secretion which is scraped off with regular intervals while the cat is caged. It is no wonder that Civet is one of the most expensive perfume raw materials! But, thanks to the outstanding power of civet, its price does not prohibit its use by any means.\"",
+          "source": "Pell Wall Perfumes · Civet, synthetic: pure",
+          "chars": 1126,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1059381.html"
+        },
+        {
+          "item_id": 24946,
+          "name": "methyl dihydrojasmonate",
+          "cas": "24851-98-7",
+          "odor_type": "floral",
+          "odor": "Fresh, floral-jasmine, sweet, clean Arctander, writing very soon after it became available and before it’s full potential has been realised has this to say of it: “This ester, only recently brought into the market as a commercially available perfume chemical, is intended for use in artificial Jasmin absolute, Jasmin and Tuberose bases, and as a trace additive in powerfully floral fragrances. It serves as an economical substitute for Methyl jasmonate (see monograph), but does not have the overwhelming sweetness and diffusive power of that material.” By the time Arcadi Boix Camps is writing about it in 1978 it has already seen use in many successful fragrances. He says it is “the compound that without a doubt has most influenced modern perfumery and has allowed the great artists to develop their ideas with inspiration. It was used for the first time in Eau Sauvage and in Diorissimo, and it has become famous because it gives to compositions a delicate, fresh, smooth, radiant, warm, elegant character that blends well with all kinds of perfumes from floral-citrics to woody, chypre and oriental.”",
+          "source": "Pell Wall Perfumes · Hedione",
+          "chars": 1107,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1015272.html"
+        },
+        {
+          "item_id": 9791,
+          "name": "coranol (Firmenich)",
+          "cas": "83926-73-2",
+          "odor_type": "floral",
+          "odor": "Fresh-floral, rosewood, spicy-coriander Arcadi Boix Camps first mentions Coranol in 1985 and gives a more extensive description in his later writing. This is from 2006: Coranol is “One of the most important chemicals used today. Coranol has an extremely fresh, floral, somewhat vibrant rosy-metalic note that is really almost impossible to replace. It combines exceptionally well with Dihydromyrcenol … imparting to every fragrance its freshness, its strength and its diffusion. It blends exceptionally well with citrus, florals, woody, spicy and musky notes and harmonises with green-metalic products such as Stemone, Paradisamide, Labienoxime or Buccoxime.” He continues to say that it “is being used everywhere, and it is a real key’ for the top note of the olfactive forms achieved with it. Some few examples where Coranol has been used are Bulgari for Men (Musky, Habanolide, Muscenone Delta), L’Eau d’Eden (Ozonic), Dune for Men (Metalic green, woody, coumarin-like), Ô De Lancôme for Men (Fougere, mossy) and Issey Miyake for Men (metallic , woody, ambery, diffusive).”",
+          "source": "Pell Wall Perfumes · Coranol",
+          "chars": 1077,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1585801.html"
+        },
+        {
+          "item_id": 20102,
+          "name": "hydroxycitronellal",
+          "cas": "107-75-5",
+          "odor_type": "floral",
+          "odor": "Floral-muguet, fresh, green, sweet Arctander describes the odour as: “Sweet-floral, at first delicate and refreshingly mild, but often increasing in odor strength after short olfactory study. The floral notes are mild, light and resemble Lily of the Valley. The tenacity is good, and the odor diffusion increases significantly when the material is properly blended with lower boiling odorants or modifiers.” He goes on to suggest it is: “one of the most frequently used floralizing perfume materials. Originially introduced as a Muguet’ material, it finds its way into almost every type of floral fragrance, and a great many nonfloral ones. Its concentration in perfumes may vary from about 1% (which rarely gives effect unless supported by parallel materials) up to 30 or 40% in straight floral types. It is almost a must’ in Muguet (at certain price levels) and Peony, Lily, Sweet Pea, Narcisse, Lindenblossom, etc. and it had a monopoly on these types for more than 40 years during which period not one material appeared that could truly replace Hydroxycitronellal.”",
+          "source": "Pell Wall Perfumes · Hydroxycitronellal",
+          "chars": 1071,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1000972.html"
+        },
+        {
+          "item_id": 6422,
+          "name": "canarium luzonicum oil",
+          "cas": "8023-89-0",
+          "odor_type": "herbal",
+          "odor": "very fresh, spicy scent is reminiscent of pepper, fennel, and lemon Elemi is the gum resin secreted by the majestic Canarium luzonicum tree, a member of the same botanical family as frankincense and myrrh. This tree is found mainly in tropical forests in the Philippines, where it grows wild. It is also known as Manila elemi. The tree naturally exudes the gum when it is attacked by a parasite. Gum production is also triggered by Filipinos performing the “tapping” technique, during which they make an incision in the bark between January and June, when the leaves are budding. A white, malleable gum then flows from the incisions, turning brown upon contact with the air. It is at this time that the harvest takes place. A mature tree can produce up to five kilograms of elemi a year. The gum is then shipped to warehouses using large palm fronds, placed in large wooden crates for export to Europe. The essential oil is obtained through steam distillation of the cleaned gum. The substance’s very fresh, spicy scent is reminiscent of pepper, fennel, and lemon.",
+          "source": "Albert Vieille SAS · Elemi Essential oil Philippines",
+          "chars": 1064,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1025511.html"
+        },
+        {
+          "item_id": 1577,
+          "name": "amber butanol",
+          "cas": "139504-68-0",
+          "odor_type": "amber",
+          "odor": "Amber, woody, soft, sweet Description from Kao: “A very soft delicate woody amber note with a natural richness”, this is a very reasonably priced amber material that can be used alone or in support of the more expensive materials such as Ambrofix and Ambermax. Kao have this to say about its uses: “AMBER CORE excellently harmonizes with many materials. It blends well with a delicate composition such as Citrus and Muguet. It can be used in a big amount, recommended use level ; up to 50%, bringing to life a natural spirit in all fragrances” Such a natural spirit indeed that, despite being entirely synthetic in origin, it has been found in at least one “all natural” fragrance currently on the market! Arcadi Boix Camps, writes in 1999 that it “is beautiful, velvety and delicate, smelling similar to cedramber but with a different ambery nuance that is less costly. It is very effective in functional products because it is quite substantive. It is also very useful for boosting the fragrance of detergents. It forms part of the base called begur.”",
+          "source": "Pell Wall Perfumes · Amber Core",
+          "chars": 1053,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1100881.html"
+        },
+        {
+          "item_id": 16863,
+          "name": "galbanum oil",
+          "cas": "8023-91-4",
+          "odor_type": "green",
+          "odor": "characteristic green, woody An endemic plant in Iran, Ferula gummosa (or galbaniflua) is the only true source of “soft Galbanum.” Many other species of Ferula genus also produce gums, but of greatly varying qualities. This herbaceous plant of the high-desert regions reproduces only by seed. During germination, it develops a deep, filiform root and a stem with two small leaves, which dry in May. The plant will only produce vegetation again the following year. In the third year, an outgrowth forms on the root collar. This growth will be the source of the galbanum gum, from the third to the seventh year. Traditional gum gathering is done with a locally made, wrought-iron tool. In May-June, when the leaves are dry, the plant’s roots are exposed and the outgrowth is scored. A white to straw-yellow resin then leaks out, to slowly solidify upon exposure to the air. The gum is collected a few days later. Two to three new cuts are made successively on the previous gashes. The exudate yield progressively increases with the number of cuts.",
+          "source": "Albert Vieille SAS · Galbanum Essential oil Iran",
+          "chars": 1044,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1005331.html"
+        },
+        {
+          "item_id": 20986,
+          "name": "(Z)-jasmone",
+          "cas": "488-10-8",
+          "odor_type": "floral",
+          "odor": "Woody, floral-jasmine, herbal, spicy, celery Description from Givaudan: “Odor: Floral, Green, Jasmine, Warm Use: Jasmone Cis is widely used in the creation of high quality florals like jasmine and tuberose. Also used in the reconstitution of synthetic essential oils.” Arctander says it is: “Diffusive, warm-spicy, somewhat fruity, but in dilution more floral odor of good tenacity. Its beauty is truly demonstrated in dilutions below one percent, or in modest amounts in a perfume composition. The pure material has notes reminiscent of Celery seed, some find it ’bread-like’, others find it fruity’,’waxy’ etc. Evaluation of a powerful odorant should be undertaken by proper dilution of the material so that nuances can be studied without the inconveniences of odor fatigue.” adding that “it may find its way into numerous floral fragrance types and many non-floral ones… Traces, often mere fractions of one percent in a perfume oil may introduce just that wanted warmth and deep floral note almost unobtainable with other chemicals.”",
+          "source": "Pell Wall Perfumes · Jasmone-cis",
+          "chars": 1037,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1016891.html"
+        },
+        {
+          "item_id": 11157,
+          "name": "(E)-alpha-damascone",
+          "cas": "24720-09-0",
+          "odor_type": "fruity",
+          "odor": "Floral, rose, apple, fruity-plum, blackcurrant, mint. Diffusive Arcadi Boix Camps writes extensively about alpha-Damascone, from the first mention in 1978 when it was a little known captive material; here is an extract from 2009: “This is a very complex product. It smells floral, but less floral-rosy than beta-damascone. It is also fruity-plum, apple and green  with a camphoraceous nuance. I like to mix this ketone with muguet and cyclamen chemicals such as Lilial, nerolidyl acetate, dimethyl benzyl carbinyl acetate, crotonate, isobutyrate and butyrate, myroxide, benzyl salicylate, Indoflor (Symrise), Rosacetat, Jacinthaflor (Symrise), cyclamen aldehyde and myrac aldehyde among others.” He goes on to emphasise that, as with Hedione, the commercial quality of the product is paramount with alpha-Damascone because it is composed of more than one enantiomer, the balance of these, rather than the purity, is the key factor. It was with this in mind that we decided to stock the Firmenich product.",
+          "source": "Pell Wall Perfumes · Damascone Alpha",
+          "chars": 1005,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006041.html"
+        },
+        {
+          "item_id": 2912,
+          "name": "artemisia dracunculus herb oil",
+          "cas": "8016-88-4",
+          "odor_type": "spicy",
+          "odor": "herbaceous, with a delicious aniseed character Cultivated for its aniseed-flavored leaves, tarragon is an aromatic plant that is very popular in French and Chinese cuisine. A perennial, deciduous plant, tarragon forms a small bush with straight, branched stems. The bright-green leaves are narrow and pointed. Light-green flowers are grouped in loose clusters at the top of the stems. The plant does not produce fertile seeds; reproduction is therefore vegetative: The fibrous roots of the tarragon plant are divided and replanted in small segments between February and March. The harvest takes place in June; a second harvest can be conducted in September. The plants are cut short and then distilled. The plant has a productive lifespan of up to three years and then must be renewed. Tarragon essential oil is herbaceous, with a delicious aniseed character. The Hungary quality has a freshness not found in the France quality, which is earthier.",
+          "source": "Albert Vieille SAS · Tarragon Essential oil Hungary",
+          "chars": 947,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1022891.html"
+        },
+        {
+          "item_id": 17244,
+          "name": "geranium oil egypt",
+          "cas": "8000-46-2",
+          "odor_type": "floral",
+          "odor": "rose notes accented by hints of citronella and mint Rose geranium is a small shrubby bush that releases a pleasant rose-like scent when its leaves are rubbed. These leaves, wavy and scalloped, are covered with small hairs containing the essential oil. The five-petaled flowers are of a pretty pale pink with purple markings. The botanical name Pelargonium comes from Greek pelargos and means “stork”, and the common name, geranium, from the Latin geranos, meaning “crane.” These two bird references are related to the shape of the seeds, resembling long bird beaks. The animal’s traditional symbolism is also associated with the plant: immortality in Taoist China, longevity in Japan, and prosperity in Egypt. The leafy branches, harvested with pruning knives in summer, are distilled fresh. The scent of geranium essential oil is a concentration of the rose notes accented by hints of citronella and mint.",
+          "source": "Albert Vieille SAS · Geranium Essential oil Egypt",
+          "chars": 906,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1005471.html"
+        },
+        {
+          "item_id": 21827,
+          "name": "laurus nobilis leaf oil",
+          "cas": "8007-48-5",
+          "odor_type": "herbal",
+          "odor": "herbaceous, woody with a eucalyptus facet Laurel, also called by various common names like bay laurel and sweet bay, is a tree that has been linked with prestige throughout history. Its foliage symbolizes glory and success and was used to make the famous laurel wreath of victory. Likely native to the Mediterranean countries and Asia Minor, sweet bay has been in use for thousands of years. It has been widely cultivated in the Mediterranean region since ancient times. The laurel is a conical, evergreen tree with small, yellow, star-shaped flowers that give way to black, fleshy berries. The dark-green, smooth, and powerfully aromatic leaves form the raw material that is distilled for the essential oil. Laurel essential oil has an herbaceous, woody fragrance with a eucalyptus facet. The slightly spicy character is reminiscent of the smell of cajeput.",
+          "source": "Albert Vieille SAS · Laurel Essential oil Albania",
+          "chars": 858,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1030061.html"
+        },
+        {
+          "item_id": 7219,
+          "name": "atlas cedarwood oil",
+          "cas": "8023-85-6",
+          "odor_type": "woody",
+          "odor": "mild and woody, with warm and animalic facets The Atlas cedar, a monumental and majestic tree, can grow 40 meters high and over two meters in diameter. The pyramidal shape it takes on when younger changes as the tree ages. Over time, the heavy branches extend horizontally, forming a tree with a flattened top. Cedar has evergreen foliage of dark-green to bluish needles arranged in dense rosettes on short stems. The purportedly rot-impervious wood exudes a delicate, resinous fragrance and is the source of the extracted essential oil. The Atlas cedar is a protected species. The wood used to produce the essential oil comes exclusively from Moroccan sawmills. These businesses, which focus on manufacturing furniture, provide sawdust and trunk shavings for distillation. Atlas cedar essential oil is mild and woody, with warm and animalic facets.",
+          "source": "Albert Vieille SAS · Cedarwood atlas Essential oil Morocco",
+          "chars": 849,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1028531.html"
+        },
+        {
+          "item_id": 21884,
+          "name": "grosso lavandin oil",
+          "cas": "8022-15-9",
+          "odor_type": "floral",
+          "odor": "agrestic, floral, and camphorated Hybrid lavender, is the result of a spontaneous cross between true lavender (Lavandula angustifolia) and spike lavender (Lavandula latifolia). It therefore has characteristics of both lavenders. The color of its flowers ranges from the intense blue-purple of true lavender to the grayer shades of the spike lavender. The latter is also the source of the hybrid’s hardy character and camphorated facet. Hybrid lavender is generally harvested in August. The flowering period occurs after that of true lavender and before that of spike lavender. The tops are mechanically reaped, then chopped by a forage harvester. Distillation is carried out immediately, with no drying period, thus is called “green ground” or “green crushed” distillation. The resulting essential oil is agrestic, floral, and camphorated.",
+          "source": "Albert Vieille SAS · Lavandin grosso Essential oil France",
+          "chars": 839,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1101731.html"
+        },
+        {
+          "item_id": 22535,
+          "name": "linalool",
+          "cas": "78-70-6",
+          "odor_type": "floral",
+          "odor": "Fresh, floral-woody, sweet, citrus Arctander writes extensively about linalool: “Linalool is used very extensively in perfume compositions of almost all types and price levels. Basically a floral material, and originally a Lily-of-the V alley (Muguet) ingredient, it is now used in countless floral types, and in Oriental, Ambre, aldehydic, herbaceous and many other fragrance types. It may even form part of a Citrus fragrance or a woody complex, a Lily, Muguet, Honeysuckle, Lilac, Sweet Pea, NeroIi, Appleblossom, Frangipanni, Freesia, Peony, etc. etc. … Linalool should be the ingredient that gives the lift in an overall heavier composition. Newer derivatives, particularly the higher homologies of Linalool, are excellent modifiers/blenders with proper mellowing effect upon the more volatile Linalool.”",
+          "source": "Pell Wall Perfumes · Linalool",
+          "chars": 809,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007872.html"
+        },
+        {
+          "item_id": 23628,
+          "name": "marine specialty",
+          "cas": "",
+          "odor_type": "green",
+          "odor": "clean ozonic air fused with sun dried tropical woods Inspired by a visit to the islands of the Indian Ocean. Reminiscent of walking on the beach, this high impact, substantive base features an accord of clean ozonic air fused with sun dried tropical woods. Ultrazur can be used in most applications where a fresh, substantive, ozonic note is desired. It associates extremely well with fresh, citrus, floral, chypre, aromatic, agrestic, spices, white florals and woody. Ultrazur brings a substantive, fresh sea aspect to fragrances, helps to add volume and diffisivity and at the same time, rounds out a composition and sheers out florals. Trace amounts allow to modify a fragrance while several percent can be used to impart a fresh, ozonic, slightly ambery aspect to laundry and mens' Fine Fragrance.",
+          "source": "Givaudan · Ultrazur",
+          "chars": 801,
+          "detail_url": "https://www.thegoodscentscompany.com/data/pb1000671.html"
+        },
+        {
+          "item_id": 2175,
+          "name": "angelica seed oil",
+          "cas": "8015-64-3",
+          "odor_type": "terpenic",
+          "odor": "herbaceous and spicy with an earthy facet The angelica or archangel is an aromatic herb reaching over two meters in height. It is a short-lived plant, blooming only once before dying. It has large, hollow, fluted, reddish stems that bear large, serrated leaves separated into leaflets. The inflorescences  composed of a dozen yellow-green flowers arranged in large umbels  bloom in July and give way to long, flattened fruits. The seeds of angelica are harvested like dill seed: the umbel-bearing stems are cut and dried in the open air when the fruits turn brown. The picking process is repeated several times, as and when the seeds ripen. The essential oil obtained from angelica seeds is herbaceous and spicy with an earthy facet. The roots also produce an essential oil with a different odor.",
+          "source": "Albert Vieille SAS · Angelica seeds Essential oil Belgium",
+          "chars": 798,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1015931.html"
+        },
+        {
+          "item_id": 24633,
+          "name": "methyl anthranilate",
+          "cas": "134-20-3",
+          "odor_type": "fruity",
+          "odor": "Dry, floral-neroli, grapes, Orangeblossom. Tenacious Arctander says of it: “This ester is widely used in perfume compositions as a sweet-floral Orangeblossom-type ingredient. Often applied in combination with Petitgrain oil, it supplies much of the background in Cashmere bouquet type fragrances and other Oriental, heavy floral or sweet-woody types.” he goes on to point out that methyl anthranilate produces “condensation products with various aldehydes (Schiff’s bases) or with Acetophenone, Musk Ketone, Ionones, etc. are often utilized in perfume compositions. It should therefore be kept in mind that when Methyl anthranilate is used in compositions with one or more of the named (or other) aldehydes and ketones, there is a good chance of chemical processes taking place in the perfume oil.",
+          "source": "Pell Wall Perfumes · Methyl Anthranilate",
+          "chars": 797,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008211.html"
+        },
+        {
+          "item_id": 14914,
+          "name": "ethyl linalool",
+          "cas": "10339-55-6",
+          "odor_type": "floral",
+          "odor": "Fresh, floral, herbal-coriander, rosewood, wet, green, bergamot, lavender Arctander seems quite enthusiastic: “This alcohol has been suggested for use in perfume compositions as a modifier for LinaIool with certain advantages over that marerial. Ethyl Iinalool has a somewhat slower rate of evaporation and is easier to work with, needs only normal fixation, and blends with more materials. It introduces softer, more floral-woody, less citrusy notes, according to the composition in which it is used. Along with Ethyl Iinalyl acetate, it forms a pleasant Bergamot-type background note even in soap perfumes, a combination which is more stable than Bergamot oil itself. The alcohol is also an interesting item in Muguet, Lilac, Lily, Appleblossom, etc. as well as in fantasy creations.”",
+          "source": "Pell Wall Perfumes · Ethyl Linalool",
+          "chars": 786,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1015171.html"
+        },
+        {
+          "item_id": 22043,
+          "name": "leerall",
+          "cas": "31906-04-4",
+          "odor_type": "floral",
+          "odor": "Floral-muguet, aldehydic, powdery Arctander writes very enthusiastically about this material: “Lyral was at first believed to be of fixative value only, e. g. in high-class soap perfumes, etc. But it was soon discovered that Lyral has a floral volume which, when properly cultivated’ by the creative perfumer, often outperforms Hydrocitronellal and any other floral chemical or combination of chemicals, its application is therefore continuously expanding from the single floral Muguet to become the must’ in cosmetic fragrances where tenacity and sweet-powdery, stable terminal notes are called for. It blends excellently with the Ionones and with the conventional resinoids (Styrax, Tolu, Peru, etc. ) and it may either accompany Hydroxycitronellal or substitute it.",
+          "source": "Pell Wall Perfumes · Lyral",
+          "chars": 770,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007972.html"
+        },
+        {
+          "item_id": 20729,
+          "name": "alpha-ionone",
+          "cas": "127-41-3",
+          "odor_type": "floral",
+          "odor": "Floral-violet, sweet, warm-woody, balsamic-floral The most floral and violet of the ionones, that is, as Arctander points out: “used widely in perfume compositions of almost all types. It is many decades since the single floral Violet note was appreciated as a fragrance for cosmetic purposes, but lonone has found numerous other applications. The use of lonone in Rose bases is very common and generally well liked, and smaller amounts of lonone are used in woody, herbaceous, floral, balsamic, piney or Citrus-like fragrances. It is almost not possibe to name a fragrance in which Ionone has not been tried for modifications, blending, floralizing mellowing etc. It is often part of the highly desirable complex that displays powdery’ undertones in a fragrance.“",
+          "source": "Pell Wall Perfumes · Ionone alpha",
+          "chars": 765,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1011952.html"
+        },
+        {
+          "item_id": 3813,
+          "name": "beeswax absolute",
+          "cas": "8012-89-3",
+          "odor_type": "hay",
+          "odor": "balsamic and deliciously redolent of honey, with an animalic facet Beeswax is a natural raw material produced in beehives. When the worker bee reaches a certain age, it develops wax glands in the abdomen. These glands produce very fine “wax scales” that emerge from between the abdomen rings. Fresh beeswax is transparent and colorless. It develops its golden color through contact with pollen and honey. The wax scales allow the construction of the honeycomb in the hive and is used to cap the cells filled with honey. Beeswax absolute is extracted from the stripped honeycomb or from cakes of wax (created using the melted honeycomb) through the use of solvents. The fragrance of beeswax is balsamic and deliciously redolent of honey, with an animalic facet.",
+          "source": "Albert Vieille SAS · Beeswax Absolute France",
+          "chars": 760,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1029091.html"
+        },
+        {
+          "item_id": 7234,
+          "name": "cedarwood oil virginia",
+          "cas": "8000-27-9",
+          "odor_type": "woody",
+          "odor": "sweet, woody cedar Eastern Red cedar is a large, slow-growing evergreen that reaches 30 meters in height. It is native to the eastern side of the Rocky Mountains in North America. A member of the Cupressaceae family, it shares botanical attributes with juniper (Juniperus genus) and its cousin, the cypress, for the evergreen foliage is composed of overlapping scales and needles. The fruits are globular, purple-brown berries reminiscent of juniper berries. The red-brown heartwood earned the tree the name “Red cedar.” Eastern Red cedar essential oil is distilled from sawdust and shavings from American wood mills. The sweet, woody fragrance of the essential oil is characteristic of the “cedar” notes found with Atlas cedar, but enhanced by a pencil facet.",
+          "source": "Albert Vieille SAS · Cedarwood Virginia Essential oil United States",
+          "chars": 760,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1002992.html"
+        },
+        {
+          "item_id": 12317,
+          "name": "dihydro-beta-ionone",
+          "cas": "17283-81-7",
+          "odor_type": "woody",
+          "odor": "Floral-violet, woody, ambergris, fruity-berry Arcadi Boix Camps, writing in 1999, says it “has an odor somewhat mild, woody, floral and slightly fruity, possessing great beauty. It is a relatively old product that has only recently found a wider audience when introduced in the creative accord of Issey Miyaki for ladies. Afterwards it was used in many fragrances, among them Dolce Vita and Bulgari for ladies. However it is found in traces in many fragrances because it is an important part of the reconstruction of osmanthus absolute, along with dihydro-beta-ionol, gamma-decalactone and theaspirane. I believe it will be used increasingly in perfumery, with many accords being created with its complex and ambiguous, floral, woody and fruity notes.”",
+          "source": "Pell Wall Perfumes · Dihydro Ionone Beta",
+          "chars": 752,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1019322.html"
+        },
+        {
+          "item_id": 11062,
+          "name": "cypress leaf oil",
+          "cas": "8013-86-3",
+          "odor_type": "terpenic",
+          "odor": "terpenic family / aromatic, green, diffusive, spicy Although it originated in Persia, the Cypress plant is also a common sight in Mediterranean landscapes. In Morocco, Cypress is often grown in hedges to protect cropland. The hedges are periodically pruned, providing a raw material that is transformed into an essential oil by Biolandes Maroc. The distillation of Cypress clippings is also a tradition in Provence. A farmer located near our Valréas site has developed certified organic Cypress. The young plants are harvested by machine and yield a very \"leafy\" raw material. After cutting, they sprout again and regrow. Biolandes' organic (Ecocert EC) essential oil of Cypress is a sustainable product with a significant availability.",
+          "source": "Biolandes Parfumerie · cypress oil Morocco",
+          "chars": 736,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1004291.html"
+        },
+        {
+          "item_id": 1914,
+          "name": "alpha-amyl cinnamaldehyde",
+          "cas": "122-40-7",
+          "odor_type": "floral",
+          "odor": "soft-floral, fresh, jasmine, slight spice Arctander has quite a bit to say about the material: “Very mild oily-herbaceous and somewhat floral odor, reminiscent of many types of natural flowers, but mostly of Jasmin, Gardenia and Tuberose. Introduces Jasmin-like floralness when accompanied by more volatile chemicals of floral character. Blends excellently and assists in fixation of the fragrance (ACA is quite tenacious) … ACA is very susceptible to oxidation unless properly treated with an antioxidant (conventionally added by most manufacturers). Old or oxidized ACA has [an] objectionable, rancid-fatty odor. Lower grades of ACA may show by-odor of Benzaldehyde, Heptaldehyde or Amyl nonenal, sometimes called Di-heptenal.",
+          "source": "Pell Wall Perfumes · Amyl Cinnamic Aldehyde",
+          "chars": 728,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001011.html"
+        },
+        {
+          "item_id": 23620,
+          "name": "marine decadienal",
+          "cas": "762-26-5",
+          "odor_type": "citrus",
+          "odor": "Fresh-citrus, aldehydic, ozonic, marine, floral. Powerful and diffusive Arcadi Boix Camps, writing in 1999 says that “Floral Super and geraldehyde … are extremely strong aldehydes and, as usual in chemicals with this structure, have strong citrussy floral notes that combine very well with other aldehydes, especially aliphatic, but also with products such as 4-decenal. I personally love these products and use them in small traces in all kinds of fragrances because they increase the power, radiance and elegance of them.” He goes on to assert that they are “far better than the aliphatic aldehydes” but also that those aldehydes are improved by blending with products such as Floral Super and Geraldehyde.",
+          "source": "Pell Wall Perfumes · Geraldehyde",
+          "chars": 708,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1020071.html"
+        },
+        {
+          "item_id": 9167,
+          "name": "clary propionate",
+          "cas": "319002-92-1",
+          "odor_type": "floral",
+          "odor": "clary sage, floral, fresh, linalool Excellent supplement to (and to some extent substitute for) clary sage oil and absolute, this material is also an extremely versatile fresh, floralising element in almost any perfume composition where something more original than DHM is needed or to replace linalool where a clean label’ is required. Firmenich describe it like this: “Odor: White floral, clary sage note between Linalol and Linalylacetate, very natural Use: A white floral, clary sage, non-allergen muguet note. Can be used like Linalol, Dihydromyrcenol, Coranol from low dosages to very high dosages.” This versatile product is stable in most media including candles and is generally very easy to use.",
+          "source": "Pell Wall Perfumes · Sclareolate",
+          "chars": 706,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1375031.html"
+        },
+        {
+          "item_id": 1579,
+          "name": "amber carbinol",
+          "cas": "87118-95-4",
+          "odor_type": "woody",
+          "odor": "Woody, amber, dry, floral, vetiver An exceptionally high quality woody-amber material with floral aspects and great potential for blending. Here’s Arcadi Boix Camps writing in 1999: Kohinool “has a woody, floral, amber note with an unsurpassable beauty that combines extrememly well with Iso E Super, making what I believe is a dream accord. In the past I used to say that nothing was comparable to vetyveryl acetate or vetyverol, but, upon seeing mixtures of Iso E Super, Kohinool, cedroxyde, nor limbanol, boisanol, trimofix and amber ketal, my mind changed. They are as great as the previously mentioned old and classical products. The best well-known use of Kohinool is Herrera for Men (around 5%).”",
+          "source": "Pell Wall Perfumes · Kohinool",
+          "chars": 703,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007661.html"
+        },
+        {
+          "item_id": 4409,
+          "name": "alpha-bisabolol",
+          "cas": "515-69-5",
+          "odor_type": "floral",
+          "odor": "Floral, sweet, balsamic. Mild. Fixative Arctander describes it as \"Sweet and very mild, delicately floral odor.” and goes on to point out that at that time “Although not regularly available or generally offered as a synthetic material yet, this sesquiterpene alcohol should soon become known and possibly find use as a blender / fixative of very versatile use. Its acceptability and popularity will, of course, largely depend upon the cost level. But with the enormous drop in the cost of synthetic Nerolidol over a period of less than 10 years to a level where this alcohol can be used in almost any type of fragrance, there may be good hope that Bisabolol can achieve a similar level of popuIarity.\"",
+          "source": "Pell Wall Perfumes · Bisabolol",
+          "chars": 701,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1042821.html"
+        },
+        {
+          "item_id": 11065,
+          "name": "cypriol oil (cyperus scariosus)",
+          "cas": "68916-60-9",
+          "odor_type": "woody",
+          "odor": "woody-earthy smell with a spicy note Cypriol is an herbaceous plant with morphology similar to papyrus plants, as both plants are members of the Cyperus genus. The erect, angular stems bear short, slender, brilliant-green leaves. The aromatic rhizomes form a dense root system. The plants grow in riverbeds in India’s Madhya Pradesh state. To produce the essential oil, the roots and rhizomes are harvested from April to June by members of neighboring tribes. The raw material is collected in the villages and transported to the production plant. The roots are washed and dried in the same way as vetiver roots. Cypriol/Nagarmotha essential oil has a tenacious, woody-earthy smell with a spicy note.",
+          "source": "Albert Vieille SAS · Cypriol Essential oil India",
+          "chars": 699,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1385381.html"
+        },
+        {
+          "item_id": 16704,
+          "name": "furfuryl mercaptan",
+          "cas": "98-02-2",
+          "odor_type": "coffee",
+          "odor": "burnt Flavor threshold in water: 0.04 ppb. Found as a natural constituent in Roasted offee in 1926, it has long been used as the character impact compound in Artificial Coffee flavors. At 0.1-1 ppb this material is coffee-like, but at 5-10 ppb it has a stale coffee & sulphury character (Tressl, 1989). Mosciano, et. al. (1997) describe the odor as \"sulphurous, coffee, savory and meaty with a pungent nuance\" and the taste (at 1.0 ppm) as \"Sulphurous, roasted, onion, garlic, coffee and sesame\". Used in Coffee, Chocolate, Meat, Smoke, Nut, Toffee and Caramel flavors. Normal use levels in finished consumer product: 0.0001-0.5 ppm. Council of Europe limits: Foods (30 ppm); Beverages (1 ppm).",
+          "source": "R C Treatt & Co Ltd · Furfuryl Mercaptan Halal, Kosher",
+          "chars": 694,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008451.html"
+        },
+        {
+          "item_id": 23214,
+          "name": "magnolia decadienal",
+          "cas": "71077-31-1",
+          "odor_type": "floral",
+          "odor": "Floral-muguet cyclamen and magnolia, fresh-citrus, aldehydic. Powerful Arcadi Boix Camps, writing in 1999 says that “Floral Super and geraldehyde … are extremely strong aldehydes and, as usual in chemicals with this structure, have strong citrussy floral notes that combine very well with other aldehydes, especially aliphatic, but also with products such as 4-decenal. I personally love these products and use them in small traces in all kinds of fragrances because they increase the power, radiance and elegance of them.” He goes on to assert that they are “far better than the aliphatic aldehydes” but also that those aldehydes are improved by blending with products such as Floral Super.",
+          "source": "Pell Wall Perfumes · Floral Super",
+          "chars": 691,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1042691.html"
+        },
+        {
+          "item_id": 10913,
+          "name": "cyclotene",
+          "cas": "765-70-8",
+          "odor_type": "caramellic",
+          "odor": "Sweet, caramel, maple sugar, coffee, woody, curry, bready Arctander suggests it “is used sparingly in perfume compositions often in combination with Coumarin or Coumarin derivatives. It is an excellent fortifier for such materials in Lavender fragrances, New Mown Hay, tabac’ type fragrances, spicy bases, etc. It falls naturally into Celery seed oil, Lovage, Fenugreek, Tonka, Liatris, Flouve etc.” and he also describes it as “Sweet and very powerful, caramellic-spicy odor, described by different individuals with quite a variation of terms and phrases: Walnut  Maple  Licorice  Celery  Tobacco etc. particularly when studied in the un-diluted state by laymen.",
+          "source": "Pell Wall Perfumes · Maple Lactone (10% in ethanol)",
+          "chars": 668,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1012711.html"
+        },
+        {
+          "item_id": 20842,
+          "name": "alpha-irone",
+          "cas": "79-69-6",
+          "odor_type": "floral",
+          "odor": "Sweet, floral, orris, woody, raspberry, powdery, ambery Arctander tells us that: “With skilful use and blending with the proper lonone derivatives. it is possible to fully utilize the Irone, but its perfumery application remains restricted by cost and unfortunately, lack of experience in the use of this exquisite material … The odor is soft, warm, Orris-Violet-like, sweet and extremely diffusive. Its true power and effect is clearly demonstrated in dilutions or in active use at concentrations near one percent in a perfume composition. The lift’ and the radiance introduced by this ketone are its greatest assets and advantages to compensate for its high cost.”",
+          "source": "Pell Wall Perfumes · Irone, alpha",
+          "chars": 667,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006691.html"
+        }
+      ]
+    },
+    {
+      "id": "full_html_hits",
+      "title": "Full HTML · IFF / IFRA",
+      "description": "Completed pages whose archived HTML mentions IFF or IFRA.",
+      "sql": "SELECT\n          i.item_id,\n          COALESCE(i.detail_name, l.name) AS name,\n          COALESCE(l.cas, '') AS cas,\n          CASE\n            WHEN lower(ps.text_content) LIKE '%iff%' AND lower(ps.text_content) LIKE '%ifra%' THEN 'IFF+IFRA'\n            WHEN lower(ps.text_content) LIKE '%iff%' THEN 'IFF'\n            ELSE 'IFRA'\n          END AS hit,\n          LENGTH(ps.text_content) AS html_chars,\n          i.detail_url\n        FROM page_section AS ps\n        JOIN tgsc_item AS i ON i.item_id = ps.item_id\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE ps.section_key = 'full_document'\n          AND (\n            lower(ps.text_content) LIKE '%iff%'\n            OR lower(ps.text_content) LIKE '%ifra%'\n          )\n        GROUP BY i.item_id\n        ORDER BY html_chars DESC\n        LIMIT 40",
+      "rows": [
+        {
+          "item_id": 7997,
+          "name": "chloramphenicol",
+          "cas": "56-75-7",
+          "hit": "IFF",
+          "html_chars": 154438,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1228131.html"
+        },
+        {
+          "item_id": 8716,
+          "name": "citral",
+          "cas": "5392-40-5",
+          "hit": "IFF+IFRA",
+          "html_chars": 151010,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1003432.html"
+        },
+        {
+          "item_id": 22535,
+          "name": "linalool",
+          "cas": "78-70-6",
+          "hit": "IFF+IFRA",
+          "html_chars": 135552,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007872.html"
+        },
+        {
+          "item_id": 8776,
+          "name": "citronellol",
+          "cas": "106-22-9",
+          "hit": "IFF+IFRA",
+          "html_chars": 125917,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007032.html"
+        },
+        {
+          "item_id": 22626,
+          "name": "linseed",
+          "cas": "",
+          "hit": "IFF",
+          "html_chars": 117124,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rs1659241.html"
+        },
+        {
+          "item_id": 16441,
+          "name": "formic acid",
+          "cas": "64-18-6",
+          "hit": "IFF",
+          "html_chars": 116703,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008401.html"
+        },
+        {
+          "item_id": 19199,
+          "name": "(E)-2-hexenal",
+          "cas": "6728-26-3",
+          "hit": "IFF+IFRA",
+          "html_chars": 114975,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1013831.html"
+        },
+        {
+          "item_id": 17215,
+          "name": "geraniol",
+          "cas": "106-24-1",
+          "hit": "IFF+IFRA",
+          "html_chars": 114531,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006992.html"
+        },
+        {
+          "item_id": 6961,
+          "name": "beta-caryophyllene",
+          "cas": "87-44-5",
+          "hit": "IFF+IFRA",
+          "html_chars": 110750,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1060851.html"
+        },
+        {
+          "item_id": 24672,
+          "name": "methyl bromide",
+          "cas": "74-83-9",
+          "hit": "IFF",
+          "html_chars": 106189,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1225721.html"
+        },
+        {
+          "item_id": 11126,
+          "name": "daidzein",
+          "cas": "486-66-8",
+          "hit": "IFF",
+          "html_chars": 103599,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1504461.html"
+        },
+        {
+          "item_id": 22557,
+          "name": "linalyl acetate",
+          "cas": "115-95-7",
+          "hit": "IFF+IFRA",
+          "html_chars": 101448,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007892.html"
+        },
+        {
+          "item_id": 19277,
+          "name": "(Z)-3-hexen-1-yl acetate",
+          "cas": "3681-71-8",
+          "hit": "IFF+IFRA",
+          "html_chars": 99999,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001471.html"
+        },
+        {
+          "item_id": 16221,
+          "name": "fipronil",
+          "cas": "120068-37-3",
+          "hit": "IFF",
+          "html_chars": 99924,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1669371.html"
+        },
+        {
+          "item_id": 19250,
+          "name": "(Z)-3-hexen-1-ol",
+          "cas": "928-96-1",
+          "hit": "IFF+IFRA",
+          "html_chars": 99189,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1005931.html"
+        },
+        {
+          "item_id": 16676,
+          "name": "furfural",
+          "cas": "98-01-1",
+          "hit": "IFF+IFRA",
+          "html_chars": 98648,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008441.html"
+        },
+        {
+          "item_id": 10569,
+          "name": "cyanamide",
+          "cas": "420-04-2",
+          "hit": "IFF",
+          "html_chars": 98563,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1232101.html"
+        },
+        {
+          "item_id": 11303,
+          "name": "decanal (aldehyde C-10)",
+          "cas": "112-31-2",
+          "hit": "IFF+IFRA",
+          "html_chars": 97353,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1000171.html"
+        },
+        {
+          "item_id": 11001,
+          "name": "para-cymene",
+          "cas": "99-87-6",
+          "hit": "IFF+IFRA",
+          "html_chars": 96502,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1032712.html"
+        },
+        {
+          "item_id": 17267,
+          "name": "geranyl acetate",
+          "cas": "105-87-3",
+          "hit": "IFF+IFRA",
+          "html_chars": 94292,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1030092.html"
+        },
+        {
+          "item_id": 8765,
+          "name": "citronellal",
+          "cas": "106-23-0",
+          "hit": "IFF+IFRA",
+          "html_chars": 91624,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1032651.html"
+        },
+        {
+          "item_id": 21471,
+          "name": "lactobacillus acidophilus",
+          "cas": "68333-16-4",
+          "hit": "IFF",
+          "html_chars": 90142,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rs1679161.html"
+        },
+        {
+          "item_id": 15637,
+          "name": "eugenol",
+          "cas": "97-53-0",
+          "hit": "IFF+IFRA",
+          "html_chars": 87475,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1004991.html"
+        },
+        {
+          "item_id": 10157,
+          "name": "creatine",
+          "cas": "57-00-1",
+          "hit": "IFF",
+          "html_chars": 86142,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1231871.html"
+        },
+        {
+          "item_id": 20729,
+          "name": "alpha-ionone",
+          "cas": "127-41-3",
+          "hit": "IFF+IFRA",
+          "html_chars": 83998,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1011952.html"
+        },
+        {
+          "item_id": 14146,
+          "name": "enterococcus faecium",
+          "cas": "68876-78-8",
+          "hit": "IFF",
+          "html_chars": 83240,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rs1696751.html"
+        },
+        {
+          "item_id": 19415,
+          "name": "hexyl acetate",
+          "cas": "142-92-7",
+          "hit": "IFF+IFRA",
+          "html_chars": 83140,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1003201.html"
+        },
+        {
+          "item_id": 8475,
+          "name": "1,8-cineole",
+          "cas": "470-82-6",
+          "hit": "IFF+IFRA",
+          "html_chars": 82663,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1056361.html"
+        },
+        {
+          "item_id": 14621,
+          "name": "ethyl butyrate",
+          "cas": "105-54-4",
+          "hit": "IFF+IFRA",
+          "html_chars": 81980,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1004792.html"
+        },
+        {
+          "item_id": 20678,
+          "name": "inositol",
+          "cas": "87-89-8",
+          "hit": "IFF",
+          "html_chars": 81121,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1251621.html"
+        },
+        {
+          "item_id": 14956,
+          "name": "ethyl 2-methyl butyrate",
+          "cas": "7452-79-1",
+          "hit": "IFF+IFRA",
+          "html_chars": 80993,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1004871.html"
+        },
+        {
+          "item_id": 20730,
+          "name": "beta-ionone",
+          "cas": "14901-07-6",
+          "hit": "IFF+IFRA",
+          "html_chars": 80868,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006632.html"
+        },
+        {
+          "item_id": 24633,
+          "name": "methyl anthranilate",
+          "cas": "134-20-3",
+          "hit": "IFF+IFRA",
+          "html_chars": 80260,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008211.html"
+        },
+        {
+          "item_id": 11153,
+          "name": "beta-damascenone",
+          "cas": "23696-85-7",
+          "hit": "IFF+IFRA",
+          "html_chars": 79813,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1021911.html"
+        },
+        {
+          "item_id": 11295,
+          "name": "gamma-decalactone",
+          "cas": "706-14-9",
+          "hit": "IFF+IFRA",
+          "html_chars": 79767,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1012281.html"
+        },
+        {
+          "item_id": 14812,
+          "name": "ethyl hexanoate",
+          "cas": "123-66-0",
+          "hit": "IFF+IFRA",
+          "html_chars": 78676,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1004811.html"
+        },
+        {
+          "item_id": 24946,
+          "name": "methyl dihydrojasmonate",
+          "cas": "24851-98-7",
+          "hit": "IFF+IFRA",
+          "html_chars": 78505,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1015272.html"
+        },
+        {
+          "item_id": 8782,
+          "name": "citronellyl acetate",
+          "cas": "150-84-5",
+          "hit": "IFF+IFRA",
+          "html_chars": 78442,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1012172.html"
+        },
+        {
+          "item_id": 15500,
+          "name": "eucalyptus globulus oil",
+          "cas": "8000-48-4",
+          "hit": "IFF+IFRA",
+          "html_chars": 78237,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1002861.html"
+        },
+        {
+          "item_id": 13134,
+          "name": "dimethyl sulfoxide",
+          "cas": "67-68-5",
+          "hit": "IFF",
+          "html_chars": 78224,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1108491.html"
+        }
+      ]
+    },
+    {
+      "id": "item_wide",
+      "title": "Item snapshot (wide)",
+      "description": "One completed item with counts across collected tables.",
+      "sql": "SELECT\n          i.item_id,\n          COALESCE(i.detail_name, l.name) AS name,\n          COALESCE(l.cas, '') AS listing_cas,\n          i.odor_type,\n          i.odor_strength,\n          i.formula,\n          i.molecular_weight,\n          i.detail_status,\n          (SELECT COUNT(*) FROM chemical_record c WHERE c.item_id = i.item_id) AS chem_records,\n          (SELECT COUNT(*) FROM identifier_assertion ia WHERE ia.item_id = i.item_id) AS identifiers,\n          (SELECT COUNT(*) FROM name_assertion n WHERE n.item_id = i.item_id) AS names,\n          (SELECT COUNT(*) FROM property_observation p WHERE p.item_id = i.item_id) AS properties,\n          (SELECT COUNT(*) FROM sensory_observation s WHERE s.item_id = i.item_id) AS sensory,\n          (SELECT COUNT(*) FROM occurrence o WHERE o.item_id = i.item_id) AS occurrences,\n          (SELECT COUNT(*) FROM use_level u WHERE u.item_id = i.item_id) AS use_levels,\n          (SELECT COUNT(*) FROM page_section ps WHERE ps.item_id = i.item_id) AS sections,\n          (SELECT MAX(LENGTH(ps.text_content)) FROM page_section ps\n             WHERE ps.item_id = i.item_id AND ps.section_key = 'full_document') AS full_html_chars,\n          i.detail_url\n        FROM tgsc_item AS i\n        LEFT JOIN listing AS l ON l.item_id = i.item_id\n        WHERE i.detail_status = 'complete'\n        GROUP BY i.item_id\n        ORDER BY sensory DESC, sections DESC, i.detail_scraped_at DESC\n        LIMIT 40",
+      "rows": [
+        {
+          "item_id": 11361,
+          "name": "(E)-2-decenal",
+          "listing_cas": "3913-81-3",
+          "odor_type": "fatty",
+          "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+          "formula": "C10H18O",
+          "molecular_weight": "154.25266000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 11,
+          "names": 26,
+          "properties": 18,
+          "sensory": 51,
+          "occurrences": 17,
+          "use_levels": 53,
+          "sections": 19,
+          "full_html_chars": 45631,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007761.html"
+        },
+        {
+          "item_id": 25102,
+          "name": "4-methyl guaiacol",
+          "listing_cas": "93-51-6",
+          "odor_type": "spicy",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C8H10O2",
+          "molecular_weight": "138.16610000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 38,
+          "properties": 15,
+          "sensory": 49,
+          "occurrences": 26,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 54279,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1020341.html"
+        },
+        {
+          "item_id": 9357,
+          "name": "cocoa hexenal",
+          "listing_cas": "21834-92-4",
+          "odor_type": "chocolate",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C13H16O",
+          "molecular_weight": "188.26972000",
+          "detail_status": "complete",
+          "chem_records": 3,
+          "identifiers": 17,
+          "names": 35,
+          "properties": 17,
+          "sensory": 48,
+          "occurrences": 9,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 46208,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1035461.html"
+        },
+        {
+          "item_id": 9175,
+          "name": "clary sage oil france",
+          "listing_cas": "8016-63-5",
+          "odor_type": "herbal",
+          "odor_strength": "medium",
+          "formula": null,
+          "molecular_weight": null,
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 7,
+          "names": 19,
+          "properties": 26,
+          "sensory": 48,
+          "occurrences": 1,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 40987,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1018512.html"
+        },
+        {
+          "item_id": 8776,
+          "name": "citronellol",
+          "listing_cas": "106-22-9",
+          "odor_type": "floral",
+          "odor_strength": "medium",
+          "formula": "C10H20O",
+          "molecular_weight": "156.26860000",
+          "detail_status": "complete",
+          "chem_records": 2,
+          "identifiers": 17,
+          "names": 48,
+          "properties": 32,
+          "sensory": 48,
+          "occurrences": 107,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 125917,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007032.html"
+        },
+        {
+          "item_id": 16527,
+          "name": "frankincense oil",
+          "listing_cas": "8016-36-2",
+          "odor_type": "terpenic",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": null,
+          "molecular_weight": null,
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 6,
+          "names": 29,
+          "properties": 14,
+          "sensory": 46,
+          "occurrences": 1,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 70536,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1004051.html"
+        },
+        {
+          "item_id": 3686,
+          "name": "barosma betulina leaf oil",
+          "listing_cas": "68650-46-4",
+          "odor_type": "herbal",
+          "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+          "formula": null,
+          "molecular_weight": null,
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 5,
+          "names": 25,
+          "properties": 12,
+          "sensory": 46,
+          "occurrences": 1,
+          "use_levels": 34,
+          "sections": 0,
+          "full_html_chars": null,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1000711.html"
+        },
+        {
+          "item_id": 24946,
+          "name": "methyl dihydrojasmonate",
+          "listing_cas": "24851-98-7",
+          "odor_type": "floral",
+          "odor_strength": "medium",
+          "formula": "C13H22O3",
+          "molecular_weight": "226.31594000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 40,
+          "properties": 35,
+          "sensory": 45,
+          "occurrences": 3,
+          "use_levels": 53,
+          "sections": 19,
+          "full_html_chars": 78505,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1015272.html"
+        },
+        {
+          "item_id": 18052,
+          "name": "grapefruit menthane",
+          "listing_cas": "68398-18-5",
+          "odor_type": "sulfurous",
+          "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+          "formula": "C10H18S",
+          "molecular_weight": "170.31846000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 11,
+          "names": 17,
+          "properties": 13,
+          "sensory": 45,
+          "occurrences": 1,
+          "use_levels": 53,
+          "sections": 19,
+          "full_html_chars": 40268,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1399071.html"
+        },
+        {
+          "item_id": 20729,
+          "name": "alpha-ionone",
+          "listing_cas": "127-41-3",
+          "odor_type": "floral",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C13H20O",
+          "molecular_weight": "192.30160000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 46,
+          "properties": 34,
+          "sensory": 44,
+          "occurrences": 16,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 83998,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1011952.html"
+        },
+        {
+          "item_id": 15097,
+          "name": "ethyl octanoate",
+          "listing_cas": "106-32-1",
+          "odor_type": "waxy",
+          "odor_strength": "medium",
+          "formula": "C10H20O2",
+          "molecular_weight": "172.26780000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 22,
+          "properties": 17,
+          "sensory": 44,
+          "occurrences": 24,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 58272,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1056351.html"
+        },
+        {
+          "item_id": 11153,
+          "name": "beta-damascenone",
+          "listing_cas": "23696-85-7",
+          "odor_type": "floral",
+          "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+          "formula": "C13H18O",
+          "molecular_weight": "190.28566000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 39,
+          "properties": 25,
+          "sensory": 44,
+          "occurrences": 24,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 79813,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1021911.html"
+        },
+        {
+          "item_id": 19415,
+          "name": "hexyl acetate",
+          "listing_cas": "142-92-7",
+          "odor_type": "fruity",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C8H16O2",
+          "molecular_weight": "144.21392000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 26,
+          "properties": 30,
+          "sensory": 43,
+          "occurrences": 37,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 83140,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1003201.html"
+        },
+        {
+          "item_id": 19247,
+          "name": "(Z)-2-hexen-1-ol",
+          "listing_cas": "928-94-9",
+          "odor_type": "green",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C6H12O",
+          "molecular_weight": "100.16084000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 16,
+          "properties": 15,
+          "sensory": 43,
+          "occurrences": 21,
+          "use_levels": 53,
+          "sections": 19,
+          "full_html_chars": 32371,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1026641.html"
+        },
+        {
+          "item_id": 17311,
+          "name": "geranyl propionate",
+          "listing_cas": "105-90-8",
+          "odor_type": "floral",
+          "odor_strength": "medium",
+          "formula": "C13H22O2",
+          "molecular_weight": "210.31674000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 32,
+          "properties": 21,
+          "sensory": 43,
+          "occurrences": 15,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 47001,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1005591.html"
+        },
+        {
+          "item_id": 8804,
+          "name": "citronellyl formate",
+          "listing_cas": "105-85-1",
+          "odor_type": "floral",
+          "odor_strength": "medium",
+          "formula": "C11H20O2",
+          "molecular_weight": "184.27880000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 24,
+          "properties": 29,
+          "sensory": 43,
+          "occurrences": 20,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 54219,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1017871.html"
+        },
+        {
+          "item_id": 6908,
+          "name": "4-carvomenthenol",
+          "listing_cas": "562-74-3",
+          "odor_type": "spicy",
+          "odor_strength": "medium",
+          "formula": "C10H18O",
+          "molecular_weight": "154.25266000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 46,
+          "properties": 16,
+          "sensory": 43,
+          "occurrences": 423,
+          "use_levels": 34,
+          "sections": 0,
+          "full_html_chars": null,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1021751.html"
+        },
+        {
+          "item_id": 5305,
+          "name": "butyl hexanoate",
+          "listing_cas": "626-82-4",
+          "odor_type": "fruity",
+          "odor_strength": "medium",
+          "formula": "C10H20O2",
+          "molecular_weight": "172.26780000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 19,
+          "properties": 18,
+          "sensory": 43,
+          "occurrences": 17,
+          "use_levels": 34,
+          "sections": 0,
+          "full_html_chars": null,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007591.html"
+        },
+        {
+          "item_id": 25283,
+          "name": "methyl (E)-3-hexenoate",
+          "listing_cas": "13894-61-6",
+          "odor_type": "green",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C7H12O2",
+          "molecular_weight": "128.17104000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 9,
+          "names": 12,
+          "properties": 14,
+          "sensory": 42,
+          "occurrences": 3,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 31556,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1433011.html"
+        },
+        {
+          "item_id": 24314,
+          "name": "methional",
+          "listing_cas": "3268-49-3",
+          "odor_type": "vegetable",
+          "odor_strength": null,
+          "formula": "C4H8OS",
+          "molecular_weight": "104.17196000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 38,
+          "properties": 19,
+          "sensory": 42,
+          "occurrences": 19,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 73197,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1032991.html"
+        },
+        {
+          "item_id": 23899,
+          "name": "melon nonenoate",
+          "listing_cas": "111-79-5",
+          "odor_type": "green",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C10H18O2",
+          "molecular_weight": "170.25186000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 11,
+          "names": 21,
+          "properties": 18,
+          "sensory": 42,
+          "occurrences": 1,
+          "use_levels": 53,
+          "sections": 19,
+          "full_html_chars": 49636,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1015351.html"
+        },
+        {
+          "item_id": 19299,
+          "name": "(Z)-3-hexen-1-yl isobutyrate",
+          "listing_cas": "41519-23-7",
+          "odor_type": "fruity",
+          "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+          "formula": "C10H18O2",
+          "molecular_weight": "170.25186000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 30,
+          "properties": 28,
+          "sensory": 42,
+          "occurrences": 3,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 50342,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1005361.html"
+        },
+        {
+          "item_id": 19277,
+          "name": "(Z)-3-hexen-1-yl acetate",
+          "listing_cas": "3681-71-8",
+          "odor_type": "green",
+          "odor_strength": "high , recommend smelling in a 10.00 % solution or less",
+          "formula": "C8H14O2",
+          "molecular_weight": "142.19798000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 43,
+          "properties": 29,
+          "sensory": 42,
+          "occurrences": 32,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 99999,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001471.html"
+        },
+        {
+          "item_id": 15637,
+          "name": "eugenol",
+          "listing_cas": "97-53-0",
+          "odor_type": "spicy",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C10H12O2",
+          "molecular_weight": "164.20404000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 59,
+          "properties": 22,
+          "sensory": 42,
+          "occurrences": 199,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 87475,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1004991.html"
+        },
+        {
+          "item_id": 13095,
+          "name": "2,3-dimethyl pyrazine",
+          "listing_cas": "5910-89-4",
+          "odor_type": "nutty",
+          "odor_strength": "high , recommend smelling in a 0.10 % solution or less",
+          "formula": "C6H8N2",
+          "molecular_weight": "108.14376000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 17,
+          "properties": 20,
+          "sensory": 42,
+          "occurrences": 21,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 48745,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008121.html"
+        },
+        {
+          "item_id": 12260,
+          "name": "dihydrocoumarin",
+          "listing_cas": "119-84-6",
+          "odor_type": "tonka",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C9H8O2",
+          "molecular_weight": "148.16116000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 43,
+          "properties": 18,
+          "sensory": 42,
+          "occurrences": 5,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 57645,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001531.html"
+        },
+        {
+          "item_id": 11157,
+          "name": "(E)-alpha-damascone",
+          "listing_cas": "24720-09-0",
+          "odor_type": "fruity",
+          "odor_strength": "high , recommend smelling in a 1.00 % solution or less",
+          "formula": "C13H20O",
+          "molecular_weight": "192.30160000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 32,
+          "properties": 24,
+          "sensory": 42,
+          "occurrences": 3,
+          "use_levels": 53,
+          "sections": 19,
+          "full_html_chars": 55819,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006041.html"
+        },
+        {
+          "item_id": 10517,
+          "name": "black currant bud absolute",
+          "listing_cas": "97676-19-2",
+          "odor_type": "spicy",
+          "odor_strength": null,
+          "formula": null,
+          "molecular_weight": null,
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 6,
+          "names": 33,
+          "properties": 11,
+          "sensory": 42,
+          "occurrences": 1,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 44924,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1017621.html"
+        },
+        {
+          "item_id": 8782,
+          "name": "citronellyl acetate",
+          "listing_cas": "150-84-5",
+          "odor_type": "floral",
+          "odor_strength": "medium",
+          "formula": "C12H22O2",
+          "molecular_weight": "198.30574000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 39,
+          "properties": 34,
+          "sensory": 42,
+          "occurrences": 78,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 78442,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1012172.html"
+        },
+        {
+          "item_id": 3813,
+          "name": "beeswax absolute",
+          "listing_cas": "8012-89-3",
+          "odor_type": "hay",
+          "odor_strength": "medium",
+          "formula": null,
+          "molecular_weight": null,
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 7,
+          "names": 19,
+          "properties": 12,
+          "sensory": 42,
+          "occurrences": 1,
+          "use_levels": 34,
+          "sections": 0,
+          "full_html_chars": null,
+          "detail_url": "https://www.thegoodscentscompany.com/data/ab1029091.html"
+        },
+        {
+          "item_id": 2279,
+          "name": "para-anisyl alcohol",
+          "listing_cas": "105-13-5",
+          "odor_type": "powdery",
+          "odor_strength": "medium",
+          "formula": "C8H10O2",
+          "molecular_weight": "138.16610000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 31,
+          "properties": 29,
+          "sensory": 42,
+          "occurrences": 13,
+          "use_levels": 34,
+          "sections": 0,
+          "full_html_chars": null,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1001251.html"
+        },
+        {
+          "item_id": 1911,
+          "name": "isoamyl butyrate",
+          "listing_cas": "106-27-4",
+          "odor_type": "fruity",
+          "odor_strength": "medium",
+          "formula": "C9H18O2",
+          "molecular_weight": "158.24086000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 37,
+          "properties": 31,
+          "sensory": 42,
+          "occurrences": 22,
+          "use_levels": 34,
+          "sections": 0,
+          "full_html_chars": null,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1006752.html"
+        },
+        {
+          "item_id": 19273,
+          "name": "(E)-2-hexen-1-yl acetate",
+          "listing_cas": "2497-18-9",
+          "odor_type": "green",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C8H14O2",
+          "molecular_weight": "142.19798000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 27,
+          "properties": 15,
+          "sensory": 41,
+          "occurrences": 17,
+          "use_levels": 53,
+          "sections": 19,
+          "full_html_chars": 58241,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1031091.html"
+        },
+        {
+          "item_id": 18427,
+          "name": "hazelnut pyrazine",
+          "listing_cas": "18138-04-0",
+          "odor_type": "musty",
+          "odor_strength": "high , recommend smelling in a 0.10 % solution or less",
+          "formula": "C9H14N2",
+          "molecular_weight": "150.22458000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 11,
+          "properties": 16,
+          "sensory": 41,
+          "occurrences": 14,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 36954,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1018961.html"
+        },
+        {
+          "item_id": 17272,
+          "name": "(E)-geranyl acetone",
+          "listing_cas": "3796-70-1",
+          "odor_type": "floral",
+          "odor_strength": "medium",
+          "formula": "C13H22O",
+          "molecular_weight": "194.31754000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 20,
+          "properties": 18,
+          "sensory": 41,
+          "occurrences": 21,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 47602,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1014692.html"
+        },
+        {
+          "item_id": 17267,
+          "name": "geranyl acetate",
+          "listing_cas": "105-87-3",
+          "odor_type": "floral",
+          "odor_strength": "medium",
+          "formula": "C12H20O2",
+          "molecular_weight": "196.28980000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 44,
+          "properties": 35,
+          "sensory": 41,
+          "occurrences": 215,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 94292,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1030092.html"
+        },
+        {
+          "item_id": 9842,
+          "name": "coriander seed oil",
+          "listing_cas": "8008-52-4",
+          "odor_type": "floral",
+          "odor_strength": "medium",
+          "formula": null,
+          "molecular_weight": null,
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 7,
+          "names": 25,
+          "properties": 25,
+          "sensory": 41,
+          "occurrences": 1,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 66896,
+          "detail_url": "https://www.thegoodscentscompany.com/data/es1003771.html"
+        },
+        {
+          "item_id": 7853,
+          "name": "cherry pentenoate",
+          "listing_cas": "1617-23-8",
+          "odor_type": "fruity",
+          "odor_strength": "medium , recommend smelling in a 10.00 % solution or less",
+          "formula": "C8H14O2",
+          "molecular_weight": "142.19798000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 11,
+          "names": 19,
+          "properties": 15,
+          "sensory": 41,
+          "occurrences": 1,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 32626,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1036291.html"
+        },
+        {
+          "item_id": 19432,
+          "name": "hexyl isobutyrate",
+          "listing_cas": "2349-07-7",
+          "odor_type": "green",
+          "odor_strength": "medium",
+          "formula": "C10H20O2",
+          "molecular_weight": "172.26780000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 12,
+          "names": 23,
+          "properties": 20,
+          "sensory": 39,
+          "occurrences": 16,
+          "use_levels": 34,
+          "sections": 19,
+          "full_html_chars": 53258,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1008581.html"
+        },
+        {
+          "item_id": 19334,
+          "name": "(Z)-3-hexen-1-yl hexanoate",
+          "listing_cas": "31501-11-8",
+          "odor_type": "green",
+          "odor_strength": "medium",
+          "formula": "C12H22O2",
+          "molecular_weight": "198.30574000",
+          "detail_status": "complete",
+          "chem_records": 1,
+          "identifiers": 13,
+          "names": 35,
+          "properties": 18,
+          "sensory": 39,
+          "occurrences": 16,
+          "use_levels": 53,
+          "sections": 19,
+          "full_html_chars": 64594,
+          "detail_url": "https://www.thegoodscentscompany.com/data/rw1007981.html"
+        }
+      ]
+    }
+  ],
+  "starters": [
+    {
+      "id": "progress",
+      "title": "Progress",
+      "sql": "SELECT * FROM v_progress;"
+    },
+    {
+      "id": "full_html",
+      "title": "Full HTML by item_id",
+      "sql": "-- Set the item_id, then Run.\nSELECT i.item_id, i.detail_name, ps.section_key,\n       LENGTH(ps.text_content) AS chars,\n       ps.text_content AS full_html\nFROM page_section AS ps\nJOIN tgsc_item AS i ON i.item_id = ps.item_id\nWHERE ps.section_key = 'full_document'\n  AND ps.item_id = 1;\n"
+    },
+    {
+      "id": "html_ifra_iff",
+      "title": "HTML mentioning IFRA/IFF",
+      "sql": "SELECT i.item_id, i.detail_name,\n       LENGTH(ps.text_content) AS chars,\n       substr(ps.text_content, 1, 500) AS html_preview\nFROM page_section AS ps\nJOIN tgsc_item AS i ON i.item_id = ps.item_id\nWHERE ps.section_key = 'full_document'\n  AND (\n    lower(ps.text_content) LIKE '%ifra%'\n    OR lower(ps.text_content) LIKE '%iff%'\n  )\nORDER BY chars DESC\nLIMIT 25;\n"
+    },
+    {
+      "id": "item_wide",
+      "title": "Item counts (wide)",
+      "sql": "SELECT i.item_id, i.detail_name, i.odor_type, i.formula,\n  (SELECT COUNT(*) FROM sensory_observation s WHERE s.item_id = i.item_id) AS sensory,\n  (SELECT COUNT(*) FROM page_section ps WHERE ps.item_id = i.item_id) AS sections,\n  (SELECT COUNT(*) FROM identifier_assertion ia WHERE ia.item_id = i.item_id) AS ids\nFROM tgsc_item AS i\nWHERE i.detail_status = 'complete'\nORDER BY sensory DESC\nLIMIT 40;\n"
+    },
+    {
+      "id": "iff",
+      "title": "IFF odor descriptions",
+      "sql": "SELECT i.detail_name, s.description, s.source_name\nFROM sensory_observation AS s\nJOIN tgsc_item AS i ON i.item_id = s.item_id\nWHERE s.source_name LIKE '%IFF%'\nORDER BY LENGTH(s.description) DESC\nLIMIT 25;"
+    },
+    {
+      "id": "missing_cas",
+      "title": "Complete · no CAS",
+      "sql": "SELECT i.item_id, i.detail_name, i.detail_url\nFROM tgsc_item AS i\nWHERE i.detail_status = 'complete'\n  AND NOT EXISTS (\n    SELECT 1 FROM identifier_assertion AS ia\n    WHERE ia.item_id = i.item_id AND ia.scheme = 'CAS'\n  )\nLIMIT 40;"
+    },
+    {
+      "id": "dup_cas",
+      "title": "Shared CAS",
+      "sql": "SELECT * FROM v_cas_shared_items ORDER BY item_count DESC LIMIT 40;"
+    },
+    {
+      "id": "failed",
+      "title": "Failed pages",
+      "sql": "SELECT item_id, detail_name, detail_error, detail_url\nFROM tgsc_item\nWHERE detail_status = 'failed'\nLIMIT 50;"
+    }
+  ]
+}

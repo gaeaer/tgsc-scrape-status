@@ -1,0 +1,42 @@
+{
+  "built_at": "2026-09-08T21:50:27Z",
+  "progress_updated_at": "2026-09-08T21:48:37.534158+00:00",
+  "sample_count": 120,
+  "view_count": 9,
+  "sqlite": {
+    "tables": {
+      "schema_version": 2,
+      "scrape_run": 40,
+      "tgsc_item": 42233,
+      "listing": 42233,
+      "chemical_record": 19671,
+      "identifier_assertion": 122290,
+      "name_assertion": 233214,
+      "property_observation": 131923,
+      "sensory_observation": 51869,
+      "occurrence": 59131,
+      "use_level": 92573,
+      "page_section": 359252,
+      "validation_issue": 0
+    },
+    "sqlite_bytes": 473833472,
+    "sqlite_gz_bytes": 74718772,
+    "sqlite_mb": 451.88,
+    "sqlite_gz_mb": 71.26,
+    "html": {
+      "html_mode": "omitted",
+      "full_documents": 0,
+      "inserted_from_cache": 0,
+      "missing_cache": 0,
+      "included": false
+    }
+  },
+  "safe_for_pages": true,
+  "html_search_enabled": false,
+  "html_mode": "omitted",
+  "notes": [
+    "Progress/samples work without the search DB.",
+    "Public sqlite drops HTML archive automatically if the gzip would exceed Pages limits.",
+    "HTML search is attempted only while completed ≤ 12000."
+  ]
+}
